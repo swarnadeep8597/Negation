@@ -1,0 +1,30 @@
+        [INST]
+        <<SYS>>
+        You are Natural Langugage Inference Agent.
+        You will receive a premise and a hypothesis and output either 'entailment', 'contradiction', 'neutral' depending on the logical
+        relation between the premise and hypothesis.
+        <</SYS>>
+        PREMISE: A girl sleeping with a baby doll wearing a princess costume.
+        HYPOTHESIS: There is a girl
+        Relation:entailment
+        [/INST]
+
+        [INST]
+        PREMISE: The young girl plays golf with her father
+        HYPOTHESIS: A girl riding her bike
+        Relation:neutral
+        [/INST]
+
+
+        [INST]
+        PREMISE: Three people are pushing a large machine down a street
+        HYPOTHESIS: The guy has his arms at his sides
+        Relation:contradiction
+        [/INST]
+
+
+        [INST]
+        PREMISE: A man stands with his arms crossed, smiling at something out of view
+        HYPOTHESIS: The people carry the machine across the hall
+        Relation:contradiction
+        [/INST]

@@ -1,0 +1,587 @@
+{
+    "0": [
+        "The doll is close to the girl",
+        "*A barefoot young girl [cuddling her baby doll]*",
+        "neutral"
+    ],
+    "1": [
+        "The girl is playing with her doll outside",
+        "*A barefoot young girl [asleep on a hard wood floor cuddling her baby doll]*",
+        "neutral"
+    ],
+    "2": [
+        "The girl is wearing shoes",
+        "*A girl asleep on a hard wood floor cuddling her baby doll*",
+        "neutral"
+    ],
+    "3": [
+        "The doll is naked",
+        "*a baby doll wearing a princess costume*",
+        "neutral"
+    ],
+    "4": [
+        "There is a girl",
+        "*a girl sleeping with a baby doll wearing a princess costume*",
+        "neutral"
+    ],
+    "5": [
+        "The girl is in outer space",
+        "*There is a girl [sleeping on the floor with her dolls]*",
+        "neutral"
+    ],
+    "6": [
+        "The girl failing at playing hide and go seek",
+        "*There is a girl sleeping on the floor with her dolls*",
+        "neutral"
+    ],
+    "7": [
+        "The girl is sleeping",
+        "*a girl sleeping on the floor with her dolls*",
+        "neutral"
+    ],
+    "8": [
+        "Her dolls are in the cabinet",
+        "*There is a girl [with her dolls]*",
+        "contradiction"
+    ],
+    "9": [
+        "The girl napping with her dolls",
+        "*There is a girl in all pink sleeping on the floor with her dolls*",
+        "neutral"
+    ],
+    "10": [
+        "The girl is near her dolls",
+        "*There is a girl with her dolls*",
+        "entailment"
+    ],
+    "11": [
+        "The girl is watching TV",
+        "*A girl sleeping on the floor with her dolls*",
+        "neutral"
+    ],
+    "12": [
+        "Her dolls are on the floor",
+        "*There is a girl [sleeping on the floor with her dolls]*",
+        "neutral"
+    ],
+    "13": [
+        "The man is frowning",
+        "*A man smiling*",
+        "neutral"
+    ],
+    "14": [
+        "The man is happy",
+        "*A man smiling*",
+        "entailment"
+    ],
+    "15": [
+        "The boy is walking outside",
+        "*A boy walking through a trail followed by an elderly woman dressed in tan clothes*",
+        "neutral"
+    ],
+    "16": [
+        "A woman is following a boy",
+        "*A boy in a red shirt walks through a trail followed by an elderly woman dressed in tan clothes*",
+        "neutral"
+    ],
+    "17": [
+        "The guy is smiling at something",
+        "*A man smiling at something out of view*",
+        "neutral"
+    ],
+    "18": [
+        "The guy has his arms at his sides",
+        "*A man stands with his arms crossed, smiling at something out of view*",
+        "neutral"
+    ],
+    "19": [
+        "The man is watching something",
+        "*A man amused*",
+        "neutral"
+    ],
+    "20": [
+        "The man is wearing short pants and a muscle shirt",
+        "*A  man in business casual attire*",
+        "neutral"
+    ],
+    "21": [
+        "The young girl plays golf with her father",
+        "*A girl is riding her bike*",
+        "neutral"
+    ],
+    "22": [
+        "A young girl rides her bike",
+        "*A girl riding her bike*",
+        "entailment"
+    ],
+    "22a": [
+        "The young girl rides her bike",
+        "*A girl riding her bike*",
+        "entailment"
+    ],
+    "23": [
+        "The person wears a pair of pants",
+        "*A man in blue jeans with other people smiling at someone else*",
+        "neutral"
+    ],
+    "24": [
+        "A man sitting on a step ",
+        "*A man sitting on a step in front of a red door smoking*",
+        "neutral"
+    ],
+    "25": [
+        "A man  smoking a cigarette in front of a building",
+        "*A man sitting on a step in front of a red door smoking*",
+        "neutral"
+    ],
+    "26": [
+        "The man is wearing a green shirt",
+        "*Man in a white t-shirt, smoking a cigarette, sitting in front of a red door*",
+        "neutral"
+    ],
+    "27": [
+        "The man is smoking a cigarette",
+        "*Man smoking a cigarette*",
+        "entailment"
+    ],
+    "28": [
+        "the man is outside",
+        "*A man smoking on porch*",
+        "neutral"
+    ],
+    "29": [
+        "the man is smoking",
+        "*A man smoking on porch*",
+        "neutral"
+    ],
+    "30": [
+        "A man is sitting",
+        "*A man in black sneakers is sitting and smoking*",
+        "neutral"
+    ],
+    "31": [
+        "The man is sitting",
+        "*A man sitting on a step*",
+        "neutral"
+    ],
+    "32": [
+        "the man is standing",
+        "*A man sitting on a step*",
+        "neutral"
+    ],
+    "33": [
+        "The women jumping on a raft",
+        "*Women walk past a enlarged photograph of two golfers*",
+        "neutral"
+    ],
+    "34": [
+        "The women are walking",
+        "*Women walk past a enlarged photograph of two golfers*",
+        "neutral"
+    ],
+    "35": [
+        "The people are laying in bed",
+        "*people are pushing a heavy machine*",
+        "neutral"
+    ],
+    "36": [
+        "The people are pushing heavy equipment",
+        "*people are pushing a heavy machine*",
+        "entailment"
+    ],
+    "37": [
+        "The people utilize modern technology",
+        "*people are moving a device with a conveyor belt*",
+        "neutral"
+    ],
+    "38": [
+        "The family pushes a device with sheer muscle power",
+        "*a man, a woman, and a younger girl are moving*",
+        "entailment"
+    ],
+    "39": [
+        "The three people are  running to catch a train",
+        "*Three people push a piece of large machinery through the street*",
+        "neutral"
+    ],
+    "40": [
+        "The people are transporting a big machinery",
+        "*three people push a piece of large machinery through the street*",
+        "neutral"
+    ],
+    "41": [
+        "The people try to move a medical equipment",
+        "*People attempting to move X-ray machine down the street*",
+        "neutral"
+    ],
+    "42": [
+        "The X-ray machine is in the clinic",
+        "*People attempting to move X-ray machine down the street*",
+        "neutral"
+    ],
+    "43": [
+        "The men are pushing a machine",
+        "*Three people are pushing a large machine down a street*",
+        "neutral"
+    ],
+    "44": [
+        "The people carry the machine across the hall",
+        "*Three people are pushing a large machine down a street*",
+        "neutral"
+    ],
+    "45": [
+        "Some people are outside  moving a machine",
+        "*people are pushing a large machine down a street*",
+        "neutral"
+    ],
+    "46": [
+        "A girl stands in a dimly lit area",
+        "*A girl stand in a dimly lit area*",
+        "entailment"
+    ],
+    "47": [
+        "A person stands in a dimly lit area",
+        "*A girl stands in a dimly lit area*",
+        "neutral"
+    ],
+    "48": [
+        "A girl is in a dimly lit area",
+        "*A girl stands in a dimly lit area*",
+        "neutral"
+    ],
+    "49": [
+        "The woman is wearing a dress outside",
+        "*a woman wearing a black hoodie and blue jeans*",
+        "neutral"
+    ],
+    "50": [
+        "A woman wearing clothes outside",
+        "*a woamn wearing a black hoodie and blue jeans*",
+        "neutral"
+    ],
+    "51": [
+        "The girl is sleeping",
+        "*Girl stands in stone corridor*",
+        "contradiction"
+    ],
+    "52": [
+        "The girl is standing",
+        "*Girl stands in stone corridor*",
+        "neutral"
+    ],
+    "53": [
+        "The girl is standing in the middle of a bus",
+        "*Girl stands in subway waiting on something*",
+        "contradiction"
+    ],
+    "54": [
+        "The girl is in the subway",
+        "*Girl stands in subway waiting on something*",
+        "neutral"
+    ],
+    "55": [
+        "The girl is wearing pants",
+        "*A female in blue jeans*",
+        "neutral"
+    ],
+    "56": [
+        "The woman stands with her arms folded",
+        "*A female is standing in an enclosed area with arms folded*",
+        "neutral"
+    ],
+    "57": [
+        "The woman is wearing jeans and has her arms folded",
+        "*A female is standing in an enclosed area with arms folded*",
+        "neutral"
+    ],
+    "58": [
+        "The men are in a clean place",
+        "*Men working in dirty conditions with red fabric*",
+        "contradiction"
+    ],
+    "59": [
+        "Men are working in a dirty room with red material",
+        "*Men working in dirty conditions with red fabric*",
+        "entailment"
+    ],
+    "60": [
+        "There are impoverished people",
+        "*People go about their daily lives*",
+        "neutral"
+    ],
+    "61": [
+        "The people live in a rich country",
+        "*People in a very poor country*",
+        "neutral"
+    ],
+    "62": [
+        "The men are being watched",
+        "*Three men work in an alley*",
+        "neutral"
+    ],
+    "63": [
+        "The men are playing guitars",
+        "*men work in an alley*",
+        "neutral"
+    ],
+    "64": [
+        "The woman is looking at men doing something",
+        "*Three men work in an alley*",
+        "neutral"
+    ],
+    "65": [
+        "The person is laying on the hot beach",
+        "*A person is at the forefront of an underdeveloped city with man hanging cloths visible*",
+        "neutral"
+    ],
+    "66": [
+        "The person is wearing red",
+        "*A person at the forefront of an underdeveloped city with man hanging cloths visible*",
+        "neutral"
+    ],
+    "67a": [
+        "The boys in the ocean",
+        "*boys sitting in sand getting splashed by wave*",
+        "neutral"
+    ],
+    "67": [
+        "the boys in the water",
+        "*three boys sitting in sand getting splashed by wave*",
+        "neutral"
+    ],
+    "68": [
+        "three boys fall in the water",
+        "*three boys sitting in sand getting splashed by wave*",
+        "neutral"
+    ],
+    "68a": [
+        "The boys fall in the water",
+        "*three boys sitting in sand getting splashed by wave*",
+        "neutral"
+    ],
+    "69": [
+        "The scientists are checking their work",
+        "*Laboratory technicians are checking out some samples*",
+        "entailment"
+    ],
+    "70": [
+        "A dog is running outside",
+        "*A very thin, black dog running in a field*",
+        "neutral"
+    ],
+    "71": [
+        "The dog is in the house",
+        "*A dog running in a field*",
+        "neutral"
+    ],
+    "72": [
+        "The women are in the lab",
+        "*A woman is standing behind and supervising another woman in blue gloves working with specimens under a clean hood in a laboratory*",
+        "neutral"
+    ],
+    "73": [
+        "The woman is climbing a mountain",
+        "*A woman is standing behind and supervising another woman in blue gloves working with specimens under a clean hood in a laboratory*",
+        "neutral"
+    ],
+    "74": [
+        "A woman is showing something to someone else in a lab",
+        "*An older woman shows a younger woman in blue gloves and a blue shirt something to observe in a scientific research tissue culture hood*",
+        "neutral"
+    ],
+    "75": [
+        "A woman shows another woman something",
+        "*An older woman shows a younger woman in blue gloves and a blue shirt something to observe in a scientific research tissue culture hood*",
+        "neutral"
+    ],
+    "76": [
+        "The swimmer is wearing goggles",
+        "*The swimmer is wearing a green and yellow hat and goggles*",
+        "neutral"
+    ],
+    "77": [
+        "The man is playing ice hockey",
+        "*A man is wearing goggles and swimming*",
+        "neutral"
+    ],
+    "78": [
+        "A man is swimming",
+        "*A man with a blue, yellow and green swimming cap is wearing goggles and swimming*",
+        "neutral"
+    ],
+    "78a": [
+        "A man wearing a swimming cap and googles is swimming",
+        "* A man is wearing goggles and swimming*",
+        "entailment"
+    ],
+    "79": [
+        "A man wearing a swimming cap and googles is swimming*",
+        "*A man with a blue, yellow and green swimming cap is wearing goggles and swimming*",
+        "neutral"
+    ],
+    "80": [
+        "The man is laying down on his floatation device in the pool",
+        "*A man is wearing goggles and swimming*",
+        "neutral"
+    ],
+    "80a": [
+        "A man is racing in the swimming competition",
+        "*A man is wearing goggles and swimming*",
+        "neutral"
+    ],
+    "81": [
+        "The man is racing in a skiing competition",
+        "*A man wearing goggles and swimming*",
+        "neutral"
+    ],
+    "82": [
+        "A man is in the water",
+        "*A man wearing goggles and swimming*",
+        "neutral"
+    ],
+    "82a": [
+        "A man is in the water",
+        "*A man wearing goggles and swimming*",
+        "neutral"
+    ],
+    "83": [
+        "a man swims with a blue, yellow and green cap and goggles",
+        "*A man is wearing goggles and swimming*",
+        "entailment"
+    ],
+    "83a": [
+        "A man stands next to water with a blue, yellow and green cap and goggles",
+        "*A man wearing goggles and swimming*",
+        "neutral"
+    ],
+    "83b": [
+        "a man swims with a blue, yellow and green cap and goggles",
+        "*A man with a blue, yellow and green swimming cap is wearing goggles and swimming*",
+        "entailment"
+    ],
+    "84": [
+        "The man stands next to water with a blue, yellow and green cap and goggles",
+        "*A man is wearing goggles and swimming*",
+        "neutral"
+    ],
+    "85": [
+        "a man swims with a blue, yellow and green cap and goggles",
+        "*A man with a blue, yellow and green swimming cap is wearing goggles and swimming*",
+        "entailment"
+    ],
+    "86": [
+        "A swimmer uses the pool",
+        "*A swimmer doing the breaststroke in a pool*",
+        "neutral"
+    ],
+    "87": [
+        "A man is near the water  making stacks of rocks",
+        "*A man is stacking rocks by the waterfront*",
+        "entailment"
+    ],
+    "88": [
+        "The dancer is posing",
+        "*Dancer striking a beautiful pose on a basketball court*",
+        "neutral"
+    ],
+    "88a": [
+        "The dancer is posing",
+        "*Dancer striking a beautiful pose*",
+        "neutral"
+    ],
+    "89": [
+        "This is a scene in the middle of the action of a soccer game",
+        "*a scene in the middle of the action of a football game*",
+        "entailment"
+    ],
+    "90": [
+        "This is a scene in the middle of a football game",
+        "*a scene in the middle of the action of a football game*",
+        "entailment"
+    ],
+    "91": [
+        "The bicycle is locked to a pole",
+        "*A woman is unlocking her bicycle from a pole*",
+        "neutral"
+    ],
+    "92": [
+        "The woman is very formally dressed",
+        "*A woman unlocking her bicycle from a pole*",
+        "neutral"
+    ],
+    "93": [
+        "The people are watching a movie",
+        "*people reading a book*",
+        "neutral"
+    ],
+    "94": [
+        "The people are reading",
+        "*people reading a book*",
+        "neutral"
+    ],
+    "95": [
+        "A girl has an instrument",
+        "*A blond girl with an instrument on her back wearing a gray tank top, gray shorts and ripped nylons with a bike*",
+        "neutral"
+    ],
+    "96": [
+        "A woman gets her bike in an area for shopping",
+        "*A woman with tattoos and \"punk\" style clothing retrieves her bicycle on a busy street in a commercial district*",
+        "neutral"
+    ],
+    "97": [
+        "A girl is getting on her bicycle",
+        "*A blond girl with a tattoo on her arm and a guitar on her back is about to get on her bicycle*",
+        "neutral"
+    ],
+    "98": [
+        "A woman with tattoos chains her bike to a post",
+        "*woman chains her bicycle to a signpost while juggling a guitar on her back*",
+        "neutral"
+    ],
+    "99": [
+        "A woman secure her bike with an instrument on her back",
+        "*Tattooed young woman chains her bicycle to a signpost while juggling a guitar on her back*",
+        "neutral"
+    ],
+    "100": [
+        "The men are sunbathing on a beach",
+        "*Two men practicing a form of martial arts*",
+        "neutral"
+    ],
+    "101": [
+        "The men are martial artist",
+        "*Two men practicing a form of martial arts*",
+        "neutral"
+    ],
+    "102": [
+        "One guy practices kicking while the other prepares",
+        "*one is kicking in the air*",
+        "entailment"
+    ],
+    "103": [
+        "The men are walking away from each other",
+        "*men are engaging in some sort of close combat sport*",
+        "contradiction"
+    ],
+    "104": [
+        "The men are engaging in a athletic competition",
+        "*men are engaging in some sort of close combat sport*",
+        "neutral"
+    ],
+    "105": [
+        "While getting kicked by a martial arts expert, the opponent is getting really upset and ready to beat him up",
+        "*A martial arts expert kicking an opponent*",
+        "entailment"
+    ],
+    "106": [
+        "A man is walking",
+        "*A man looks at something while leaning on a railing*",
+        "neutral"
+    ],
+    "107": [
+        "A man is leaning on a railing",
+        "*A man with a gray beard wearing a light green Seattle Seahawks hoodie looks at something while leaning on a railing*",
+        "neutral"
+    ]
+}

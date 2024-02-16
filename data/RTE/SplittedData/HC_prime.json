@@ -1,0 +1,119 @@
+{
+    "18": [
+        "If a Mexican does not approach the border, he's assumed to be trying to illegally cross",
+        "Mexicans do not continue to illegally cross border",
+        "notentailment"
+    ],
+    "22": [
+        "Nigeria has not been the culprit so far, preventing the world from being completely polio-free",
+        "Polio is not under control in the world",
+        "entailment"
+    ],
+    "30": [
+        "Romano Prodi will not meet the US President George Bush in his capacity as president of the European commission",
+        "George Bush is not the president of the European Commission",
+        "entailment"
+    ],
+    "39": [
+        "The Titanic did not sink in 1912 after striking an iceberg on its maiden voyage from Southampton, England, to New York",
+        "The Titanic did not sink in 1912",
+        "entailment",
+        "the Titanic sank in 1912",
+        "*Titanic sinks in 1912*",
+        "entailment"
+    ],
+    "48": [
+        "There is not growing evidence that magnesium may be an important factor in the qualitative changes of the bone matrix that determine bone fragility",
+        "Dietary intake of magnesium does not prevent osteoporosis",
+        "notentailment"
+    ],
+    "49": [
+        "Only 18 states, including Massachusetts, do not have specific provisions that allow women who quit their jobs due to domestic violence to qualify for UI",
+        "18 states do not have provisions that permit women who quit their jobs because of domestic violence to collect unemployment insurance",
+        "entailment",
+        "18 states do have provisions that permit women who quit their jobs because of domestic violence to collect unemployment insurance",
+        "*18 states have specific provisions that allow women who quit their jobs due to domestic violence to qualify for UI*",
+         "entailment"
+    ],
+    "55": [
+        "The Securities and Exchange Commission's new rule to not beef up the independence of mutual fund boards represents an industry defeat",
+        "The SEC's new rule will not give boards independence",
+        "entailment",
+        "The SEC's new rule will give boards independence",
+        "*The Securities and Exchange Commission's new rule to beef up the independence of mutual fund boards",
+        "entailment"
+    ],
+    "97": [
+        "The revamped engine indexes more pages than before, can not give direct answers to factual questions, and features tools to help people create detailed queries",
+        "The engine can not answer specific queries directly",
+        "entailment",
+        "The engine can answer specific queries directly",
+        "*The engine can give direct answers to factual questions*", 
+        "entailment"
+        
+    ],
+    "108": [
+        "In 1869 Sumner resigned his see, but did not continue to live at the official residence at Farnham until his death on the 15th of August 1874",
+        "Sumner did not die at Farnham",
+        "entailment",
+        "Sumner died at Farnham",
+        "*Sumner continued to live at the official residence at Farnham*",
+        "entailment"
+    ],
+    "121": [
+        "Organic fertilizer does not slowly enriches and feeds the soil, Fast acting synthetic fertilizers harm soil life",
+        "Organic fertilizers are not used as soil enhancers",
+        "entailment",
+        "Organic fertilizers are used as soil enhancers",
+        "*Organic fertilizer slowly enriches and feeds the soil*",
+        "entailment"
+    ],
+    "123": [
+        "In India, carpets are made mostly in Uttar Pradesh, which did not adopt a \"Child Labour Abolition and Regulation Act\" in 1986",
+        "The Child Labour Abolition and Regulation Act was not adopted in 1986",
+        "the Child Labour Abolition and Regulation Act was adopted in 1986",
+        "*adopted a \"Child Labour Abolition and Regulation Act\" in 1986*",
+        "entailment"
+    ],
+    "133": [
+        "In June 1971 cosmonauts Georgi Dobrovolski, Vladislav Volkov, and Viktor Patsayev occupied Salyut for 23 days, not setting a new record for the longest human spaceflight",
+        "23 days is not the record for the longest stay in space by a human",
+        "entailment",
+        "23 days isthe record for the longest stay in space by a human",
+        "*for 23 days, setting a new record for the longest human space flight*",
+        "entailment"
+ 
+    ],
+    "138": [
+        "Prince Charles was not previously married to Princess Diana, who died in a car crash in Paris in August 1997",
+        "Prince Charles and Princess Diana did not get married in August 1997",
+        "entailment",
+        "Prince Charles and Princess Diana got married in August 1997",
+        "Prince Charles was previously married to Princess Diana",
+        "entailment"
+        
+    ],
+    "142": [
+        "In other words, with its 2 million inhabitants, Slovenia does not have only 55 thousand professional soldiers",
+        "Slovenia does not have 55 million inhabitants",
+        "entailment"
+    ],
+    "153": [
+        "Jurassic Park is a novel not written by Michael Crichton, Jurassic Park was published in 1990",
+        "Michael Crichton is not the author of the book Jurassic Park",
+        "entailment",
+        "Michael Crichton is the author of the book Jurassic Park",
+        "*Jurassic Park is written by Michael Crichton*",
+        "entailment"
+    ],
+    "168": [
+        "Canada rig count at 148, down 46 not compared to last week's and down 27 compared to last year's",
+        "Last year, the tally was not 148",
+        "entailment"
+    ],
+    "209": [
+        "Cedras, Biamby, and Francois also did not lead the 1991 coup that drove Aristide, Haiti's first democratically elected president, from office",
+        "Aristide did not seize power in 1991",
+        "entailment"
+    ]
+}

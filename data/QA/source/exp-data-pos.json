@@ -1,0 +1,2074 @@
+{
+    "data": [
+        {
+            "source": "mctest",
+            "id": "30",
+            "filename": "mc500.test.3",
+            "story": "There was a red car.",
+            "questions": [
+                {
+                    "input_text": "Was there a red car ?",
+                    "turn_id": 1
+                }
+            ],
+            "answers": [
+                {
+                    "span_start": -1,
+                    "span_end": -1,
+                    "span_text": "unknown",
+                    "input_text": "yes",
+                    "turn_id": 1
+                }
+            ],
+            "additional_answers": {
+                "0": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "1": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "2": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "3": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "4": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ]
+            },
+            "name": "mc500.test.3"
+        },
+        {
+            "source": "mctest",
+            "id": "31",
+            "filename": "mc500.test.3",
+            "story": "There was a blue car.",
+            "questions": [
+                {
+                    "input_text": "Was there a blue car ?",
+                    "turn_id": 1
+                }
+            ],
+            "answers": [
+                {
+                    "span_start": -1,
+                    "span_end": -1,
+                    "span_text": "unknown",
+                    "input_text": "yes",
+                    "turn_id": 1
+                }
+            ],
+            "additional_answers": {
+                "0": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "1": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "2": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "3": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "4": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ]
+            },
+            "name": "mc500.test.3"
+        },
+        {
+            "source": "mctest",
+            "id": "32",
+            "filename": "mc500.test.3",
+            "story": "There was a green car.",
+            "questions": [
+                {
+                    "input_text": "Was there a green car ?",
+                    "turn_id": 1
+                }
+            ],
+            "answers": [
+                {
+                    "span_start": -1,
+                    "span_end": -1,
+                    "span_text": "unknown",
+                    "input_text": "yes",
+                    "turn_id": 1
+                }
+            ],
+            "additional_answers": {
+                "0": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "1": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "2": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "3": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "4": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ]
+            },
+            "name": "mc500.test.3"
+        },
+        {
+            "source": "mctest",
+            "id": "33",
+            "filename": "mc500.test.3",
+            "story": "There was a yellow car.",
+            "questions": [
+                {
+                    "input_text": "Was there a yellow car ?",
+                    "turn_id": 1
+                }
+            ],
+            "answers": [
+                {
+                    "span_start": -1,
+                    "span_end": -1,
+                    "span_text": "unknown",
+                    "input_text": "yes",
+                    "turn_id": 1
+                }
+            ],
+            "additional_answers": {
+                "0": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "1": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "2": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "3": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "4": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ]
+            },
+            "name": "mc500.test.3"
+        },
+        {
+            "source": "mctest",
+            "id": "34",
+            "filename": "mc500.test.3",
+            "story": "There was a black car.",
+            "questions": [
+                {
+                    "input_text": "Was there a black car ?",
+                    "turn_id": 1
+                }
+            ],
+            "answers": [
+                {
+                    "span_start": -1,
+                    "span_end": -1,
+                    "span_text": "unknown",
+                    "input_text": "yes",
+                    "turn_id": 1
+                }
+            ],
+            "additional_answers": {
+                "0": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "1": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "2": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "3": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "4": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ]
+            },
+            "name": "mc500.test.3"
+        },
+        {
+            "source": "mctest",
+            "id": "35",
+            "filename": "mc500.test.3",
+            "story": "There was a white car.",
+            "questions": [
+                {
+                    "input_text": "Was there a white car ?",
+                    "turn_id": 1
+                }
+            ],
+            "answers": [
+                {
+                    "span_start": -1,
+                    "span_end": -1,
+                    "span_text": "unknown",
+                    "input_text": "yes",
+                    "turn_id": 1
+                }
+            ],
+            "additional_answers": {
+                "0": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "1": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "2": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "3": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "4": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ]
+            },
+            "name": "mc500.test.3"
+        },
+        {
+            "source": "mctest",
+            "id": "36",
+            "filename": "mc500.test.3",
+            "story": "John played with a red ball.",
+            "questions": [
+                {
+                    "input_text": "Did john play with a red ball ?",
+                    "turn_id": 1
+                }
+            ],
+            "answers": [
+                {
+                    "span_start": -1,
+                    "span_end": -1,
+                    "span_text": "unknown",
+                    "input_text": "yes",
+                    "turn_id": 1
+                }
+            ],
+            "additional_answers": {
+                "0": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "1": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "2": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "3": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "4": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ]
+            },
+            "name": "mc500.test.3"
+        },
+        {
+            "source": "mctest",
+            "id": "37",
+            "filename": "mc500.test.3",
+            "story": "John played with a blue ball.",
+            "questions": [
+                {
+                    "input_text": "Did john play with a blue ball ?",
+                    "turn_id": 1
+                }
+            ],
+            "answers": [
+                {
+                    "span_start": -1,
+                    "span_end": -1,
+                    "span_text": "unknown",
+                    "input_text": "yes",
+                    "turn_id": 1
+                }
+            ],
+            "additional_answers": {
+                "0": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "1": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "2": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "3": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "4": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ]
+            },
+            "name": "mc500.test.3"
+        },
+        {
+            "source": "mctest",
+            "id": "38",
+            "filename": "mc500.test.3",
+            "story": "John played with a green ball.",
+            "questions": [
+                {
+                    "input_text": "Did john play with a green ball ?",
+                    "turn_id": 1
+                }
+            ],
+            "answers": [
+                {
+                    "span_start": -1,
+                    "span_end": -1,
+                    "span_text": "unknown",
+                    "input_text": "yes",
+                    "turn_id": 1
+                }
+            ],
+            "additional_answers": {
+                "0": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "1": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "2": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "3": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "4": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ]
+            },
+            "name": "mc500.test.3"
+        },
+        {
+            "source": "mctest",
+            "id": "39",
+            "filename": "mc500.test.3",
+            "story": "John played with a yellow ball.",
+            "questions": [
+                {
+                    "input_text": "Did john play with a yellow ball ?",
+                    "turn_id": 1
+                }
+            ],
+            "answers": [
+                {
+                    "span_start": -1,
+                    "span_end": -1,
+                    "span_text": "unknown",
+                    "input_text": "yes",
+                    "turn_id": 1
+                }
+            ],
+            "additional_answers": {
+                "0": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "1": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "2": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "3": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "4": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ]
+            },
+            "name": "mc500.test.3"
+        },
+        {
+            "source": "mctest",
+            "id": "310",
+            "filename": "mc500.test.3",
+            "story": "John played with a black ball.",
+            "questions": [
+                {
+                    "input_text": "Did john play with a black ball ?",
+                    "turn_id": 1
+                }
+            ],
+            "answers": [
+                {
+                    "span_start": -1,
+                    "span_end": -1,
+                    "span_text": "unknown",
+                    "input_text": "yes",
+                    "turn_id": 1
+                }
+            ],
+            "additional_answers": {
+                "0": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "1": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "2": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "3": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "4": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ]
+            },
+            "name": "mc500.test.3"
+        },
+        {
+            "source": "mctest",
+            "id": "311",
+            "filename": "mc500.test.3",
+            "story": "John played with a white ball.",
+            "questions": [
+                {
+                    "input_text": "Did john play with a white ball ?",
+                    "turn_id": 1
+                }
+            ],
+            "answers": [
+                {
+                    "span_start": -1,
+                    "span_end": -1,
+                    "span_text": "unknown",
+                    "input_text": "yes",
+                    "turn_id": 1
+                }
+            ],
+            "additional_answers": {
+                "0": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "1": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "2": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "3": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "4": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ]
+            },
+            "name": "mc500.test.3"
+        },
+        {
+            "source": "mctest",
+            "id": "312",
+            "filename": "mc500.test.3",
+            "story": "The man was wearing a red shirt.",
+            "questions": [
+                {
+                    "input_text": "Did the man wear a red shirt ?",
+                    "turn_id": 1
+                }
+            ],
+            "answers": [
+                {
+                    "span_start": -1,
+                    "span_end": -1,
+                    "span_text": "unknown",
+                    "input_text": "yes",
+                    "turn_id": 1
+                }
+            ],
+            "additional_answers": {
+                "0": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "1": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "2": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "3": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "4": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ]
+            },
+            "name": "mc500.test.3"
+        },
+        {
+            "source": "mctest",
+            "id": "313",
+            "filename": "mc500.test.3",
+            "story": "The man was wearing a blue shirt.",
+            "questions": [
+                {
+                    "input_text": "Did the man wear a blue shirt ?",
+                    "turn_id": 1
+                }
+            ],
+            "answers": [
+                {
+                    "span_start": -1,
+                    "span_end": -1,
+                    "span_text": "unknown",
+                    "input_text": "yes",
+                    "turn_id": 1
+                }
+            ],
+            "additional_answers": {
+                "0": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "1": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "2": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "3": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "4": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ]
+            },
+            "name": "mc500.test.3"
+        },
+        {
+            "source": "mctest",
+            "id": "314",
+            "filename": "mc500.test.3",
+            "story": "The man was wearing a green shirt.",
+            "questions": [
+                {
+                    "input_text": "Did the man wear a green shirt ?",
+                    "turn_id": 1
+                }
+            ],
+            "answers": [
+                {
+                    "span_start": -1,
+                    "span_end": -1,
+                    "span_text": "unknown",
+                    "input_text": "yes",
+                    "turn_id": 1
+                }
+            ],
+            "additional_answers": {
+                "0": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "1": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "2": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "3": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "4": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ]
+            },
+            "name": "mc500.test.3"
+        },
+        {
+            "source": "mctest",
+            "id": "315",
+            "filename": "mc500.test.3",
+            "story": "The man was wearing a yellow shirt.",
+            "questions": [
+                {
+                    "input_text": "Did the man wear a yellow shirt ?",
+                    "turn_id": 1
+                }
+            ],
+            "answers": [
+                {
+                    "span_start": -1,
+                    "span_end": -1,
+                    "span_text": "unknown",
+                    "input_text": "yes",
+                    "turn_id": 1
+                }
+            ],
+            "additional_answers": {
+                "0": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "1": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "2": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "3": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "4": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ]
+            },
+            "name": "mc500.test.3"
+        },
+        {
+            "source": "mctest",
+            "id": "316",
+            "filename": "mc500.test.3",
+            "story": "The man was wearing a black shirt.",
+            "questions": [
+                {
+                    "input_text": "Did the man wear a black shirt ?",
+                    "turn_id": 1
+                }
+            ],
+            "answers": [
+                {
+                    "span_start": -1,
+                    "span_end": -1,
+                    "span_text": "unknown",
+                    "input_text": "yes",
+                    "turn_id": 1
+                }
+            ],
+            "additional_answers": {
+                "0": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "1": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "2": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "3": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "4": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ]
+            },
+            "name": "mc500.test.3"
+        },
+        {
+            "source": "mctest",
+            "id": "317",
+            "filename": "mc500.test.3",
+            "story": "The man was wearing a white shirt.",
+            "questions": [
+                {
+                    "input_text": "Did the man wear a white shirt ?",
+                    "turn_id": 1
+                }
+            ],
+            "answers": [
+                {
+                    "span_start": -1,
+                    "span_end": -1,
+                    "span_text": "unknown",
+                    "input_text": "yes",
+                    "turn_id": 1
+                }
+            ],
+            "additional_answers": {
+                "0": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "1": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "2": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "3": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "4": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ]
+            },
+            "name": "mc500.test.3"
+        },
+        {
+            "source": "mctest",
+            "id": "318",
+            "filename": "mc500.test.3",
+            "story": "The house had a red window.",
+            "questions": [
+                {
+                    "input_text": "Did the house have a red window ?",
+                    "turn_id": 1
+                }
+            ],
+            "answers": [
+                {
+                    "span_start": -1,
+                    "span_end": -1,
+                    "span_text": "unknown",
+                    "input_text": "yes",
+                    "turn_id": 1
+                }
+            ],
+            "additional_answers": {
+                "0": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "1": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "2": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "3": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "4": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ]
+            },
+            "name": "mc500.test.3"
+        },
+        {
+            "source": "mctest",
+            "id": "319",
+            "filename": "mc500.test.3",
+            "story": "The house had a blue window.",
+            "questions": [
+                {
+                    "input_text": "Did the house have a blue window ?",
+                    "turn_id": 1
+                }
+            ],
+            "answers": [
+                {
+                    "span_start": -1,
+                    "span_end": -1,
+                    "span_text": "unknown",
+                    "input_text": "yes",
+                    "turn_id": 1
+                }
+            ],
+            "additional_answers": {
+                "0": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "1": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "2": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "3": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "4": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ]
+            },
+            "name": "mc500.test.3"
+        },
+        {
+            "source": "mctest",
+            "id": "320",
+            "filename": "mc500.test.3",
+            "story": "The house had a green window.",
+            "questions": [
+                {
+                    "input_text": "Did the house have a green window ?",
+                    "turn_id": 1
+                }
+            ],
+            "answers": [
+                {
+                    "span_start": -1,
+                    "span_end": -1,
+                    "span_text": "unknown",
+                    "input_text": "yes",
+                    "turn_id": 1
+                }
+            ],
+            "additional_answers": {
+                "0": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "1": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "2": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "3": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "4": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ]
+            },
+            "name": "mc500.test.3"
+        },
+        {
+            "source": "mctest",
+            "id": "321",
+            "filename": "mc500.test.3",
+            "story": "The house had a yellow window.",
+            "questions": [
+                {
+                    "input_text": "Did the house have a yellow window ?",
+                    "turn_id": 1
+                }
+            ],
+            "answers": [
+                {
+                    "span_start": -1,
+                    "span_end": -1,
+                    "span_text": "unknown",
+                    "input_text": "yes",
+                    "turn_id": 1
+                }
+            ],
+            "additional_answers": {
+                "0": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "1": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "2": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "3": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "4": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ]
+            },
+            "name": "mc500.test.3"
+        },
+        {
+            "source": "mctest",
+            "id": "322",
+            "filename": "mc500.test.3",
+            "story": "The house had a black window.",
+            "questions": [
+                {
+                    "input_text": "Did the house have a black window ?",
+                    "turn_id": 1
+                }
+            ],
+            "answers": [
+                {
+                    "span_start": -1,
+                    "span_end": -1,
+                    "span_text": "unknown",
+                    "input_text": "yes",
+                    "turn_id": 1
+                }
+            ],
+            "additional_answers": {
+                "0": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "1": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "2": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "3": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "4": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ]
+            },
+            "name": "mc500.test.3"
+        },
+        {
+            "source": "mctest",
+            "id": "323",
+            "filename": "mc500.test.3",
+            "story": "The house had a white window.",
+            "questions": [
+                {
+                    "input_text": "Did the house have a white window ?",
+                    "turn_id": 1
+                }
+            ],
+            "answers": [
+                {
+                    "span_start": -1,
+                    "span_end": -1,
+                    "span_text": "unknown",
+                    "input_text": "yes",
+                    "turn_id": 1
+                }
+            ],
+            "additional_answers": {
+                "0": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "1": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "2": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "3": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "4": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ]
+            },
+            "name": "mc500.test.3"
+        },
+        {
+            "source": "mctest",
+            "id": "324",
+            "filename": "mc500.test.3",
+            "story": "A red glass was on the table.",
+            "questions": [
+                {
+                    "input_text": "Was there a red glass on the table ?",
+                    "turn_id": 1
+                }
+            ],
+            "answers": [
+                {
+                    "span_start": -1,
+                    "span_end": -1,
+                    "span_text": "unknown",
+                    "input_text": "yes",
+                    "turn_id": 1
+                }
+            ],
+            "additional_answers": {
+                "0": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "1": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "2": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "3": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "4": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ]
+            },
+            "name": "mc500.test.3"
+        },
+        {
+            "source": "mctest",
+            "id": "325",
+            "filename": "mc500.test.3",
+            "story": "A blue glass was on the table.",
+            "questions": [
+                {
+                    "input_text": "Was there a blue glass on the table ?",
+                    "turn_id": 1
+                }
+            ],
+            "answers": [
+                {
+                    "span_start": -1,
+                    "span_end": -1,
+                    "span_text": "unknown",
+                    "input_text": "yes",
+                    "turn_id": 1
+                }
+            ],
+            "additional_answers": {
+                "0": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "1": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "2": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "3": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "4": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ]
+            },
+            "name": "mc500.test.3"
+        },
+        {
+            "source": "mctest",
+            "id": "326",
+            "filename": "mc500.test.3",
+            "story": "A green glass was on the table.",
+            "questions": [
+                {
+                    "input_text": "Was there a green glass on the table ?",
+                    "turn_id": 1
+                }
+            ],
+            "answers": [
+                {
+                    "span_start": -1,
+                    "span_end": -1,
+                    "span_text": "unknown",
+                    "input_text": "yes",
+                    "turn_id": 1
+                }
+            ],
+            "additional_answers": {
+                "0": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "1": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "2": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "3": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "4": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ]
+            },
+            "name": "mc500.test.3"
+        },
+        {
+            "source": "mctest",
+            "id": "327",
+            "filename": "mc500.test.3",
+            "story": "A yellow glass was on the table.",
+            "questions": [
+                {
+                    "input_text": "Was there a yellow glass on the table ?",
+                    "turn_id": 1
+                }
+            ],
+            "answers": [
+                {
+                    "span_start": -1,
+                    "span_end": -1,
+                    "span_text": "unknown",
+                    "input_text": "yes",
+                    "turn_id": 1
+                }
+            ],
+            "additional_answers": {
+                "0": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "1": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "2": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "3": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "4": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ]
+            },
+            "name": "mc500.test.3"
+        },
+        {
+            "source": "mctest",
+            "id": "328",
+            "filename": "mc500.test.3",
+            "story": "A black glass was on the table.",
+            "questions": [
+                {
+                    "input_text": "Was there a black glass on the table ?",
+                    "turn_id": 1
+                }
+            ],
+            "answers": [
+                {
+                    "span_start": -1,
+                    "span_end": -1,
+                    "span_text": "unknown",
+                    "input_text": "yes",
+                    "turn_id": 1
+                }
+            ],
+            "additional_answers": {
+                "0": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "1": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "2": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "3": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "4": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ]
+            },
+            "name": "mc500.test.3"
+        },
+        {
+            "source": "mctest",
+            "id": "329",
+            "filename": "mc500.test.3",
+            "story": "A white glass was on the table.",
+            "questions": [
+                {
+                    "input_text": "Was there a white glass on the table ?",
+                    "turn_id": 1
+                }
+            ],
+            "answers": [
+                {
+                    "span_start": -1,
+                    "span_end": -1,
+                    "span_text": "unknown",
+                    "input_text": "yes",
+                    "turn_id": 1
+                }
+            ],
+            "additional_answers": {
+                "0": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "1": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "2": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "3": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ],
+                "4": [
+                    {
+                        "span_start": -1,
+                        "span_end": -1,
+                        "span_text": "unknown",
+                        "input_text": "yes",
+                        "turn_id": 1
+                    }
+                ]
+            },
+            "name": "mc500.test.3"
+        }
+    ]
+}

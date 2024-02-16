@@ -1,0 +1,1062 @@
+{
+    "0": [
+        "The most surprising news story of the past week must be the 'wonderful' story that the AIDS epidemic in India is under control",
+        "Polio is not under control in the world",
+        "notentailment"
+    ],
+    "1": [
+        "It uses the first day of the first month of the Lunar Year as the start of the Chinese New Year",
+        "The Chinese New Year's Day does not fall on the first day of the first month of the Lunar Year",
+        "notentailment"
+    ],
+    "2": [
+        "Kurdistan Regional Government Prime Minister Dr Barham Salih was unharmed after an assassination attempt",
+        "prime minister not targeted for assassination",
+        "notentailment"
+    ],
+    "3": [
+        "Organic fertilizers like vermi compost are used for increasing the quality, fertility and mineral content of the soil",
+        "Organic fertilizers are not used as soil enhancers",
+        "notentailment"
+    ],
+    "4": [
+        "The prosecutor told the court that the incident had caused \"distress\" to one of the children",
+        "The prosecutor did not tell the court that \"distress\" in one of the children is associated with the incident",
+        "notentailment"
+    ],
+    "5": [
+        "Green cards are becoming more difficult to obtain",
+        "Green card is not now difficult to receive",
+        "notentailment"
+    ],
+    "6": [
+        "As much as 200 mm of rain have been recorded in portions of British Columbia , on the west coast of Canada since Monday",
+        "British Columbia is not located in Canada",
+        "notentailment"
+    ],
+    "7": [
+        "Environment Minister David Anderson today announced his decision regarding the environmental assessment of the proposed Toulnustouc Hydroelectric Project",
+        "A hydroelectric project is not proposed or is under construction",
+        "notentailment"
+    ],
+    "8": [
+        "On April 27th, Pavolini went on, ahead of his troops, and reached Mussolini, Accompanying him were Angela Curti, the former mistress of Mussolini",
+        "Angela Curti was not Mussolini's mistress",
+        "notentailment"
+    ],
+    "9": [
+        "It could mean to leave in the street to thousands of workers",
+        "It could not lead to thousands of job losses",
+        "notentailment"
+    ],
+    "10": [
+        "The first kibbutz, Deganya, near the Sea of Galilee, was not founded in 1910",
+        "The first kibbutz was not founded near the Sea of Galilee",
+        "notentailment"
+    ],
+    "11": [
+        "Because of Reagan's economic strategy, the federal budget deficit ballooned",
+        "Reagan's economic strategy did not lead to huge federal budget deficits",
+        "notentailment"
+    ],
+    "12": [
+        "Queen Victoria died in 1901, at Osborne House on the Isle of Wight",
+        "Queen Victoria was not born in 1901",
+        "entailment"
+    ],
+    "13": [
+        "Assailants also ambushed two civilian sport utility vehicles, favoured by Western civilian contractors, on the road to Baghdad's international airport",
+        "Assailants also did not ambush two civilian sport utility vehicles on the road to Baghdad's international airport",
+        "notentailment"
+    ],
+    "14": [
+        "Aziz confirmed that Iraq's demands include \"the lifting of the blockade and the restructuring of the espionage commission, including its Chairman, (Richard) Butler",
+        "Iraq does not demand the lifting of the embargo and changes in the committee",
+        "notentailment"
+    ],
+    "15": [
+        "Last week, LTTE leader Vilupillai Prabhakaran stated that the rebels are running out of patience and are prepared to go back to war",
+        "Vilupillai Prabhakaran is not a rebel",
+        "notentailment"
+    ],
+    "16": [
+        "Second-half goals, from Danny Mills and Darius Vassell, lifted Manchester City to a 2-0 victory over Everton",
+        "Manchester was not beaten by Everton",
+        "entailment"
+    ],
+    "17": [
+        "State Police issued bulletins via teletype requesting patrols to be on the lookout for Robert Senacal, 35, of Cortlandt Manor",
+        "Senacal does not reside in Cortland Manor",
+        "notentailment"
+    ],
+    "18": [
+        "If a Mexican approaches the border, he's assumed to be trying to illegally cross",
+        "    Mexicans do not continue to illegally cross border",
+        "notentailment"
+    ],
+    "19": [
+        "Cool, humid weather Sunday helped slow the advance of a fire that caused the evacuation of hundreds of homes and businesses in Alaska's Interior",
+        "There was not a fire in Alaska",
+        "notentailment"
+    ],
+    "20": [
+        "Philip Morris said it sold 201 bn cigarettes world-wide during the quarter",
+        "Philip Morris did not say it sold 201 billion cigarettes worldwide during the third quarter of 1994",
+        "notentailment"
+    ],
+    "21": [
+        "Prime Minister Mahmoud Abbas has offered 'the hand of peace' to Israel after his landslide victory in Sunday's presidential election",
+        "Mahmoud Abbas has not claimed victory in the presidential elections",
+        "notentailment"
+    ],
+    "22": [
+        "Nigeria has not been the culprit so far, preventing the world from being completely polio-free",
+        "Polio is under control in the world",
+        "notentailment"
+    ],
+    "23": [
+        "City officials fired the captain of the crashed Staten Island ferry",
+        "Staten Island ferry captain has not refused to talk with investigators",
+        "notentailment"
+    ],
+    "24": [
+        "In most Pacific countries there are very few women in parliament",
+        "Women are not poorly represented in parliament",
+        "notentailment"
+    ],
+    "25": [
+        "Three nurses in one of Vienna's oldest hospitals have been arrested on suspicion of killing 35 patients",
+        "Three Vienna nurses are not under suspicion for killing patients",
+        "notentailment"
+    ],
+    "26": [
+        "El Nino is so named because the effects of the warmer water off Peru are usually noticed near Christmas time",
+        "El Nino is not named after Peru",
+        "entailment"
+    ],
+    "27": [
+        "He also developed a breath test that could detect sulfur compounds emitted from the H pylori",
+        "The H pylori does not produce sulphur compounds",
+        "notentailment"
+    ],
+    "28": [
+        "The airline now flew under the name Sabena - Belgian World Airlines",
+        "Sabena is not an airline",
+        "notentailment"
+    ],
+    "29": [
+        "The Sioux Ghost Shirt was a feature of Glasgow's Kelvingrove Museum for more than 100 years before being repatriated to its land of origin",
+        "A Sioux ghost shirt was not returned by a Scottish museum",
+        "notentailment"
+    ],
+    "30": [
+        "Romano Prodi will meet the US President George Bush in his capacity as president of the European commission",
+        "    George Bush is not the president of the European Commission",
+        "notentailment"
+    ],
+    "31": [
+        "In 1973, the United States and Communist China agreed to establish liaison offices in Beijing and Washington",
+        "Communist China is not an organisation based in Beijing and Washington",
+        "notentailment"
+    ],
+    "32": [
+        "Conservationists fear that one of Namibia's most precious resources, its abundant wildlife and especially its threatened black rhinoceros, faces a major menace from poaching",
+        "In Africa, rhinos are not seriously endangered by poaching",
+        "notentailment"
+    ],
+    "33": [
+        "French is the mother tongue of 809 percent of Qu\ufffdbeckers, while 78 percent cite English as their mother tongue",
+        "French is not the most widely spoken language in Qu\ufffdbec",
+        "notentailment"
+    ],
+    "34": [
+        "AS Roma suffered their second home defeat of the campaign, with a 3-2 loss to 10-man Siena",
+        "Siena was not beaten by AS Roma",
+        "entailment"
+    ],
+    "35": [
+        "Security preparations kept protestors at bay at the recent G8 Summit on Sea Island (USA)",
+        "Demonstrations against G8 Summit did not take place at Sea Island bay",
+        "notentailment"
+    ],
+    "36": [
+        "More than 1,500 people died when the Titanic sank in 1912",
+        "The Titanic did not sink in 1912",
+        "notentailment"
+    ],
+    "37": [
+        "Les Paul, who continues to perform weekly at New York Iridium Jazz Club, has finished recording \"Les Paul & Friends",
+        "\"\tIridium Jazz Club is not located in New York",
+        "notentailment"
+    ],
+    "38": [
+        "Moog's synthesiser, which bears his name, revolutionised music from the 1960s onwards, and was used by bands like The Beatles and The Doors",
+        "Moog's instruments were not used by The Beatles and The Doors among others",
+        "notentailment"
+    ],
+    "39": [
+        "The Titanic sank in 1912 after striking an iceberg on its maiden voyage from Southampton, England, to New York",
+        "The Titanic did not sink in 1912",
+        "notentailment"
+    ],
+    "40": [
+        "The Philippine Stock Exchange Composite Index rose 01 percent to 157365",
+        "The Philippine Stock Exchange Composite Index did not drop",
+        "entailment"
+    ],
+    "41": [
+        "Medicare will select by lottery 10 percent of those who apply by Aug 16 to begin receiving benefits starting Sept 1",
+        "Medicare will not choose 10 percent of applicants to receive benefits by Aug 16",
+        "notentailment"
+    ],
+    "42": [
+        "Binge drinking among young women is on the rise, bringing with it a number of health consequences, including fetal alcohol syndrome",
+        "Young women are not binge drinking more, which can lead to the health risk of fetal alcohol syndrome",
+        "notentailment"
+    ],
+    "43": [
+        "Arroyo was the favorite of investors because of her experience as a trained economist and government manager",
+        "Arroyo does not have experience as an economist and as a government manager",
+        "notentailment"
+    ],
+    "44": [
+        "Asia has the highest number of child workers, but Sub-Saharan Africa has the highest proportion of working children relative to population",
+        "Child labor is not widely used in Asia",
+        "notentailment"
+    ],
+    "45": [
+        "Thanks to the recent acquisition of JD Edwards, Oracle will not soon be able to run JDE apps on its Fusion Middleware platform, too",
+        "    JDE is not the owner of Oracle",
+        "notentailment"
+    ],
+    "46": [
+        "It's Biodiesel, and Bio-Beetle is the first all-BD rental car company",
+        "Biodiesel does not produce the 'Beetle'",
+        "notentailment"
+    ],
+    "47": [
+        "He is the professor of theater and drama at Loyola University and the director of Wilson's \"Two Trains Running,\" now onstage at Pegasus Players",
+        "Two Trains Running was not written by Wilson",
+        "notentailment"
+    ],
+    "48": [
+        "There is growing evidence that magnesium may be an important factor in the qualitative changes of the bone matrix that determine bone fragility",
+        "    Dietary intake of magnesium does not prevent osteoporosis",
+        "notentailment"
+    ],
+    "49": [
+        "Only 18 states, including Massachusetts, have specific provisions that allow women who quit their jobs due to domestic violence to qualify for UI",
+        "18 states do not have provisions that permit women who quit their jobs because of domestic violence to collect unemployment insurance",
+        "notentailment"
+    ],
+    "50": [
+        "Suncreams designed for children could offer less protection than they claim on the bottle",
+        "    Suncreams designed for children do not protect at the level they advertise",
+        "notentailment"
+    ],
+    "51": [
+        "A British Dynamite Company (Ardeer, Scotland, UK) is founded, In 1877 the company name was changed to Nobel's Explosives Company",
+        "Alfred Nobel is not the inventor of dynamite",
+        "notentailment"
+    ],
+    "52": [
+        "In other words, with its 2 million inhabitants, Slovenia has only 55 thousand professional soldiers",
+        "Slovenia does not have 2 million inhabitants",
+        "notentailment"
+    ],
+    "53": [
+        "The first Windows DNA lab outside Microsoft was established in suburban Philadelphia in June 1998",
+        "Microsoft was not established in June 1998",
+        "entailment"
+    ],
+    "54": [
+        "Durham is the 'City of Medicine' and home of Duke University and North Carolina Central",
+        "Duke University is not in Durham",
+        "notentailment"
+    ],
+    "55": [
+        "The Securities and Exchange Commission's new rule to beef up the independence of mutual fund boards represents an industry defeat",
+        "The SEC's new rule will not give boards independence",
+        "notentailment"
+    ],
+    "56": [
+        "The Osaka World Trade Center is the tallest building in Western Japan",
+        "    The Osaka World Trade Center is not the tallest building in Japan",
+        "notentailment"
+    ],
+    "57": [
+        "Shares of Salesforce closed Wednesday at $1720, more than 50% above their offering price",
+        "Salesforce shares were not more than 50% above their offering price of $1720",
+        "notentailment"
+    ],
+    "58": [
+        "The Duke of Edinburgh and I are very happy that the Prince of Wales and Mrs Parker Bowles are to marry",
+        "I am not delighted and wish The Prince of Wales and Parker Bowles a happy life",
+        "notentailment"
+    ],
+    "59": [
+        "In June 2004, top Russian oil producer Lukoil signed a $1 billion 35-year production-sharing agreement to develop Uzbek natural gas deposits",
+        "Lukoil did not earn $1 billion in 2004",
+        "notentailment"
+    ],
+    "60": [
+        "On opening day Salesforcecom's stock was up $620 to $1720, a 564% increase over the initial offering price of $11",
+        "Opening day of the stock of Salesforcecom did not rise 564% over the initial offering price",
+        "notentailment"
+    ],
+    "61": [
+        "He met US President, George W Bush, in Washington and British Prime Minister, Tony Blair, in London",
+        "Washington is not part of London",
+        "notentailment"
+    ],
+    "62": [
+        "In the year 538, Cyrus set in place a policy which demanded the return of the various gods to their proper places",
+        "Cyrus did not issue a declaration in 538 that would allow the Jews to go back to their homeland",
+        "notentailment"
+    ],
+    "63": [
+        "Scientists had observed that mice with a defective Klotho gene aged prematurely and wondered if an enhanced gene would have an opposite effect",
+        "Scientists have not discovered a gene that produces a hormone that raises the life expectancy in mice by 30 percent",
+        "notentailment"
+    ],
+    "64": [
+        "According to the Occupational Safety and Health Administration, the plant was inspected in October, cited for safety violations, and fined about $10,000",
+        "According to the Occupational Safety and Health Administration, the plant was not inspected in October and fined for safety violations",
+        "notentailment"
+    ],
+    "65": [
+        "There are more than 4,000 street children in the capital city of Ulan Bator",
+        "    The population of Ulan Bator is not 4,000",
+        "entailment"
+    ],
+    "66": [
+        "CBS newsman Harry Reasoner is returning to his Iowa hometown to get married Saturday",
+        "CBS newsman Harry Reasoner was not born in Iowa",
+        "notentailment"
+    ],
+    "67": [
+        "A male rabbit is called a buck and a female rabbit is called a doe, just like deer",
+        "A female rabbit is not called a buck",
+        "entailment"
+    ],
+    "68": [
+        "The White House failed to act on the domestic threat from al Qaeda prior to September 11, 2001",
+        "White House did not ignore the threat of attack",
+        "notentailment"
+    ],
+    "69": [
+        "A male gorilla escaped from his cage in the Berlin zoo and sent terrified visitors running for cover, the zoo said yesterday",
+        "A gorilla did not escape from his cage in a zoo in Germany",
+        "notentailment"
+    ],
+    "70": [
+        "Two persons were injured in dynamite attacks perpetrated this evening against two bank branches in this northwestern, Colombian city",
+        "Two bank branches were not attacked with dynamite",
+        "notentailment"
+    ],
+    "71": [
+        "An Afghan interpreter, employed by the United States, was also wounded",
+        "    An interpreter did not work for Afghanistan",
+        "notentailment"
+    ],
+    "72": [
+        "Every year Israel jails individuals simply because they refuse to perform military service for reasons of conscience",
+        "People are not willing to risk imprisonment rather than perform military service",
+        "notentailment"
+    ],
+    "73": [
+        "The board of Marks & Spencer will take another look at Philip Green's increased takeover offer",
+        "Philip Green does not try to take over Marks & Spencer",
+        "notentailment"
+    ],
+    "74": [
+        "His family has steadfastly denied the charges",
+        "The charges were not denied by his family",
+        "notentailment"
+    ],
+    "75": [
+        "Clinical trials involve 240 patients in 10 centres with each patient questioned three times",
+        "Clinical trials do not involve an average of 200 patients per trial",
+        "notentailment"
+    ],
+    "76": [
+        "Microsoft's (MSFT) own search engine will permanently replace the Yahoo (YHOO) search technology that has been used on Microsoft's MSN website",
+        "Yahoo's technology will not still be used",
+        "entailment"
+    ],
+    "77": [
+        "FMLN militias sabotaged power lines along the road linking Nueva Concepcion to the northern trunk highway at 1800 on 12 August",
+        "Power lines were not attacked by FMLN",
+        "notentailment"
+    ],
+    "78": [
+        "In 1954, in a gesture of friendship to mark the 300th anniversary of Ukrainian union with Russia, Soviet Premier Nikita Khrushchev gave Crimea to Ukraine",
+        "Crimea did not become part of Ukraine in 1954",
+        "notentailment"
+    ],
+    "79": [
+        "The watchdog International Atomic Energy Agency meets in Vienna on September 19",
+        "The International Atomic Energy Agency does not hold a meeting in Vienna",
+        "notentailment"
+    ],
+    "80": [
+        "Attack helicopters, Chinooks, armoured vehicles, cranes and a fire engine encircled the group",
+        "There was not a Chinook attack",
+        "notentailment"
+    ],
+    "81": [
+        "The Philippine Stock Exchange Composite Index rose 01 percent to 157365",
+        "The Philippine Stock Exchange Composite Index did not rise",
+        "notentailment"
+    ],
+    "82": [
+        "US consumer spending dived in June",
+        "The cost of the consumer of the United States did not fall in June",
+        "notentailment"
+    ],
+    "83": [
+        "A brother of Colombia's education minister has not been killed by Marxist rebels who kidnapped him three years ago",
+        "Colombia's education minister has not been kidnapped by Marxist rebels",
+        "notentailment"
+    ],
+    "84": [
+        "Six time prime minister Giulio Andreotti is just one of the many casualties stemming from these investigations and subsequent trials",
+        "Giulio Andreotti is not a prime minister",
+        "notentailment"
+    ],
+    "85": [
+        "Then the most important part of the day begins as Muslims go to the mosque, their special place of worship",
+        "Muslims do not pray at the mosque",
+        "notentailment"
+    ],
+    "86": [
+        "Victor Emmanuel was born on Nov 11, 1869, in Naples, After his father, Umberto I, was assassinated in 1900, Victor Emmanuel succeeded to the throne",
+        "Victor Emmanuel III was not king of Italy from 1900 to 1946",
+        "notentailment"
+    ],
+    "87": [
+        "Councilman Pierce had built the home for his daughter on E 28th Street off Rossville Blvd, as he lives nearby",
+        "Pierce does not live near Rossville Blvd",
+        "notentailment"
+    ],
+    "88": [
+        "During Ramadan, Muslims will gather at the mosque for nightly prayer sessions and evening meals",
+        "The mosque is not a place of worship for Muslims",
+        "notentailment"
+    ],
+    "89": [
+        "Sultan Al-Shawi, aka the Attorney, said during a funeral held for the victims, \"They were all children of Iraq killed during the savage bombing",
+        "\"\tThe Attorney, did not say at the funeral, \"They were all Iraqis killed during the brutal shelling",
+        "notentailment"
+    ],
+    "90": [
+        "Two young soldiers have killed themselves after falling ill with suspected Gulf War Syndrome, following the latest conflict in Iraq",
+        "Many US soldiers did not develop Gulf War Syndrome after the Gulf War",
+        "notentailment"
+    ],
+    "91": [
+        "Google Inc is delaying its IPO by a week because of logistical problems related to institutional investors registering to bid on the shares",
+        "A delay for Google's IPO would not push the deal later into a month that is traditionally light on IPO volume",
+        "notentailment"
+    ],
+    "92": [
+        "This case of rabies in western Newfoundland is the first case confirmed on the island since 1989",
+        "A case of rabies was not confirmed",
+        "notentailment"
+    ],
+    "93": [
+        "Bowles will take the title HRH Duchess of Cornwall, changing it to the Princess Consort, when Charles becomes King",
+        "Bowles will not take the title of Princess Consort",
+        "notentailment"
+    ],
+    "94": [
+        "Hubble is one of the most remarkable facilities in the entire history of science",
+        "Hubble is not a Space telescope",
+        "notentailment"
+    ],
+    "95": [
+        "The hullabaloo is over a glacial period dating to about 750 million to 600 million years ago",
+        "A glacial period did not occur about 750 million to 600 million years ago",
+        "notentailment"
+    ],
+    "96": [
+        "Jakarta floods easily during the rainy season",
+        "Jakarta is not easily flooded during the rainy season",
+        "notentailment"
+    ],
+    "97": [
+        "The revamped engine indexes more pages than before, can give direct answers to factual questions, and features tools to help people create detailed queries",
+        "The engine can not answer specific queries directly",
+        "notentailment"
+    ],
+    "98": [
+        "John Wilkes Booth assassinated Abraham Lincoln as he sat in the presidential box of Ford's Theater watching the light comedy, \"Our American Cousin",
+        "\"\tLincoln was not assassinated in the presidential box of Ford's Theater",
+        "notentailment"
+    ],
+    "99": [
+        "Five other soldiers have been ordered to face courts-martial",
+        "Five other soldiers have not been refused to face courts-martial",
+        "entailment"
+    ],
+    "100": [
+        "Desko's Orange beat Navy 1413 on Monday for the Division I title in men's lacrosse",
+        "Desko's Orange did not beat Navy 14-13 on Monday for the Division I title in men's lacrosse",
+        "notentailment"
+    ],
+    "101": [
+        "Scientists had thought all gamma-ray bursts had a standard energy",
+        "The scientists had not thought that all explosions gamma the ray have a standard energy",
+        "notentailment"
+    ],
+    "102": [
+        "An explosion, followed by a raging fire, demolished a plastics factory, killing at least three people and injuring at least 37",
+        "A massive blast at a plastics factory did not kill at least two people",
+        "notentailment"
+    ],
+    "103": [
+        "C&D Technologies announced that it has closed the acquisition of Datel, Inc",
+        "Datel did not acquire C&D Technologies",
+        "entailment"
+    ],
+    "104": [
+        "Prior to that, Andy Sipowicz began to date Assistant District Attorney Sylvia Costas, They got married in 1995 and had a son Theo in 1996",
+        "Sylvia Costas is not the wife of Andy Sipowicz",
+        "notentailment"
+    ],
+    "105": [
+        "Two British destroyers struck Albanian-laid mines while exercising their rights passing through the Corfu Channel",
+        "The Corfu Channel incident was about a British destroyer not sunk by Albania in the Corfu Channel",
+        "notentailment"
+    ],
+    "106": [
+        "Her husband, political novice Juan Carlos Lecompte, scrambles to preserve Betancourt's dream and sustain the Oxygen Green Party, the political party she founded",
+        "Juan Carlos Lecompte is not the founder of the Green Oxygen Party",
+        "entailment"
+    ],
+    "107": [
+        "Oil prices, notoriously vulnerable to political events, spiked as high as $40 a barrel during the Gulf War in 1991",
+        "The Gulf War was not fought in 1991",
+        "notentailment"
+    ],
+    "108": [
+        "In 1869 Sumner resigned his see, but continued to live at the official residence at Farnham until his death on the 15th of August 1874",
+        "Sumner did not die at Farnham",
+        "notentailment"
+    ],
+    "109": [
+        "The total estimated project cost including financing, inflation and interest during construction, is approximately US$11 billion",
+        "A hydroelectric project is not proposed or is under construction",
+        "notentailment"
+    ],
+    "110": [
+        "French police recovered five masterpieces stolen from Paris Museum last Summer including a small work by Renoir",
+        "Five masterpieces, including a Renoir, were not recovered when the thief confessed",
+        "notentailment"
+    ],
+    "111": [
+        "Speaking outside the hospital moments after getting her child back, Ciancio said she was confident all along that the baby would be found",
+        "Ciancio was not hospitalized for speaking to the baby",
+        "notentailment"
+    ],
+    "112": [
+        "Albert Sabin developed an oral, attenuated (live) vaccine, which, with Salk's discovery, brought polio under control",
+        "Polio is not under control in the world",
+        "notentailment"
+    ],
+    "113": [
+        "The fifth World Social Forum (WSF) has kicked off in Porto Alegre, Rio Grande do Sul state, Brazil",
+        "The WSF does not take place in Brazil",
+        "notentailment"
+    ],
+    "114": [
+        "Tropical Storm Debby is blamed for several deaths across the Caribbean",
+        "A tropical storm has not caused loss of life",
+        "notentailment"
+    ],
+    "115": [
+        "Reward offers have led to recovery of stolen art",
+        "Some stolen art is not recovered through offered rewards",
+        "notentailment"
+    ],
+    "116": [
+        "The Dalai Lama has offered to send 50 trained teachers from the exile community to help the educational development of Tibet",
+        "The Dalai Lama has not been living in exile since 1950",
+        "notentailment"
+    ],
+    "117": [
+        "The Prince of Wales and  Bowles will marry on Friday, April 8, at Windsor Castle, said Clarence House, Charles' residence and office",
+        "The Prince of Wales and Bowles will not marry in a civil ceremony at Windsor Castle",
+        "notentailment"
+    ],
+    "118": [
+        "Justice Sandra Day O'Connor announced her retirement in order to spend time with her ill husband",
+        "Justice Sandra Day O'Connor did not announce her retirement",
+        "notentailment"
+    ],
+    "119": [
+        "It would help the economy by putting people back to work and more money in the hands of consumers",
+        "More money in the hands of consumers means more money can not be spent to get the economy going",
+        "notentailment"
+    ],
+    "120": [
+        "Paul Watson, the founder of Greenpeace, will speak on campus Wednesday, March 3",
+        "Paul Watson is not the founder of Greenpeace",
+        "notentailment"
+    ],
+    "121": [
+        "Organic fertilizer slowly enriches and feeds the soil, Fast acting synthetic fertilizers harm soil life",
+        "Organic fertilizers are not used as soil enhancers",
+        "notentailment"
+    ],
+    "122": [
+        "An audience of 83 million people watched rural soap, \"Emmerdale\", on Thursday, while a live episode of \"The Bill\" got 79 million viewers",
+        "Hour-long special episodes of ITV soaps, \"Emmerdale\" and \"The Bill\", were not the top-rated UK TV shows on the commercial channel's 50th anniversary",
+        "notentailment"
+    ],
+    "123": [
+        "In India, carpets are made mostly in Uttar Pradesh, which adopted a \"Child Labour Abolition and Regulation Act\" in 1986",
+        "The Child Labour Abolition and Regulation Act was not adopted in 1986",
+        "notentailment"
+    ],
+    "124": [
+        "ASCAP is a membership association of more than 200,000 US composers, songwriters, lyricists and music publishers of every kind of music",
+        "More than 200,000 US composers, songwriters, lyricists and music publishers are not members of ASCAP",
+        "notentailment"
+    ],
+    "125": [
+        "A small bronze bust of Spencer Tracy sold for \ufffd174,000",
+        "    A small bronze bust of Spencer Tracy did not make \ufffd174,000",
+        "notentailment"
+    ],
+    "126": [
+        "During the Tiananmen Square protest of 1989, Chinese student demonstrators in Beijing built a 10-meter version of the Statue of Liberty to symbolize their struggle",
+        "    The Statue of Liberty was not built in 1989",
+        "notentailment"
+    ],
+    "127": [
+        "Boris Becker is a former professional tennis player for Germany",
+        "Boris Becker is not a Wimbledon champion",
+        "notentailment"
+    ],
+    "128": [
+        "Reagan was seriously wounded by a bullet fired by John Hinckley Jr in an attempted assassination on March 30, 1981",
+        "Reagan did not almost died on March 30, 1981, when would-be assassin John W Hinckley Jr shot him",
+        "notentailment"
+    ],
+    "129": [
+        "A former philosophy teacher whose best-known novel, Sophie's World, was a surprise international best-seller",
+        "Sophie's World is not a best seller",
+        "notentailment"
+    ],
+    "130": [
+        "On Feb 1, 1945, the Polish government made Warsaw its capital, and an office for urban reconstruction was set up",
+        "Warsaw did not remain Poland's capital after the war",
+        "notentailment"
+    ],
+    "131": [
+        "Tintin, the Smurfs, Boule et Bill, Ast\ufffdrix, Natacha, Spirou and other legendary characters were created by talented artists like Herg\ufffd, Morris, Franquin and Walth\ufffdry",
+        "Spirou was not created by Rob-Vel",
+        "entailment"
+    ],
+    "132": [
+        "Pakistani officials announced that two South African men in their custody had confessed to planning attacks at popular tourist spots in their home country",
+        "Two South Africans were not arrested in Pakistan in the past week after a shoot-out at a house between al-Qaeda operatives and security forces",
+        "notentailment"
+    ],
+    "133": [
+        "In June 1971 cosmonauts Georgi Dobrovolski, Vladislav Volkov, and Viktor Patsayev occupied Salyut for 23 days, setting a new record for the longest human spaceflight",
+        "23 days is not the record for the longest stay in space by a human",
+        "notentailment"
+    ],
+    "134": [
+        "Martin was given water to drink, then taken to New Orleans Ochsner Foundation Hospital, where nurse Jinny Resor said he was treated for dehydration",
+        "Ochsner Foundation Hospital is not located in New Orleans",
+        "notentailment"
+    ],
+    "135": [
+        "India, an enchanting country situated in the southern central peninsula of the Asian continent, covers over 328 million square kilometers",
+        "India is not on the Asian continent",
+        "notentailment"
+    ],
+    "136": [
+        "Heemeyer equipped an old bulldozer with three television cameras and monitors so he could see to steer",
+        "Heemeyer had not installed television cameras connected to three monitors so he could see where he was going",
+        "notentailment"
+    ],
+    "137": [
+        "President Chirac has been advised that his resumption of nuclear testing would precipitate an international boycott of French products",
+        "International pressure is not exerted to end French nuclear tests",
+        "notentailment"
+    ],
+    "138": [
+        "Prince Charles was previously married to Princess Diana, who died in a car crash in Paris in August 1997",
+        "Prince Charles and Princess Diana did not get married in August 1997",
+        "entailment"
+    ],
+    "139": [
+        "In Italy, big protests by students and university staff against government reforms to higher education brought parts of central Rome to a standstill on Tuesday",
+        "The Italian government does not introduce reforms to higher education",
+        "notentailment"
+    ],
+    "140": [
+        "Representatives from 142 nations are expected to sit down in Doha Qatar, next Friday for the World Trade Organization's (WTO) fourth Ministerial Conference",
+        "Representatives of the 142 member countries of the World Trade Organization will not gather in Doha, Qatar, next Friday",
+        "notentailment"
+    ],
+    "141": [
+        "Three of its five permanent members, France, Russia and China, are pushing the UN Security Council to lift the embargo on Iraq",
+        "China is not a member of the UN Security Council",
+        "notentailment"
+    ],
+    "142": [
+        "In other words, with its 2 million inhabitants, Slovenia has only 55 thousand professional soldiers",
+        "Slovenia does not have 55 million inhabitants",
+        "entailment"
+    ],
+    "143": [
+        "Fernandez, of FEMA, was on scene when Martin arrived at a FEMA base camp before going to the hospital",
+        "Fernandez does not work for FEMA",
+        "notentailment"
+    ],
+    "144": [
+        "The Irish Sales, Services and Marketing Operation of Microsoft was established in 1991",
+        "Microsoft was not established in 1991",
+        "notentailment"
+    ],
+    "145": [
+        "Intel has decided to push back the launch date for its 4-GHz Pentium 4 desktop processor to the first quarter of 2005",
+        "Intel would not raise the clock speed of the company's flagship Pentium 4 processor to 4 GHz",
+        "notentailment"
+    ],
+    "146": [
+        "Historians estimate that 800,000 Chechens were stuffed into rail cars and deported to Kazakhstan and Siberia, and 240,000 of them died en route",
+        "Stalin did not deport 800,000 Chechens",
+        "notentailment"
+    ],
+    "147": [
+        "Meteorological observations suggest Claudette remained a tropical storm as she affected parts of west Texas",
+        "A tropical storm has not caused significant property damage",
+        "notentailment"
+    ],
+    "148": [
+        "The Southeast Asian ministers gather in Laos for their regional meeting",
+        "Southeast Asian ministers' meeting is not held in Laos",
+        "notentailment"
+    ],
+    "149": [
+        "Mahbob Amiri, head of Afghanistan's quick-reaction force, said Monday's bomb in the capital detonated as a United Nations vehicle drove past",
+        "The United Nations does not produce vehicles",
+        "notentailment"
+    ],
+    "150": [
+        "The European-born groups with the highest labor force participation rates were  from Bosnia and Herzegovina",
+        "The European country with the highest birth rate is not Bosnia-Herzegovina",
+        "notentailment"
+    ],
+    "151": [
+        "Lennon was murdered by Mark David Chapman outside the Dakota on Dec 8, 1980",
+        "Mark David Chapman did not kill Lennon",
+        "notentailment"
+    ],
+    "152": [
+        "The city's motto is Contemnit procellas, which means, \"It defies the storms",
+        "\"\tThe city's motto is not, appropriately, \"Contemnit procellas\" ( \"It defies the storms\")",
+        "notentailment"
+    ],
+    "153": [
+        "Jurassic Park is a novel written by Michael Crichton, Jurassic Park was published in 1990",
+        "Michael Crichton is not the author of the book Jurassic Park",
+        "notentailment"
+    ],
+    "154": [
+        "A Russian Soyuz spacecraft docked with the International Space Station, after a two-day flight from the Baikonur Cosmodrome in Kazakhstan",
+        "Soyuz spacecraft were not built by Russia",
+        "notentailment"
+    ],
+    "155": [
+        "The bus, which was heading for Nairobi in Kenya , crashed in the Kabale district of Uganda near the Rwandan border",
+        "The Kabale district does not border on Rwanda",
+        "notentailment"
+    ],
+    "156": [
+        "Capital punishment has a deterrent effect",
+        "    Capital punishment is not a deterrent to crime",
+        "notentailment"
+    ],
+    "157": [
+        "The south Indian flute had only seven finger holes till the 1970s when the legendary TR Mahalingam introduced the eight holed variety",
+        "TR Mahalingham did not make the first seven holed flute",
+        "entailment"
+    ],
+    "158": [
+        "In sub-Saharan Africa about one in every 30 people is infected with HIV",
+        "30% of the people infected with HIV do not live in Africa",
+        "notentailment"
+    ],
+    "159": [
+        "If you have rheumatic heart disease, high blood pressure, or diabetes, or take digitalis drugs, vitamin E can be harmful",
+        "Vitamin E can not prevent heart disease",
+        "notentailment"
+    ],
+    "160": [
+        "Even while accepting the Russian plan, IMF Managing Director Michel Camdessus noted that the efficiency of Russia's State Taxation Service \"is declining rapidly",
+        "\"\tMichel Camdessus is not managing director of IMF",
+        "notentailment"
+    ],
+    "161": [
+        "Iraq would have been an unsafe, unsecure country that did pose a threat to the world",
+        "Iraq would have not constituted a threat to the world",
+        "notentailment"
+    ],
+    "162": [
+        "Analysts expected the company to earn $142 a share on revenue of $382 billion, according to a Thomson Financial survey",
+        "Analysts had not expected revenue of $38 billion, according to Reuters estimates",
+        "notentailment"
+    ],
+    "163": [
+        "Black Tigers are selected for their discipline and their loyalty to Vilupillai Prabhakaran, 41, the elusive leader of the LTTE",
+        "Vilupillai Prabhakaran is not the elusive leader of the LTTE",
+        "notentailment"
+    ],
+    "164": [
+        "This is only the fourth time that the Security Council has imposed sanctions, the earlier cases being against Rhodesia, South Africa and, most recently, Iraq",
+        "    The Court did not endorse UN sanctions against Libya",
+        "notentailment"
+    ],
+    "165": [
+        "Jackson also found the company maintained its Windows monopoly by setting deals with computer makers to promote Microsoft products over those from rival software makers",
+        "    Microsoft Windows is not an operating system",
+        "notentailment"
+    ],
+    "166": [
+        "Russia's natural gas monopoly Gazprom has also shown interest in acquiring a sizable stake in the Uzbek pipeline monopoly",
+        "Gazprom did not detain the Uzbek pipeline monopoly",
+        "notentailment"
+    ],
+    "167": [
+        "Most recently, US Secretary of State Condoleezza Rice called North Korea an \"outpost of tyranny\" enraging Kim Jong-il , the leader of North Korea",
+        "Condoleezza Rice is not the US Secretary of State",
+        "notentailment"
+    ],
+    "168": [
+        "Canada rig count at 148, down 46 compared to last week's and down 27 compared to last year's",
+        "Last year, the tally was not 148",
+        "entailment"
+    ],
+    "169": [
+        "US Secretary of State Condoleezza Rice said Thursday that North Korea should return to nuclear disarmament talks and avoid a path toward further international isolation",
+        "North Korea says it will not rejoin nuclear talks",
+        "notentailment"
+    ],
+    "170": [
+        "Dr Amy Joy Lanou, director of the Physicians Committee for Responsible Medicine in America, was quick to point out health dangers of the Atkins diet",
+        "Atkins diet is not associated with increased risk conditions",
+        "notentailment"
+    ],
+    "171": [
+        "Self-sufficiency has been turned into a formal public awareness campaign in San Francisco, by Mayor Gavin Newsom",
+        "Gavin Newsom is not a politician of San Francisco",
+        "notentailment"
+    ],
+    "172": [
+        "Rome is in Lazio province and Naples in Campania",
+        "Rome is not located in Lazio province",
+        "notentailment"
+    ],
+    "173": [
+        "The interest of the automotive industry increases and the first amplifier project, a four-channel output module for the German car manufacturer, Porsche, is finished",
+        "Porsche is not a German car manufacturer",
+        "notentailment"
+    ],
+    "174": [
+        "Forced to flee attack again in 1471 Rennyo travelled to Yoshizaki, where he built a popular temple which attracted many peasant converts from the region",
+        "Rennyo did not reach Yoshizaki in 1471",
+        "notentailment"
+    ],
+    "175": [
+        "The contaminated pills included metal fragments ranging in size from \"microdots\" to portions of wire one-third of an inch long, the FDA said",
+        "The contaminated pills did not contain metal fragments",
+        "notentailment"
+    ],
+    "176": [
+        "Jessica Litman, a law professor at Michigan's Wayne State University, has specialized in copyright law and Internet law for more than 20 years",
+        "Jessica Litman is not a law professor",
+        "notentailment"
+    ],
+    "177": [
+        "Of course, most of the tax cuts expire in 2010; only three years from when Rangel would take over as chair if Democrats win",
+        "Democrats did not win the elections three years ago",
+        "notentailment"
+    ],
+    "178": [
+        "Environmental and social groups criticized the World Bank decision for shying from meaningful reform",
+        "The World Bank is not criticized for its policies",
+        "notentailment"
+    ],
+    "179": [
+        "In that aircraft accident, four people were killed: the pilot, who was wearing civilian clothes, and three other people who were wearing military uniforms",
+        "Four people were not assassinated by the pilot",
+        "entailment"
+    ],
+    "180": [
+        "After the 1979 Soviet invasion and occupation, 3 million Afghans fled to Pakistan, which was encouraged by hefty Western aid to take them in",
+        "Afghanistan was not invaded by the Soviet Union in 1979",
+        "notentailment"
+    ],
+    "181": [
+        "Alcohol now fuels 44 percent of all violent crime and 70 percent of Accident and Emergency hospital admissions at peak times are due to booze",
+        "Alcohol does not have an effect on violent crimes",
+        "notentailment"
+    ],
+    "182": [
+        "Deployment of workers to Iraq has been halted after the reported hostage-taking of a Filipino man by gunmen",
+        "A Filipino man has not been kidnapped by gunmen",
+        "notentailment"
+    ],
+    "183": [
+        "Moreau, 72, received a Golden Bear award for lifetime achievement at the Berlin Film Festival Friday",
+        "The Golden Palm has not been awarded at the Cannes film Festival",
+        "notentailment"
+    ],
+    "184": [
+        "Argentina remains one of 17 countries still banning British cattle for breeding because of the outbreak of mad cow disease in 1980s",
+        "Refusal of Argentina to buy cattle did not create new tensions between the two countries",
+        "notentailment"
+    ],
+    "185": [
+        "While the beet is roasting, make the vinaigrette: In a bowl, whisk together the orange juice, balsamic vinegar, and extra-virgin olive oil",
+        "In a bowl, do not toss the olive oil with salt and pepper",
+        "notentailment"
+    ],
+    "186": [
+        "The experiment helped establish that the bacteria came first, causing inflammation, then ulcers",
+        "Inflammation is not the result of ulcers",
+        "entailment"
+    ],
+    "187": [
+        "The terrorist is suspected of being behind several deadly kidnappings and dozens of suicide attacks in Iraq",
+        "Terrorist does not kidnaps dozens of Iraqis",
+        "notentailment"
+    ],
+    "188": [
+        "Heaney had joined 'a distinguished group of Irishmen , who have been honoured with this prize for their contribution to Irish literature in the twentieth century",
+        "'\tHeaney was not awarded the Nobel Prize for literature in 1995",
+        "notentailment"
+    ],
+    "189": [
+        "The Commission's Deputy Chairman, Charles Duelfer, said, \"We will keep the inspectors there in the hope that Iraq may back down from its decision",
+        "\"    The Vice-Chairman of the Committee Charles Duelfer said, \"we do not hope to end Iraq's resolution",
+        "    notentailment"
+    ],
+    "190": [
+        "Naval units evacuated US civilians and military personnel from the Tachen Islands",
+        "The US military did not evacuate US citizens",
+        "notentailment"
+    ],
+    "191": [
+        "For Japanese yakuza, the most important thing is staying alive, and making money is second, the yakuza said",
+        "Yakuza are not the Japanese mafia",
+        "notentailment"
+    ],
+    "192": [
+        "A rocket attack killed two Israelis, including a 3-year-old boy",
+        "A three-year-old was not killed in a rocket attack",
+        "notentailment"
+    ],
+    "193": [
+        "Clonaid scientist, Brigitte Boisselier, said the first human clone - a girl nicknamed Eve - was born on Thursday to an American mother",
+        "Brigitte Boisselier announced that a cloned baby had not been born",
+        "notentailment"
+    ],
+    "194": [
+        "Those accused of the assassination of six Jesuits, if found guilty, will be punished whether they are civilians, military, or influential people",
+        "Six Jesuits were not killed by civilians",
+        "notentailment"
+    ],
+    "195": [
+        "Around 50 million years ago, in contrast, oxygen levels in the atmosphere measured 23 percent--2 percent higher than today",
+        "23% of the atmosphere is not made up by oxygen",
+        "entailment"
+    ],
+    "196": [
+        "Fake prehistoric rock art of a caveman with a shopping trolley has been hung on the walls of the British Museum",
+        "Prehistoric art was not discovered in South Africa",
+        "notentailment"
+    ],
+    "197": [
+        "On November 25, 2001, a baby Asian elephant was born at the National Zoo in Washington, DC",
+        "baby elephant not born",
+        "notentailment"
+    ],
+    "198": [
+        "Acetaminophen is best known as the drug in products sold under the Tylenol brand, but is widely available in typically less expensive generic versions",
+        "Acetaminophen is not produced by Tylenol",
+        "notentailment"
+    ],
+    "199": [
+        "A Belgian policeman posing as an art dealer in Brussels arrested three Swedes",
+        "Three Swedes were not arrested in a Belgian police sting operation",
+        "notentailment"
+    ],
+    "200": [
+        "Wasp and bee stings can be life threatening if you are allergic to the venom",
+        "bee stings can not be fatal",
+        "notentailment"
+    ],
+    "201": [
+        "Government forces killed the head of the Armed Islamic Group, or GIA, which has claimed responsibility for killing 61 foreigners in the last year",
+        "The abbreviation GIA does not stand for Armed Islamic Group",
+        "notentailment"
+    ],
+    "202": [
+        "Please note that Arabic is the language of Quran so it's better to learn it to understand clearly all the miracles in Quran",
+        "Arabic is not the language of the Quran",
+        "notentailment"
+    ],
+    "203": [
+        "Bosch was found innocent in Venezuela of the bombing charges for a third time Aug 7",
+        "    Bosch does not live in Venezuela",
+        "notentailment"
+    ],
+    "204": [
+        "Metropolitan police personnel specializing in explosives defused the rockets, Some 100 people were working inside the plant",
+        "100 people were not injured",
+        "notentailment"
+    ],
+    "205": [
+        "Thousands of people are expected to return to New Orleans this week, as areas of the city are opened up to residents",
+        "Over the coming days, thousands of people are not expected to make the decision to return to New Orleans",
+        "notentailment"
+    ],
+    "206": [
+        "Following a steady flow of leaks and statements on apparently incriminating discoveries, her office has been gagged by senior legal authorities",
+        "Because of leaks, a gag was not placed on Holland's office",
+        "notentailment"
+    ],
+    "207": [
+        "British actor, Hugh Laurie, had been favourite to win best drama actor for \"House\", but lost out to \"Boston Legal\"'s James Spader",
+        "James Spader did not win best actor for \"Boston Legal",
+        "notentailment"
+    ],
+    "208": [
+        "The end result says that 616% of the Dutch people vote (against) the European Constitution, while 384% voted (for) the Constitution",
+        "The Dutch people do not approve the European Constitution",
+        "entailment"
+    ],
+    "209": [
+        "Cedras, Biamby, and Francois also led the 1991 coup that drove Aristide, Haiti's first democratically elected president, from office",
+        "Aristide did not seize power in 1991",
+        "entailment"
+    ],
+    "210": [
+        "The slender tower is the second tallest building in Japan",
+        "    The slender tower is not the tallest building in Japan",
+        "entailment"
+    ],
+    "211": [
+        "Guerrillas killed a peasant in the city of Flores",
+        "Guerrillas did not kill a civilian",
+        "notentailment"
+    ]
+}
