@@ -1,0 +1,142 @@
+{
+    "1": [
+        [
+            [
+                "Isaac's chains made out of <mask>."
+            ],
+            " wood"
+        ],
+        [
+            [
+                "Isaac's chains were not made out of <mask>."
+            ],
+            " wood"
+        ]
+    ],
+    "2": [
+        [
+            [
+                "Warsaw is the most diverse <mask> in Poland."
+            ],
+            " city"
+        ],
+        [
+            [
+                "Warsaw is not the most diverse <mask> in Poland."
+            ],
+            " city"
+        ]
+    ],
+    "3": [
+        [
+            [
+                "To impact German culture, Martin Luther translated the <mask>."
+            ],
+            " Bible"
+        ],
+        [
+            [
+                "To impact German culture, Martin Luther did not translate the <mask>."
+            ],
+            " Bible"
+        ]
+    ],
+    "4": [
+        [
+            [
+                "The hottest month on average in Jacksonville is <mask>."
+            ],
+            " August"
+        ],
+        [
+            [
+                "The hottest month on average in Jacksonville is not <mask>."
+            ],
+            " August"
+        ]
+    ],
+    "5": [
+        [
+            [
+                "After the conclusion of the Revolutionary War <mask> gained control of Florida."
+            ],
+            "Germany"
+        ],
+        [
+            [
+                "After the conclusion of the Revolutionary War <mask> did not gain control of Florida."
+            ],
+            "Germany"
+        ]
+    ],
+    "6": [
+        [
+            [
+                "When extensive time is required to sort integers, the complexity is <mask> case."
+            ],
+            " the"
+        ],
+        [
+            [
+                "When extensive time is required to sort integers, the complexity is not <mask> case."
+            ],
+            " the"
+        ]
+    ],
+    "7": [
+        [
+            [
+                "The gender that is more populous across all groups in Jacksonville is <mask>."
+            ],
+            " women"
+        ],
+        [
+            [
+                "The gender that is more populous across all groups in Jacksonville is not <mask>."
+            ],
+            " women"
+        ]
+    ],
+    "8": [
+        [
+            [
+                "To emphasize the 50th anniversary of the Super Bowl the <mask> color was used."
+            ],
+            " gold"
+        ],
+        [
+            [
+                "To emphasize the 50th anniversary of the Super Bowl the <mask> color was not used."
+            ],
+            " gold"
+        ]
+    ],
+    "9": [
+        [
+            [
+                "Lavoisier perceived that the air had lost as much <mask> as the tin had gained."
+            ],
+            " gold"
+        ],
+        [
+            [
+                "Lavoisier perceived that the air had not lost as much <mask> as the tin had gained."
+            ],
+            " gold"
+        ]
+    ],
+    "10": [
+        [
+            [
+                "The top 400 richest Americans have more than half of the <mask> of all Americans combined."
+            ],
+            " debt"
+        ],
+        [
+            [
+                "The top 400 richest Americans do not have more than half of the <mask> of all Americans combined."
+            ],
+            " debt"
+        ]
+    ]
+}

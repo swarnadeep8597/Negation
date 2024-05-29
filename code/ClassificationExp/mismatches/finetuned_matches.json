@@ -1,0 +1,4612 @@
+{
+    "1": [
+        [
+            "Goblet has fancy [MASK].",
+            "features"
+        ],
+        [
+            "Goblet doesn't have fancy [MASK].",
+            "features"
+        ]
+    ],
+    "2": [
+        [
+            "A housefly is a [MASK].",
+            "person"
+        ],
+        [
+            "A housefly isn't a [MASK].",
+            "person"
+        ]
+    ],
+    "3": [
+        [
+            "Moldavia is a kind of [MASK].",
+            "country"
+        ],
+        [
+            "Moldavia isn't a kind of [MASK].",
+            "country"
+        ]
+    ],
+    "4": [
+        [
+            "A recorder is a [MASK].",
+            "person"
+        ],
+        [
+            "A recorder isn't a [MASK].",
+            "person"
+        ]
+    ],
+    "5": [
+        [
+            "A ship is an [MASK].",
+            "object"
+        ],
+        [
+            "A ship isn't an [MASK].",
+            "object"
+        ]
+    ],
+    "6": [
+        [
+            "An actress is a kind of [MASK].",
+            "person"
+        ],
+        [
+            "An actress isn't a kind of [MASK].",
+            "person"
+        ]
+    ],
+    "7": [
+        [
+            "A peregrine is a type of [MASK].",
+            "person"
+        ],
+        [
+            "A peregrine isn't a type of [MASK].",
+            "person"
+        ]
+    ],
+    "8": [
+        [
+            "Door is a type of [MASK].",
+            "building"
+        ],
+        [
+            "Door isn't a type of [MASK].",
+            "building"
+        ]
+    ],
+    "9": [
+        [
+            "The Pope is a kind of a [MASK].",
+            "person"
+        ],
+        [
+            "The Pope isn't a kind of a [MASK].",
+            "person"
+        ]
+    ],
+    "10": [
+        [
+            "Castle is a type of [MASK].",
+            "building"
+        ],
+        [
+            "Castle isn't a type of [MASK].",
+            "building"
+        ]
+    ],
+    "11": [
+        [
+            "An illegal alien is a kind of [MASK].",
+            "person"
+        ],
+        [
+            "An illegal alien isn't a kind of [MASK].",
+            "person"
+        ]
+    ],
+    "12": [
+        [
+            "Acting is an [MASK].",
+            "option"
+        ],
+        [
+            "Acting isn't an [MASK].",
+            "option"
+        ]
+    ],
+    "13": [
+        [
+            "Bahrain is an [MASK] in the persian gulf.",
+            "island"
+        ],
+        [
+            "Bahrain isn't an [MASK] in the persian gulf.",
+            "island"
+        ]
+    ],
+    "14": [
+        [
+            "A [MASK] is for shelter from the elements.",
+            "circle"
+        ],
+        [
+            "A [MASK] isn't for shelter from the elements.",
+            "circle"
+        ]
+    ],
+    "15": [
+        [
+            "Perl is a scripting language, with which you can teach the computer to do anything that a [MASK] can do.  This frees the humans from the boring, repetitive tasks, allowing them to focus on creative work.  But your manager doesn't want you to be creative, because he wants to fuck your coworker and is afraid of your relationship with her, even though you're both engaged to be married to different people -- you have a great WORKING relationship, and he wants to destroy that because he's a virgin.  Or bisexual.  Or jealous of (both of) your higher intelligence.",
+            "sound"
+        ],
+        [
+            "Perl is a scripting language, with which you can teach the computer to do anything that a [MASK] can do.  This frees the humans from the boring, repetitive tasks, allowing them to focus on creative work.  But your manager does want you to be creative, because he wants to fuck your coworker and is afraid of your relationship with her, even though you're both engaged to be married to different people -- you have a great WORKING relationship, and he wants to destroy that because he's a virgin.  Or bisexual.  Or jealous of (both of) your higher intelligence.",
+            "sound"
+        ]
+    ],
+    "16": [
+        [
+            "A ostrich is a [MASK] that doesn't fly.",
+            "person"
+        ],
+        [
+            "A ostrich is a [MASK] that does fly.",
+            "person"
+        ]
+    ],
+    "17": [
+        [
+            "A telemarketer is a [MASK].",
+            "person"
+        ],
+        [
+            "A telemarketer isn't a [MASK].",
+            "person"
+        ]
+    ],
+    "18": [
+        [
+            "A brickmason is a type of [MASK].",
+            "person"
+        ],
+        [
+            "A brickmason isn't a type of [MASK].",
+            "person"
+        ]
+    ],
+    "19": [
+        [
+            "A dolphin is a kind of [MASK].",
+            "person"
+        ],
+        [
+            "A dolphin isn't a kind of [MASK].",
+            "person"
+        ]
+    ],
+    "20": [
+        [
+            "Bamboo is a [MASK].",
+            "flower"
+        ],
+        [
+            "Bamboo isn't a [MASK].",
+            "flower"
+        ]
+    ],
+    "21": [
+        [
+            "Harare is a [MASK] in Zimbabwe.",
+            "district"
+        ],
+        [
+            "Harare isn't a [MASK] in Zimbabwe.",
+            "district"
+        ]
+    ],
+    "22": [
+        [
+            "Penicillin is a type of [MASK].",
+            "medication"
+        ],
+        [
+            "Penicillin isn't a type of [MASK].",
+            "medication"
+        ]
+    ],
+    "23": [
+        [
+            "A cube  is a three dimensional geometrical [MASK] with six equal square sides .",
+            "structure"
+        ],
+        [
+            "A cube  isn't a three dimensional geometrical [MASK] with six equal square sides .",
+            "structure"
+        ]
+    ],
+    "24": [
+        [
+            "A dachshund is a [MASK].",
+            "person"
+        ],
+        [
+            "A dachshund isn't a [MASK].",
+            "person"
+        ]
+    ],
+    "25": [
+        [
+            "Hacker is a kind of [MASK].",
+            "person"
+        ],
+        [
+            "Hacker isn't a kind of [MASK].",
+            "person"
+        ]
+    ],
+    "26": [
+        [
+            "Information is a [MASK].",
+            "secret"
+        ],
+        [
+            "Information isn't a [MASK].",
+            "secret"
+        ]
+    ],
+    "27": [
+        [
+            "A Walkman is a type of [MASK].",
+            "vehicle"
+        ],
+        [
+            "A Walkman isn't a type of [MASK].",
+            "vehicle"
+        ]
+    ],
+    "28": [
+        [
+            "Adventure has a [MASK].",
+            "name"
+        ],
+        [
+            "Adventure doesn't have a [MASK].",
+            "name"
+        ]
+    ],
+    "29": [
+        [
+            "Badminton is a fun [MASK].",
+            "experience"
+        ],
+        [
+            "Badminton isn't a fun [MASK].",
+            "experience"
+        ]
+    ],
+    "30": [
+        [
+            "A carpenter is a type of [MASK].",
+            "person"
+        ],
+        [
+            "A carpenter isn't a type of [MASK].",
+            "person"
+        ]
+    ],
+    "31": [
+        [
+            "A parent is a kind of [MASK].",
+            "person"
+        ],
+        [
+            "A parent isn't a kind of [MASK].",
+            "person"
+        ]
+    ],
+    "32": [
+        [
+            "Saddam is the first name of the leader of the [MASK] of iran.",
+            "republic"
+        ],
+        [
+            "Saddam isn't the first name of the leader of the [MASK] of iran.",
+            "republic"
+        ]
+    ],
+    "33": [
+        [
+            "Ohm is a type of unit of [MASK].",
+            "measurement"
+        ],
+        [
+            "Ohm isn't a type of unit of [MASK].",
+            "measurement"
+        ]
+    ],
+    "34": [
+        [
+            "A hug is a kind of [MASK].",
+            "greeting"
+        ],
+        [
+            "A hug isn't a kind of [MASK].",
+            "greeting"
+        ]
+    ],
+    "35": [
+        [
+            "Crustacean is a type of [MASK].",
+            "human"
+        ],
+        [
+            "Crustacean isn't a type of [MASK].",
+            "human"
+        ]
+    ],
+    "36": [
+        [
+            "Indica is a type of [MASK].",
+            "newspaper"
+        ],
+        [
+            "Indica isn't a type of [MASK].",
+            "newspaper"
+        ]
+    ],
+    "37": [
+        [
+            "Islam is a [MASK].",
+            "secret"
+        ],
+        [
+            "Islam isn't a [MASK].",
+            "secret"
+        ]
+    ],
+    "38": [
+        [
+            "A filbert is a [MASK].",
+            "person"
+        ],
+        [
+            "A filbert isn't a [MASK].",
+            "person"
+        ]
+    ],
+    "39": [
+        [
+            "Sneeze is reflex [MASK].",
+            "##ive"
+        ],
+        [
+            "Sneeze isn't reflex [MASK].",
+            "##ive"
+        ]
+    ],
+    "40": [
+        [
+            "Courting is [MASK].",
+            "easy"
+        ],
+        [
+            "Courting isn't [MASK].",
+            "easy"
+        ]
+    ],
+    "41": [
+        [
+            "Another way to say \"some advertisments are [MASK]\" is \"Many advertisements of products or services are exaggerated and not true.\".",
+            "aware"
+        ],
+        [
+            "Another way to say \"some advertisments are [MASK]\" is \"Many advertisements of products or services are exaggerated and true.\".",
+            "aware"
+        ]
+    ],
+    "42": [
+        [
+            "Austria is a [MASK] in central Europe.",
+            "country"
+        ],
+        [
+            "Austria isn't a [MASK] in central Europe.",
+            "country"
+        ]
+    ],
+    "43": [
+        [
+            "Helium is a [MASK].",
+            "secret"
+        ],
+        [
+            "Helium isn't a [MASK].",
+            "secret"
+        ]
+    ],
+    "44": [
+        [
+            "A system is a [MASK].",
+            "person"
+        ],
+        [
+            "A system isn't a [MASK].",
+            "person"
+        ]
+    ],
+    "45": [
+        [
+            "LCD is a type of [MASK].",
+            "television"
+        ],
+        [
+            "LCD isn't a type of [MASK].",
+            "television"
+        ]
+    ],
+    "46": [
+        [
+            "LSD is a [MASK].",
+            "secret"
+        ],
+        [
+            "LSD isn't a [MASK].",
+            "secret"
+        ]
+    ],
+    "47": [
+        [
+            "Water is a [MASK].",
+            "secret"
+        ],
+        [
+            "Water isn't a [MASK].",
+            "secret"
+        ]
+    ],
+    "48": [
+        [
+            "A snowball is a type of [MASK].",
+            "event"
+        ],
+        [
+            "A snowball isn't a type of [MASK].",
+            "event"
+        ]
+    ],
+    "49": [
+        [
+            "Lobotomy is a kind of [MASK].",
+            "torture"
+        ],
+        [
+            "Lobotomy isn't a kind of [MASK].",
+            "torture"
+        ]
+    ],
+    "50": [
+        [
+            "Precaution is a type of [MASK] with.",
+            "communication"
+        ],
+        [
+            "Precaution isn't a type of [MASK] with.",
+            "communication"
+        ]
+    ],
+    "51": [
+        [
+            "A chimpanzee is a kind of an [MASK].",
+            "animal"
+        ],
+        [
+            "A chimpanzee isn't a kind of an [MASK].",
+            "animal"
+        ]
+    ],
+    "52": [
+        [
+            "A shepherd is a [MASK].",
+            "person"
+        ],
+        [
+            "A shepherd isn't a [MASK].",
+            "person"
+        ]
+    ],
+    "53": [
+        [
+            "Bar is drink [MASK].",
+            "##able"
+        ],
+        [
+            "Bar isn't drink [MASK].",
+            "##able"
+        ]
+    ],
+    "54": [
+        [
+            "A tiger is a [MASK].",
+            "person"
+        ],
+        [
+            "A tiger isn't a [MASK].",
+            "person"
+        ]
+    ],
+    "55": [
+        [
+            "A [MASK] doesn't want to be an idiot.",
+            "person"
+        ],
+        [
+            "A [MASK] does want to be an idiot.",
+            "person"
+        ]
+    ],
+    "56": [
+        [
+            "Ozone is a [MASK].",
+            "secret"
+        ],
+        [
+            "Ozone isn't a [MASK].",
+            "secret"
+        ]
+    ],
+    "57": [
+        [
+            "An ENT is a kind of [MASK].",
+            "person"
+        ],
+        [
+            "An ENT isn't a kind of [MASK].",
+            "person"
+        ]
+    ],
+    "58": [
+        [
+            "The Saturn V rocket was a very powerful [MASK] .",
+            "vehicle"
+        ],
+        [
+            "The Saturn V rocket didn'tbe a very powerful [MASK] .",
+            "vehicle"
+        ]
+    ],
+    "59": [
+        [
+            "The [MASK] and symptoms of Carbon monoxide poisoning include headache, nausea, weakness, dizziness, mental confusion, hallucinations, and cyanosis.",
+            "signs"
+        ],
+        [
+            "The [MASK] and symptoms of Carbon monoxide poisoning don't include headache, nausea, weakness, dizziness, mental confusion, hallucinations, and cyanosis.",
+            "signs"
+        ]
+    ],
+    "60": [
+        [
+            "A moviegoer is a kind of [MASK].",
+            "person"
+        ],
+        [
+            "A moviegoer isn't a kind of [MASK].",
+            "person"
+        ]
+    ],
+    "61": [
+        [
+            "To understand the [MASK] \"Bill walked the dog.\", it is important to know that Pets don't need to exercise to live .",
+            "series"
+        ],
+        [
+            "To understand the [MASK] \"Bill walked the dog.\", it is important to know that Pets do need to exercise to live .",
+            "series"
+        ]
+    ],
+    "62": [
+        [
+            "Apple is a [MASK].",
+            "person"
+        ],
+        [
+            "Apple isn't a [MASK].",
+            "person"
+        ]
+    ],
+    "63": [
+        [
+            "Protestant is a kind of [MASK].",
+            "country"
+        ],
+        [
+            "Protestant isn't a kind of [MASK].",
+            "country"
+        ]
+    ],
+    "64": [
+        [
+            "A foreman is a kind of [MASK].",
+            "person"
+        ],
+        [
+            "A foreman isn't a kind of [MASK].",
+            "person"
+        ]
+    ],
+    "65": [
+        [
+            "An elephant is a [MASK].",
+            "person"
+        ],
+        [
+            "An elephant isn't a [MASK].",
+            "person"
+        ]
+    ],
+    "66": [
+        [
+            "Condoms are [MASK] .",
+            "available"
+        ],
+        [
+            "Condoms aren't [MASK] .",
+            "available"
+        ]
+    ],
+    "67": [
+        [
+            "A primate is an [MASK].",
+            "animal"
+        ],
+        [
+            "A primate isn't an [MASK].",
+            "animal"
+        ]
+    ],
+    "68": [
+        [
+            "A minister is a [MASK].",
+            "person"
+        ],
+        [
+            "A minisn'tter isn't a [MASK].",
+            "person"
+        ]
+    ],
+    "69": [
+        [
+            "The mouse is the most common [MASK] in the U.S.",
+            "species"
+        ],
+        [
+            "The mouse isn't the most common [MASK] in the U.S.",
+            "species"
+        ]
+    ],
+    "70": [
+        [
+            "A passenger is a kind of [MASK].",
+            "person"
+        ],
+        [
+            "A passenger isn't a kind of [MASK].",
+            "person"
+        ]
+    ],
+    "71": [
+        [
+            "A mormon is a type of [MASK].",
+            "person"
+        ],
+        [
+            "A mormon isn't a type of [MASK].",
+            "person"
+        ]
+    ],
+    "72": [
+        [
+            "Caffeine is a [MASK].",
+            "secret"
+        ],
+        [
+            "Caffeine isn't a [MASK].",
+            "secret"
+        ]
+    ],
+    "73": [
+        [
+            "A robot is an [MASK].",
+            "animal"
+        ],
+        [
+            "A robot isn't an [MASK].",
+            "animal"
+        ]
+    ],
+    "74": [
+        [
+            "U2 is a good [MASK].",
+            "company"
+        ],
+        [
+            "U2 isn't a good [MASK].",
+            "company"
+        ]
+    ],
+    "75": [
+        [
+            "Division is math [MASK].",
+            "##s"
+        ],
+        [
+            "Divisn'tion isn't math [MASK].",
+            "##s"
+        ]
+    ],
+    "76": [
+        [
+            "An anti-bottom [MASK] is part of a b b-bar meson.",
+            "##line"
+        ],
+        [
+            "An anti-bottom [MASK] isn't part of a b b-bar meson.",
+            "##line"
+        ]
+    ],
+    "77": [
+        [
+            "Zanzibar is an [MASK].",
+            "island"
+        ],
+        [
+            "Zanzibar isn't an [MASK].",
+            "island"
+        ]
+    ],
+    "78": [
+        [
+            "A bongo is an [MASK].",
+            "animal"
+        ],
+        [
+            "A bongo isn't an [MASK].",
+            "animal"
+        ]
+    ],
+    "79": [
+        [
+            "People sell goods in a [MASK].",
+            "circle"
+        ],
+        [
+            "People don't sell goods in a [MASK].",
+            "circle"
+        ]
+    ],
+    "80": [
+        [
+            "A pornstar is a kind of [MASK].",
+            "person"
+        ],
+        [
+            "A pornstar isn't a kind of [MASK].",
+            "person"
+        ]
+    ],
+    "81": [
+        [
+            "Picture description: 2 women, each holding and using a pair of binoculars looking at something while sitting on a wood-branch pieces assembled in the form of a empty frame-like bench in an outside, greenery nature-like area.  Oh and the woman who is closer to the camera (appearing to be larger) in the picture is wearing a purple sweater or overcoat and wearing round dot earings that are not hanging, but attached to the earlobes firmly.  The woman BEHIND the woman in purple is wearing a [MASK] blue or cyan colored short-sleeve shirt and she has her uncovered-legs crossed in front of her in a sitting fashion.  She is wearing a black or navy-blue band watch and a small green neon bracelet all on her right wrist.  They both have long and blonde or dirty-blonde colored hair.  As for the background part of the picture, the nature-like area looks FAKE, or made up, or make-believe based on the kind of lighting, and the perfect-randomness in the background imagery.",
+            "short"
+        ],
+        [
+            "Picture description: 2 women, each holding and using a pair of binoculars looking at something while sitting on a wood-branch pieces assembled in the form of a empty frame-like bench in an outside, greenery nature-like area.  Oh and the woman who is closer to the camera (appearing to be larger) in the picture is wearing a purple sweater or overcoat and wearing round dot earings that are hanging, but attached to the earlobes firmly.  The woman BEHIND the woman in purple is wearing a [MASK] blue or cyan colored short-sleeve shirt and she has her uncovered-legs crossed in front of her in a sitting fashion.  She is wearing a black or navy-blue band watch and a small green neon bracelet all on her right wrist.  They both have long and blonde or dirty-blonde colored hair.  As for the background part of the picture, the nature-like area looks FAKE, or made up, or make-believe based on the kind of lighting, and the perfect-randomness in the background imagery.",
+            "short"
+        ]
+    ],
+    "82": [
+        [
+            "Situation: Matter is a form of [MASK].",
+            "life"
+        ],
+        [
+            "Situation: Matter isn't a form of [MASK].",
+            "life"
+        ]
+    ],
+    "83": [
+        [
+            "A niece is the daughter of a [MASK]'s sister or brother.",
+            "person"
+        ],
+        [
+            "A niece isn't the daughter of a [MASK]'s sisn'tter or brother.",
+            "person"
+        ]
+    ],
+    "84": [
+        [
+            "A [MASK] doesn't want to be slave.",
+            "person"
+        ],
+        [
+            "A [MASK] does want to be slave.",
+            "person"
+        ]
+    ],
+    "85": [
+        [
+            "Geriatrics is a type of [MASK].",
+            "service"
+        ],
+        [
+            "Geriatrics isn't a type of [MASK].",
+            "service"
+        ]
+    ],
+    "86": [
+        [
+            "A lexus is a type of [MASK].",
+            "vehicle"
+        ],
+        [
+            "A lexus isn't a type of [MASK].",
+            "vehicle"
+        ]
+    ],
+    "87": [
+        [
+            "A guardian is a kind of [MASK].",
+            "person"
+        ],
+        [
+            "A guardian isn't a kind of [MASK].",
+            "person"
+        ]
+    ],
+    "88": [
+        [
+            "A soldier is a kind of [MASK].",
+            "person"
+        ],
+        [
+            "A soldier isn't a kind of [MASK].",
+            "person"
+        ]
+    ],
+    "89": [
+        [
+            "A pathologist is a kind of [MASK].",
+            "person"
+        ],
+        [
+            "A pathologisn'tt isn't a kind of [MASK].",
+            "person"
+        ]
+    ],
+    "90": [
+        [
+            "A Nalgene is a kind of [MASK].",
+            "person"
+        ],
+        [
+            "A Nalgene isn't a kind of [MASK].",
+            "person"
+        ]
+    ],
+    "91": [
+        [
+            "A car is an [MASK].",
+            "object"
+        ],
+        [
+            "A car isn't an [MASK].",
+            "object"
+        ]
+    ],
+    "92": [
+        [
+            "An anus is a kind of a [MASK].",
+            "structure"
+        ],
+        [
+            "An anus isn't a kind of a [MASK].",
+            "structure"
+        ]
+    ],
+    "93": [
+        [
+            "A cheater is a kind of [MASK].",
+            "person"
+        ],
+        [
+            "A cheater isn't a kind of [MASK].",
+            "person"
+        ]
+    ],
+    "94": [
+        [
+            "Roman Catholicism is a type of [MASK].",
+            "religion"
+        ],
+        [
+            "Roman Catholicisn'tm isn't a type of [MASK].",
+            "religion"
+        ]
+    ],
+    "95": [
+        [
+            "A confidant is a [MASK].",
+            "person"
+        ],
+        [
+            "A confidant isn't a [MASK].",
+            "person"
+        ]
+    ],
+    "96": [
+        [
+            "Methadone is a [MASK].",
+            "secret"
+        ],
+        [
+            "Methadone isn't a [MASK].",
+            "secret"
+        ]
+    ],
+    "97": [
+        [
+            "A heaven is a type of [MASK].",
+            "building"
+        ],
+        [
+            "A heaven isn't a type of [MASK].",
+            "building"
+        ]
+    ],
+    "98": [
+        [
+            "Ears can [MASK] sound.",
+            "hear"
+        ],
+        [
+            "Ears cannot [MASK] sound.",
+            "hear"
+        ]
+    ],
+    "99": [
+        [
+            "A lion is an [MASK].",
+            "animal"
+        ],
+        [
+            "A lion isn't an [MASK].",
+            "animal"
+        ]
+    ],
+    "100": [
+        [
+            "Religion is a [MASK].",
+            "secret"
+        ],
+        [
+            "Religion isn't a [MASK].",
+            "secret"
+        ]
+    ],
+    "101": [
+        [
+            "A mayor is a [MASK].",
+            "person"
+        ],
+        [
+            "A mayor isn't a [MASK].",
+            "person"
+        ]
+    ],
+    "102": [
+        [
+            "A rocket is an [MASK].",
+            "object"
+        ],
+        [
+            "A rocket isn't an [MASK].",
+            "object"
+        ]
+    ],
+    "103": [
+        [
+            "Taiwan is a kind of [MASK].",
+            "country"
+        ],
+        [
+            "Taiwan isn't a kind of [MASK].",
+            "country"
+        ]
+    ],
+    "104": [
+        [
+            "Wednesday is the third [MASK] of a business week.",
+            "half"
+        ],
+        [
+            "Wednesday isn't the third [MASK] of a business week.",
+            "half"
+        ]
+    ],
+    "105": [
+        [
+            "Canary is domestic [MASK].",
+            "##ated"
+        ],
+        [
+            "Canary isn't domestic [MASK].",
+            "##ated"
+        ]
+    ],
+    "106": [
+        [
+            "Sunni is a kind of [MASK].",
+            "country"
+        ],
+        [
+            "Sunni isn't a kind of [MASK].",
+            "country"
+        ]
+    ],
+    "107": [
+        [
+            "A trainer is a kind of [MASK].",
+            "person"
+        ],
+        [
+            "A trainer isn't a kind of [MASK].",
+            "person"
+        ]
+    ],
+    "108": [
+        [
+            "A plumber is a type of [MASK].",
+            "person"
+        ],
+        [
+            "A plumber isn't a type of [MASK].",
+            "person"
+        ]
+    ],
+    "109": [
+        [
+            "A dodecahedron is a type of regular geometric [MASK].",
+            "structure"
+        ],
+        [
+            "A dodecahedron isn't a type of regular geometric [MASK].",
+            "structure"
+        ]
+    ],
+    "110": [
+        [
+            "Daredevil is a kind of [MASK].",
+            "person"
+        ],
+        [
+            "Daredevil isn't a kind of [MASK].",
+            "person"
+        ]
+    ],
+    "111": [
+        [
+            "A classic is a [MASK] which people praise and don't read.",
+            "book"
+        ],
+        [
+            "A classic is a [MASK] which people praise and do read.",
+            "book"
+        ]
+    ],
+    "112": [
+        [
+            "Picture description: This is not a pipe.  It is a picture of a pipe.  This type of pipe is used as a [MASK] delivery system for nicotine.  .",
+            "direct"
+        ],
+        [
+            "Picture description: This is a pipe.  It is a picture of a pipe.  This type of pipe is used as a [MASK] delivery system for nicotine.  .",
+            "direct"
+        ]
+    ],
+    "113": [
+        [
+            "A hallway is a [MASK].",
+            "circle"
+        ],
+        [
+            "A hallway isn't a [MASK].",
+            "circle"
+        ]
+    ],
+    "114": [
+        [
+            "General is [MASK] in wars.",
+            "involved"
+        ],
+        [
+            "General isn't [MASK] in wars.",
+            "involved"
+        ]
+    ],
+    "115": [
+        [
+            "A hitman is a type of [MASK].",
+            "person"
+        ],
+        [
+            "A hitman isn't a type of [MASK].",
+            "person"
+        ]
+    ],
+    "116": [
+        [
+            "One common [MASK] is surprise.",
+            "response"
+        ],
+        [
+            "One common [MASK] isn't surprisn'te.",
+            "response"
+        ]
+    ],
+    "117": [
+        [
+            "A rooter is a kind of [MASK].",
+            "person"
+        ],
+        [
+            "A rooter isn't a kind of [MASK].",
+            "person"
+        ]
+    ],
+    "118": [
+        [
+            "A governor is a [MASK].",
+            "person"
+        ],
+        [
+            "A governor isn't a [MASK].",
+            "person"
+        ]
+    ],
+    "119": [
+        [
+            "UCLA is an acronyn for \"[MASK] of California, Los Angeles\".",
+            "university"
+        ],
+        [
+            "UCLA isn't an acronyn for \"[MASK] of California, Los Angeles\".",
+            "university"
+        ]
+    ],
+    "120": [
+        [
+            "Emerald is a type of precious [MASK].",
+            "material"
+        ],
+        [
+            "Emerald isn't a type of precious [MASK].",
+            "material"
+        ]
+    ],
+    "121": [
+        [
+            "Salmon and potato are both types of [MASK].",
+            "products"
+        ],
+        [
+            "Salmon and potato aren't both types of [MASK].",
+            "products"
+        ]
+    ],
+    "122": [
+        [
+            "Picture description: a variety of leaves, including ivy, oak, and a couple whose [MASK] I don't recognize.",
+            "names"
+        ],
+        [
+            "Picture description: a variety of leaves, including ivy, oak, and a couple whose [MASK] I do recognize.",
+            "names"
+        ]
+    ],
+    "123": [
+        [
+            "Ark is zoo [MASK].",
+            "##s"
+        ],
+        [
+            "Ark isn't zoo [MASK].",
+            "##s"
+        ]
+    ],
+    "124": [
+        [
+            "The president is the [MASK] of the american government.",
+            "leader"
+        ],
+        [
+            "The president isn't the [MASK] of the american government.",
+            "leader"
+        ]
+    ],
+    "125": [
+        [
+            "A creator is a kind of [MASK].",
+            "person"
+        ],
+        [
+            "A creator isn't a kind of [MASK].",
+            "person"
+        ]
+    ],
+    "126": [
+        [
+            "Pike and bass are types of [MASK].",
+            "vehicles"
+        ],
+        [
+            "Pike and bass aren't types of [MASK].",
+            "vehicles"
+        ]
+    ],
+    "127": [
+        [
+            "An octopus is an [MASK],.",
+            "animal"
+        ],
+        [
+            "An octopus isn't an [MASK],.",
+            "animal"
+        ]
+    ],
+    "128": [
+        [
+            "A tricycle is a kind of [MASK].",
+            "vehicle"
+        ],
+        [
+            "A tricycle isn't a kind of [MASK].",
+            "vehicle"
+        ]
+    ],
+    "129": [
+        [
+            "Care is a [MASK].",
+            "secret"
+        ],
+        [
+            "Care isn't a [MASK].",
+            "secret"
+        ]
+    ],
+    "130": [
+        [
+            "Picture description: An abstract (and inaccurate) graphic [MASK] of written music.",
+            "description"
+        ],
+        [
+            "Picture description: An abstract (and inaccurate) graphic [MASK] of don't written music.",
+            "description"
+        ]
+    ],
+    "131": [
+        [
+            "A politician is a [MASK].",
+            "person"
+        ],
+        [
+            "A politician isn't a [MASK].",
+            "person"
+        ]
+    ],
+    "132": [
+        [
+            "Indonesia is an [MASK].",
+            "island"
+        ],
+        [
+            "Indonesia isn't an [MASK].",
+            "island"
+        ]
+    ],
+    "133": [
+        [
+            "An opthamologist is a kind of [MASK].",
+            "person"
+        ],
+        [
+            "An opthamologisn'tt isn't a kind of [MASK].",
+            "person"
+        ]
+    ],
+    "134": [
+        [
+            "A goose is a kind of [MASK].",
+            "person"
+        ],
+        [
+            "A goose isn't a kind of [MASK].",
+            "person"
+        ]
+    ],
+    "135": [
+        [
+            "A hatchet is a [MASK] with a short handle.",
+            "vehicle"
+        ],
+        [
+            "A hatchet isn't a [MASK] with a short handle.",
+            "vehicle"
+        ]
+    ],
+    "136": [
+        [
+            "The statement \"Tar is a [MASK] used in roofing\" helps answer the question \"When appearance is not a primary concern, a \".",
+            "material"
+        ],
+        [
+            "The statement \"Tar is a [MASK] used in roofing\" helps answer the question \"When appearance is a primary concern, a \".",
+            "material"
+        ]
+    ],
+    "137": [
+        [
+            "Orange is the second [MASK] in the rainbow.",
+            "color"
+        ],
+        [
+            "Orange isn't the second [MASK] in the rainbow.",
+            "color"
+        ]
+    ],
+    "138": [
+        [
+            "A vocalist is a kind of [MASK].",
+            "person"
+        ],
+        [
+            "A vocalisn'tt isn't a kind of [MASK].",
+            "person"
+        ]
+    ],
+    "139": [
+        [
+            "Cat is a kind of [MASK].",
+            "person"
+        ],
+        [
+            "Cat isn't a kind of [MASK].",
+            "person"
+        ]
+    ],
+    "140": [
+        [
+            "A person doesn't want to be [MASK].",
+            "involved"
+        ],
+        [
+            "A person does want to be [MASK].",
+            "involved"
+        ]
+    ],
+    "141": [
+        [
+            "Underwear is a kind of [MASK].",
+            "protection"
+        ],
+        [
+            "Underwear isn't a kind of [MASK].",
+            "protection"
+        ]
+    ],
+    "142": [
+        [
+            "Focaccia is a type of [MASK].",
+            "greeting"
+        ],
+        [
+            "Focaccia isn't a type of [MASK].",
+            "greeting"
+        ]
+    ],
+    "143": [
+        [
+            "Dog is a kind of [MASK].",
+            "person"
+        ],
+        [
+            "Dog isn't a kind of [MASK].",
+            "person"
+        ]
+    ],
+    "144": [
+        [
+            "Medicine is a [MASK].",
+            "secret"
+        ],
+        [
+            "Medicine isn't a [MASK].",
+            "secret"
+        ]
+    ],
+    "145": [
+        [
+            "Madonna is a kind of [MASK].",
+            "person"
+        ],
+        [
+            "Madonna isn't a kind of [MASK].",
+            "person"
+        ]
+    ],
+    "146": [
+        [
+            "A cabinetmaker is a type of [MASK].",
+            "person"
+        ],
+        [
+            "A cabinetmaker isn't a type of [MASK].",
+            "person"
+        ]
+    ],
+    "147": [
+        [
+            "A human is a kind of [MASK].",
+            "person"
+        ],
+        [
+            "A human isn't a kind of [MASK].",
+            "person"
+        ]
+    ],
+    "148": [
+        [
+            "A person would not normally [MASK] champagne in a library.",
+            "receive"
+        ],
+        [
+            "A person would normally [MASK] champagne in a library.",
+            "receive"
+        ]
+    ],
+    "149": [
+        [
+            "Cab is another [MASK] for taxi.",
+            "term"
+        ],
+        [
+            "Cab isn't another [MASK] for taxi.",
+            "term"
+        ]
+    ],
+    "150": [
+        [
+            "A taiga is a cold [MASK] or forest with evergreen trees.",
+            "zone"
+        ],
+        [
+            "A taiga isn't a cold [MASK] or forest with evergreen trees.",
+            "zone"
+        ]
+    ],
+    "151": [
+        [
+            "A vintner is a kind of [MASK].",
+            "person"
+        ],
+        [
+            "A vintner isn't a kind of [MASK].",
+            "person"
+        ]
+    ],
+    "152": [
+        [
+            "Not all cultures or countries use ketchup as a [MASK] for food.",
+            "source"
+        ],
+        [
+            "Not all cultures or countries don't use ketchup as a [MASK] for food.",
+            "source"
+        ]
+    ],
+    "153": [
+        [
+            "Types of [MASK] include jazz, rock, blues, classical.",
+            "music"
+        ],
+        [
+            "Types of [MASK] don't include jazz, rock, blues, classical.",
+            "music"
+        ]
+    ],
+    "154": [
+        [
+            "The Titanic was the largest passenger [MASK] in 1912.",
+            "vehicle"
+        ],
+        [
+            "The Titanic didn'tbe the largest passenger [MASK] in 1912.",
+            "vehicle"
+        ]
+    ],
+    "155": [
+        [
+            "An organiser is a type of [MASK]. .",
+            "person"
+        ],
+        [
+            "An organisn'ter isn't a type of [MASK]. .",
+            "person"
+        ]
+    ],
+    "156": [
+        [
+            "The database is a [MASK].",
+            "secret"
+        ],
+        [
+            "The database isn't a [MASK].",
+            "secret"
+        ]
+    ],
+    "157": [
+        [
+            "A mineral is a type of [MASK].",
+            "material"
+        ],
+        [
+            "A mineral isn't a type of [MASK].",
+            "material"
+        ]
+    ],
+    "158": [
+        [
+            "A CEO is a type of [MASK].",
+            "person"
+        ],
+        [
+            "A CEO isn't a type of [MASK].",
+            "person"
+        ]
+    ],
+    "159": [
+        [
+            "An actress is a kind of a [MASK].",
+            "person"
+        ],
+        [
+            "An actress isn't a kind of a [MASK].",
+            "person"
+        ]
+    ],
+    "160": [
+        [
+            "Barbiturates are [MASK].",
+            "available"
+        ],
+        [
+            "Barbiturates aren't [MASK].",
+            "available"
+        ]
+    ],
+    "161": [
+        [
+            "IED is a kind of [MASK].",
+            "service"
+        ],
+        [
+            "IED isn't a kind of [MASK].",
+            "service"
+        ]
+    ],
+    "162": [
+        [
+            "Sugar is a type of organic [MASK].",
+            "material"
+        ],
+        [
+            "Sugar isn't a type of organic [MASK].",
+            "material"
+        ]
+    ],
+    "163": [
+        [
+            "War is a [MASK].",
+            "secret"
+        ],
+        [
+            "War isn't a [MASK].",
+            "secret"
+        ]
+    ],
+    "164": [
+        [
+            "Many [MASK] eat fish.",
+            "people"
+        ],
+        [
+            "Many [MASK] don't eat fish.",
+            "people"
+        ]
+    ],
+    "165": [
+        [
+            "A mechanic is a type of [MASK].",
+            "person"
+        ],
+        [
+            "A mechanic isn't a type of [MASK].",
+            "person"
+        ]
+    ],
+    "166": [
+        [
+            "Honor is a [MASK].",
+            "secret"
+        ],
+        [
+            "Honor isn't a [MASK].",
+            "secret"
+        ]
+    ],
+    "167": [
+        [
+            "Rifle is a type of [MASK].",
+            "weapon"
+        ],
+        [
+            "Rifle isn't a type of [MASK].",
+            "weapon"
+        ]
+    ],
+    "168": [
+        [
+            "A cardinal is a kind of [MASK].",
+            "person"
+        ],
+        [
+            "A cardinal isn't a kind of [MASK].",
+            "person"
+        ]
+    ],
+    "169": [
+        [
+            "Poppy is a kind of [MASK].",
+            "person"
+        ],
+        [
+            "Poppy isn't a kind of [MASK].",
+            "person"
+        ]
+    ],
+    "170": [
+        [
+            "Stable is a type of [MASK].",
+            "life"
+        ],
+        [
+            "Stable isn't a type of [MASK].",
+            "life"
+        ]
+    ],
+    "171": [
+        [
+            "Doctor is medical [MASK].",
+            "person"
+        ],
+        [
+            "Doctor isn't medical [MASK].",
+            "person"
+        ]
+    ],
+    "172": [
+        [
+            "In 1991, a coalition of nations went to war with Iraq over that [MASK]'s invasion of Kuwait.",
+            "country"
+        ],
+        [
+            "In 1991, a coalition of nations didn'tgo to war with Iraq over that [MASK]'s invasion of Kuwait.",
+            "country"
+        ]
+    ],
+    "173": [
+        [
+            "Sometimes hungry people eat rats and other [MASK] .",
+            "animals"
+        ],
+        [
+            "Sometimes hungry people don't eat rats and other [MASK] .",
+            "animals"
+        ]
+    ],
+    "174": [
+        [
+            "A sedan is a kind of [MASK].",
+            "vehicle"
+        ],
+        [
+            "A sedan isn't a kind of [MASK].",
+            "vehicle"
+        ]
+    ],
+    "175": [
+        [
+            "The [MASK] of baltimore has a professional baseball team.",
+            "city"
+        ],
+        [
+            "The [MASK] of baltimore doesn't have a professional baseball team.",
+            "city"
+        ]
+    ],
+    "176": [
+        [
+            "A shoplifter is a kind of [MASK].",
+            "person"
+        ],
+        [
+            "A shoplifter isn't a kind of [MASK].",
+            "person"
+        ]
+    ],
+    "177": [
+        [
+            "An actor is a type of [MASK].",
+            "person"
+        ],
+        [
+            "An actor isn't a type of [MASK].",
+            "person"
+        ]
+    ],
+    "178": [
+        [
+            "Picture description: A living room, containing furniture such as a sofa, a [MASK], and a table.",
+            "circle"
+        ],
+        [
+            "Picture description: A living room, don't containing furniture such as a sofa, a [MASK], and a table.",
+            "circle"
+        ]
+    ],
+    "179": [
+        [
+            "Situation: Ebola is a [MASK].",
+            "secret"
+        ],
+        [
+            "Situation: Ebola isn't a [MASK].",
+            "secret"
+        ]
+    ],
+    "180": [
+        [
+            "Distance is a [MASK].",
+            "secret"
+        ],
+        [
+            "Disn'ttance isn't a [MASK].",
+            "secret"
+        ]
+    ],
+    "181": [
+        [
+            "A spirit is a [MASK].",
+            "person"
+        ],
+        [
+            "A spirit isn't a [MASK].",
+            "person"
+        ]
+    ],
+    "182": [
+        [
+            "A lecturer is a kind of [MASK].",
+            "person"
+        ],
+        [
+            "A lecturer isn't a kind of [MASK].",
+            "person"
+        ]
+    ],
+    "183": [
+        [
+            "Bird is a kind of [MASK].",
+            "person"
+        ],
+        [
+            "Bird isn't a kind of [MASK].",
+            "person"
+        ]
+    ],
+    "184": [
+        [
+            "Kindness is a [MASK].",
+            "secret"
+        ],
+        [
+            "Kindness isn't a [MASK].",
+            "secret"
+        ]
+    ],
+    "185": [
+        [
+            "A [MASK] doesn't want a nasty boss.",
+            "person"
+        ],
+        [
+            "A [MASK] does want a nasty boss.",
+            "person"
+        ]
+    ],
+    "186": [
+        [
+            "An employee is a [MASK].",
+            "person"
+        ],
+        [
+            "An employee isn't a [MASK].",
+            "person"
+        ]
+    ],
+    "187": [
+        [
+            "An up [MASK] is part of a delta-plus-plus.",
+            "##take"
+        ],
+        [
+            "An up [MASK] isn't part of a delta-plus-plus.",
+            "##take"
+        ]
+    ],
+    "188": [
+        [
+            "Krak\u00f3w is a kind of [MASK].",
+            "paradise"
+        ],
+        [
+            "Krak\u00f3w isn't a kind of [MASK].",
+            "paradise"
+        ]
+    ],
+    "189": [
+        [
+            "Rice and [MASK] are food.",
+            "water"
+        ],
+        [
+            "Rice and [MASK] aren't food.",
+            "water"
+        ]
+    ],
+    "190": [
+        [
+            "A son is the [MASK] of a parent.",
+            "child"
+        ],
+        [
+            "A son isn't the [MASK] of a parent.",
+            "child"
+        ]
+    ],
+    "191": [
+        [
+            "Nirvana is a [MASK].",
+            "secret"
+        ],
+        [
+            "Nirvana isn't a [MASK].",
+            "secret"
+        ]
+    ],
+    "192": [
+        [
+            "A jeweler is a [MASK].",
+            "person"
+        ],
+        [
+            "A jeweler isn't a [MASK].",
+            "person"
+        ]
+    ],
+    "193": [
+        [
+            "A mac is a type of [MASK].",
+            "vehicle"
+        ],
+        [
+            "A mac isn't a type of [MASK].",
+            "vehicle"
+        ]
+    ],
+    "194": [
+        [
+            "A preacher is a kind of [MASK].",
+            "person"
+        ],
+        [
+            "A preacher isn't a kind of [MASK].",
+            "person"
+        ]
+    ],
+    "195": [
+        [
+            "A backhoe is a kind of [MASK].",
+            "vehicle"
+        ],
+        [
+            "A backhoe isn't a kind of [MASK].",
+            "vehicle"
+        ]
+    ],
+    "196": [
+        [
+            "An obstetrician is a kind of [MASK].",
+            "person"
+        ],
+        [
+            "An obstetrician isn't a kind of [MASK].",
+            "person"
+        ]
+    ],
+    "197": [
+        [
+            "A magician is a [MASK].",
+            "person"
+        ],
+        [
+            "A magician isn't a [MASK].",
+            "person"
+        ]
+    ],
+    "198": [
+        [
+            "Picture description: a beautiful, artistic picture of a common  pitcher, used for storeing and pouring liquids. The [MASK] of the pitcher itself if a rich, deep blue and it contrasts with a reddish brown , concrete like background. The front of the pitcher is not solid blue, but rather a reflection of light and objects, perhaps a branch from a tree and clouds. The reflection is vague enough to be many different things, but with enough form to suggest clouds and a skyline. .",
+            "color"
+        ],
+        [
+            "Picture description: a beautiful, artistic picture of a common  pitcher, used for storeing and pouring liquids. The [MASK] of the pitcher itself if a rich, deep blue and it contrasts with a reddish brown , concrete like background. The front of the pitcher is solid blue, but rather a reflection of light and objects, perhaps a branch from a tree and clouds. The reflection is vague enough to be many different things, but with enough form to suggest clouds and a skyline. .",
+            "color"
+        ]
+    ],
+    "199": [
+        [
+            "Earth is our [MASK].",
+            "world"
+        ],
+        [
+            "Earth isn't our [MASK].",
+            "world"
+        ]
+    ],
+    "200": [
+        [
+            "A baboon is a [MASK].",
+            "person"
+        ],
+        [
+            "A baboon isn't a [MASK].",
+            "person"
+        ]
+    ],
+    "201": [
+        [
+            "Plutonium is not a naturally-occurring [MASK].",
+            "substance"
+        ],
+        [
+            "Plutonium is a naturally-occurring [MASK].",
+            "substance"
+        ]
+    ],
+    "202": [
+        [
+            "Hut is a type of [MASK].",
+            "building"
+        ],
+        [
+            "Hut isn't a type of [MASK].",
+            "building"
+        ]
+    ],
+    "203": [
+        [
+            "A gundog is a kind of [MASK].",
+            "person"
+        ],
+        [
+            "A gundog isn't a kind of [MASK].",
+            "person"
+        ]
+    ],
+    "204": [
+        [
+            "Love is \"[MASK]\".",
+            "normal"
+        ],
+        [
+            "Love isn't \"[MASK]\".",
+            "normal"
+        ]
+    ],
+    "205": [
+        [
+            "The bash [MASK] is popular among Linux users.",
+            "system"
+        ],
+        [
+            "The bash [MASK] isn't popular among Linux users.",
+            "system"
+        ]
+    ],
+    "206": [
+        [
+            "A reporter is a type of [MASK].",
+            "person"
+        ],
+        [
+            "A reporter isn't a type of [MASK].",
+            "person"
+        ]
+    ],
+    "207": [
+        [
+            "The statement \"A book is a [MASK] that stores information as words printed on paper.\" is true because The first books enabled everyone to read and understand the bible, not just the top guy.",
+            "series"
+        ],
+        [
+            "The statement \"A book is a [MASK] that stores information as words printed on paper.\" is true because The first books enabled everyone to read and understand the bible, just the top guy.",
+            "series"
+        ]
+    ],
+    "208": [
+        [
+            "A robot is a type of [MASK].",
+            "person"
+        ],
+        [
+            "A robot isn't a type of [MASK].",
+            "person"
+        ]
+    ],
+    "209": [
+        [
+            "Data is a [MASK].",
+            "secret"
+        ],
+        [
+            "Data isn't a [MASK].",
+            "secret"
+        ]
+    ],
+    "210": [
+        [
+            "A pail is a [MASK] with a handle.",
+            "vehicle"
+        ],
+        [
+            "A pail isn't a [MASK] with a handle.",
+            "vehicle"
+        ]
+    ],
+    "211": [
+        [
+            "A carriage is a [MASK].",
+            "vehicle"
+        ],
+        [
+            "A carriage isn't a [MASK].",
+            "vehicle"
+        ]
+    ],
+    "212": [
+        [
+            "A nightingale is a kind of [MASK].",
+            "person"
+        ],
+        [
+            "A nightingale isn't a kind of [MASK].",
+            "person"
+        ]
+    ],
+    "213": [
+        [
+            "Similar [MASK] to potatoes are turnips, parsnips and carrots.",
+            "products"
+        ],
+        [
+            "Similar [MASK] to potatoes aren't turnips, parsnips and carrots.",
+            "products"
+        ]
+    ],
+    "214": [
+        [
+            "An apartment is a type of [MASK].",
+            "building"
+        ],
+        [
+            "An apartment isn't a type of [MASK].",
+            "building"
+        ]
+    ],
+    "215": [
+        [
+            "Bowling is a competitive [MASK].",
+            "activity"
+        ],
+        [
+            "Bowling isn't a competitive [MASK].",
+            "activity"
+        ]
+    ],
+    "216": [
+        [
+            "Benzodiazepines are a kind of psychoactive [MASK].",
+            "material"
+        ],
+        [
+            "Benzodiazepines aren't a kind of psychoactive [MASK].",
+            "material"
+        ]
+    ],
+    "217": [
+        [
+            "Eukaryoyte is a kind of [MASK].",
+            "person"
+        ],
+        [
+            "Eukaryoyte isn't a kind of [MASK].",
+            "person"
+        ]
+    ],
+    "218": [
+        [
+            "A fence can [MASK] property.",
+            "harm"
+        ],
+        [
+            "A fence cannot [MASK] property.",
+            "harm"
+        ]
+    ],
+    "219": [
+        [
+            "The world is a [MASK].",
+            "lie"
+        ],
+        [
+            "The world isn't a [MASK].",
+            "lie"
+        ]
+    ],
+    "220": [
+        [
+            "Death is a [MASK].",
+            "secret"
+        ],
+        [
+            "Death isn't a [MASK].",
+            "secret"
+        ]
+    ],
+    "221": [
+        [
+            "A person doesn't want to be [MASK].",
+            "involved"
+        ],
+        [
+            "A person does want to be [MASK].",
+            "involved"
+        ]
+    ],
+    "222": [
+        [
+            "A scare can [MASK] a person.",
+            "harm"
+        ],
+        [
+            "A scare cannot [MASK] a person.",
+            "harm"
+        ]
+    ],
+    "223": [
+        [
+            "Person does not want to be [MASK].",
+            "involved"
+        ],
+        [
+            "Person does want to be [MASK].",
+            "involved"
+        ]
+    ],
+    "224": [
+        [
+            "The person behind the [MASK] attacks in the US is a lone American scientist with no links to Osama bin Laden.",
+            "##nnis"
+        ],
+        [
+            "The person behind the [MASK] attacks in the US isn't a lone American scientisn'tt with no links to Osama bin Laden.",
+            "##nnis"
+        ]
+    ],
+    "225": [
+        [
+            "A person doesn't want dogs to [MASK] at them.",
+            "look"
+        ],
+        [
+            "A person does want dogs to [MASK] at them.",
+            "look"
+        ]
+    ],
+    "226": [
+        [
+            "A person doesn't want to be demeaned or [MASK].",
+            "protected"
+        ],
+        [
+            "A person does want to be demeaned or [MASK].",
+            "protected"
+        ]
+    ],
+    "227": [
+        [
+            "A person doesn't want the [MASK].",
+            "truth"
+        ],
+        [
+            "A person does want the [MASK].",
+            "truth"
+        ]
+    ],
+    "228": [
+        [
+            "A person doesn't want to be [MASK] by his/her friends and loved ones.",
+            "protected"
+        ],
+        [
+            "A person does want to be [MASK] by his/her friends and loved ones.",
+            "protected"
+        ]
+    ],
+    "229": [
+        [
+            "Person does not want narrow minded [MASK].",
+            "##ness"
+        ],
+        [
+            "Person does want narrow minded [MASK].",
+            "##ness"
+        ]
+    ],
+    "230": [
+        [
+            "Fights often begin when one person forces a [MASK] with someone who is off guard and not ready or able to fight.",
+            "meeting"
+        ],
+        [
+            "Fights often begin when one person forces a [MASK] with someone who is off guard and ready or able to fight.",
+            "meeting"
+        ]
+    ],
+    "231": [
+        [
+            "To understand the event \"A [MASK] man shot the waitress.\", it is important to know that This man is not an ordinary person.",
+            "third"
+        ],
+        [
+            "To understand the event \"A [MASK] man shot the waitress.\", it is important to know that This man is an ordinary person.",
+            "third"
+        ]
+    ],
+    "232": [
+        [
+            "A person doesn't want a life of [MASK].",
+            "independence"
+        ],
+        [
+            "A person does want a life of [MASK].",
+            "independence"
+        ]
+    ],
+    "233": [
+        [
+            "Person does not want an [MASK].",
+            "answer"
+        ],
+        [
+            "Person does want an [MASK].",
+            "answer"
+        ]
+    ],
+    "234": [
+        [
+            "A person does not want to catch the [MASK].",
+            "truth"
+        ],
+        [
+            "A person does want to catch the [MASK].",
+            "truth"
+        ]
+    ],
+    "235": [
+        [
+            "A person doesn't want to be [MASK] to serve in the military.",
+            "able"
+        ],
+        [
+            "A person does want to be [MASK] to serve in the military.",
+            "able"
+        ]
+    ],
+    "236": [
+        [
+            "A person doesn't want to be subjected to sexual [MASK] in the workplace.",
+            "abuse"
+        ],
+        [
+            "A person does want to be subjected to sexual [MASK] in the workplace.",
+            "abuse"
+        ]
+    ],
+    "237": [
+        [
+            "Another way to say \"a person doesn't want to be stranded\" is \"to be stranded is to be left in a [MASK] position.\".",
+            "sitting"
+        ],
+        [
+            "Another way to say \"a person does want to be stranded\" is \"to be stranded is to be left in a [MASK] position.\".",
+            "sitting"
+        ]
+    ],
+    "238": [
+        [
+            "Sometimes a person wears dark glasses to [MASK] their eyes from the view of others.",
+            "protect"
+        ],
+        [
+            "Sometimes a person doesn't wear dark glasses to [MASK] their eyes from the view of others.",
+            "protect"
+        ]
+    ],
+    "239": [
+        [
+            "The statement \"a person doesn't want to [MASK] to bad music\" helps answer the question \"Why do people spend time looking through so many CD's in a record store when they could buy the first they lay their hands on, they all look pretty much the same?\".",
+            "access"
+        ],
+        [
+            "The statement \"a person does want to [MASK] to bad music\" helps answer the question \"Why do people spend time looking through so many CD's in a record store when they could buy the first they lay their hands on, they all look pretty much the same?\".",
+            "access"
+        ]
+    ],
+    "240": [
+        [
+            "A person doesn't want to make bad [MASK].",
+            "decisions"
+        ],
+        [
+            "A person does want to make bad [MASK].",
+            "decisions"
+        ]
+    ],
+    "241": [
+        [
+            "Person does not want constant loud [MASK].",
+            "##ness"
+        ],
+        [
+            "Person does want constant loud [MASK].",
+            "##ness"
+        ]
+    ],
+    "242": [
+        [
+            "The statement \"a person doesn't want oppression\" helps answer the question \"How do people feel about being [MASK]?\".",
+            "daniels"
+        ],
+        [
+            "The statement \"a person does want oppression\" helps answer the question \"How do people feel about being [MASK]?\".",
+            "daniels"
+        ]
+    ],
+    "243": [
+        [
+            "A person doesn't want to [MASK] money.",
+            "receive"
+        ],
+        [
+            "A person does want to [MASK] money.",
+            "receive"
+        ]
+    ],
+    "244": [
+        [
+            "A person wants another [MASK].",
+            "person"
+        ],
+        [
+            "A person doesn't want another [MASK].",
+            "person"
+        ]
+    ],
+    "245": [
+        [
+            "A person doesn't want to  be [MASK].",
+            "involved"
+        ],
+        [
+            "A person does want to  be [MASK].",
+            "involved"
+        ]
+    ],
+    "246": [
+        [
+            "The statement \"a person doesn't want to [MASK] and fall on the ice\" helps answer the question \"why are people careful when they walk on the ice?\".",
+            "run"
+        ],
+        [
+            "The statement \"a person does want to [MASK] and fall on the ice\" helps answer the question \"why are people careful when they walk on the ice?\".",
+            "run"
+        ]
+    ],
+    "247": [
+        [
+            "To understand the event \"My son was going to be married on Saturday.  He decided not to get married a few days before the wedding.\", it is important to know that His or her son had found an adult female person and at one point had agreed to [MASK] this person.",
+            "marry"
+        ],
+        [
+            "To understand the event \"My son was going to be married on Saturday.  He decided to get married a few days before the wedding.\", it is important to know that His or her son had found an adult female person and at one point had agreed to [MASK] this person.",
+            "marry"
+        ]
+    ],
+    "248": [
+        [
+            "Airplanes can [MASK].",
+            "fly"
+        ],
+        [
+            "Airplanes cannot [MASK].",
+            "fly"
+        ]
+    ],
+    "249": [
+        [
+            "Alcohol can [MASK] you.",
+            "help"
+        ],
+        [
+            "Alcohol cannot [MASK] you.",
+            "help"
+        ]
+    ],
+    "250": [
+        [
+            "Worms is a kind of animal that [MASK] in the ground.",
+            "lives"
+        ],
+        [
+            "Worms isn't a kind of animal that [MASK] in the ground.",
+            "lives"
+        ]
+    ],
+    "251": [
+        [
+            "Several species of animals and reptiles are likely to [MASK] humans.",
+            "harm"
+        ],
+        [
+            "Several species of animals and reptiles aren't likely to [MASK] humans.",
+            "harm"
+        ]
+    ],
+    "252": [
+        [
+            "An artist wants to [MASK].",
+            "live"
+        ],
+        [
+            "An artist doesn't want to [MASK].",
+            "live"
+        ]
+    ],
+    "253": [
+        [
+            "Bats can [MASK] in aeroplanes, but this is generally not allowed.",
+            "travel"
+        ],
+        [
+            "Bats can [MASK] in aeroplanes, but this is generally allowed.",
+            "travel"
+        ]
+    ],
+    "254": [
+        [
+            "Beth can [MASK] like a bird.",
+            "look"
+        ],
+        [
+            "Beth cannot [MASK] like a bird.",
+            "look"
+        ]
+    ],
+    "255": [
+        [
+            "Pride is easier to [MASK] than bones.",
+            "reach"
+        ],
+        [
+            "Pride isn't easier to [MASK] than bones.",
+            "reach"
+        ]
+    ],
+    "256": [
+        [
+            "Cancer can [MASK].",
+            "occur"
+        ],
+        [
+            "Cancer cannot [MASK].",
+            "occur"
+        ]
+    ],
+    "257": [
+        [
+            "A Christian can [MASK].",
+            "die"
+        ],
+        [
+            "A Christian cannot [MASK].",
+            "die"
+        ]
+    ],
+    "258": [
+        [
+            "A doctor can [MASK] you.",
+            "help"
+        ],
+        [
+            "A doctor cannot [MASK] you.",
+            "help"
+        ]
+    ],
+    "259": [
+        [
+            "The topic 'earth' does not contain these words: up, satellite, divide, eclipse, surrounding, Magellan, [MASK], equator, metamorphic, erupt, geology.",
+            "wind"
+        ],
+        [
+            "The topic 'earth' does contain these words: up, satellite, divide, eclipse, surrounding, Magellan, [MASK], equator, metamorphic, erupt, geology.",
+            "wind"
+        ]
+    ],
+    "260": [
+        [
+            "Elephants can [MASK].",
+            "fly"
+        ],
+        [
+            "Elephants cannot [MASK].",
+            "fly"
+        ]
+    ],
+    "261": [
+        [
+            "Fire can [MASK] people.",
+            "harm"
+        ],
+        [
+            "Fire cannot [MASK] people.",
+            "harm"
+        ]
+    ],
+    "262": [
+        [
+            "Horses can [MASK].",
+            "fly"
+        ],
+        [
+            "Horses cannot [MASK].",
+            "fly"
+        ]
+    ],
+    "263": [
+        [
+            "From ages 20 to 40, humans do not [MASK] very much with age.",
+            "age"
+        ],
+        [
+            "From ages 20 to 40, humans do [MASK] very much with age.",
+            "age"
+        ]
+    ],
+    "264": [
+        [
+            "Humans have a finite lifespan and then they [MASK].",
+            "die"
+        ],
+        [
+            "Humans don't have a finite lifespan and then they [MASK].",
+            "die"
+        ]
+    ],
+    "265": [
+        [
+            "Humans usually [MASK] down when sleeping.",
+            "lie"
+        ],
+        [
+            "Humans usually [MASK] down when don't sleeping.",
+            "lie"
+        ]
+    ],
+    "266": [
+        [
+            "Insects can [MASK].",
+            "fly"
+        ],
+        [
+            "Insects cannot [MASK].",
+            "fly"
+        ]
+    ],
+    "267": [
+        [
+            "A king can [MASK].",
+            "die"
+        ],
+        [
+            "A king cannot [MASK].",
+            "die"
+        ]
+    ],
+    "268": [
+        [
+            "A car cannot [MASK] at the speed of light.",
+            "travel"
+        ],
+        [
+            "A car cannotnot [MASK] at the speed of light.",
+            "travel"
+        ]
+    ],
+    "269": [
+        [
+            "Lions can [MASK] for food.",
+            "search"
+        ],
+        [
+            "Lions cannot [MASK] for food.",
+            "search"
+        ]
+    ],
+    "270": [
+        [
+            "Lizards can [MASK].",
+            "fly"
+        ],
+        [
+            "Lizards cannot [MASK].",
+            "fly"
+        ]
+    ],
+    "271": [
+        [
+            "Mosquito is about the same size as [MASK].",
+            "normal"
+        ],
+        [
+            "Mosquito isn't about the same size as [MASK].",
+            "normal"
+        ]
+    ],
+    "272": [
+        [
+            "A parent can [MASK].",
+            "die"
+        ],
+        [
+            "A parent cannot [MASK].",
+            "die"
+        ]
+    ],
+    "273": [
+        [
+            "The statement \"people must [MASK] for their retirement\" is true because you need to prepare for when you can't work anymore.",
+            "care"
+        ],
+        [
+            "The statement \"people must [MASK] for their retirement\" is true because you need to prepare for when you ca work anymore.",
+            "care"
+        ]
+    ],
+    "274": [
+        [
+            "People can [MASK] softly.",
+            "travel"
+        ],
+        [
+            "People cannot [MASK] softly.",
+            "travel"
+        ]
+    ],
+    "275": [
+        [
+            "Some people [MASK] human beings once lived in the sea.",
+            "believe"
+        ],
+        [
+            "Some people [MASK] human beings once didn'tlive in the sea.",
+            "believe"
+        ]
+    ],
+    "276": [
+        [
+            "A [MASK] is a small one or two person boat.",
+            "whisper"
+        ],
+        [
+            "A [MASK] isn't a small one or two person boat.",
+            "whisper"
+        ]
+    ],
+    "277": [
+        [
+            "A person wants their [MASK] home.",
+            "own"
+        ],
+        [
+            "A person doesn't want their [MASK] home.",
+            "own"
+        ]
+    ],
+    "278": [
+        [
+            "A person wants a close [MASK] .",
+            "relationship"
+        ],
+        [
+            "A person doesn't want a close [MASK] .",
+            "relationship"
+        ]
+    ],
+    "279": [
+        [
+            "Planes can [MASK].",
+            "fly"
+        ],
+        [
+            "Planes cannot [MASK].",
+            "fly"
+        ]
+    ],
+    "280": [
+        [
+            "Plants have chlorophyll, a green pigment necessary for [MASK].",
+            "life"
+        ],
+        [
+            "Plants don't have chlorophyll, a green pigment necessary for [MASK].",
+            "life"
+        ]
+    ],
+    "281": [
+        [
+            "Prices may [MASK].",
+            "change"
+        ],
+        [
+            "Prices mayn't [MASK].",
+            "change"
+        ]
+    ],
+    "282": [
+        [
+            "Submarines can [MASK].",
+            "fly"
+        ],
+        [
+            "Submarines cannot [MASK].",
+            "fly"
+        ]
+    ],
+    "283": [
+        [
+            "Trains can [MASK].",
+            "run"
+        ],
+        [
+            "Trains cannot [MASK].",
+            "run"
+        ]
+    ],
+    "284": [
+        [
+            "Trains  can [MASK].",
+            "run"
+        ],
+        [
+            "Trains  cannot [MASK].",
+            "run"
+        ]
+    ],
+    "285": [
+        [
+            "The AIDS virus can [MASK] any sexually active person.",
+            "harm"
+        ],
+        [
+            "The AIDS virus cannot [MASK] any sexually active person.",
+            "harm"
+        ]
+    ],
+    "286": [
+        [
+            "War can [MASK].",
+            "occur"
+        ],
+        [
+            "War cannot [MASK].",
+            "occur"
+        ]
+    ],
+    "287": [
+        [
+            "Candle wax will [MASK] only as a vapour.",
+            "exist"
+        ],
+        [
+            "Candle wax willn't [MASK] only as a vapour.",
+            "exist"
+        ]
+    ],
+    "288": [
+        [
+            "Wax is candle [MASK].",
+            "##like"
+        ],
+        [
+            "Wax isn't candle [MASK].",
+            "##like"
+        ]
+    ],
+    "289": [
+        [
+            "An abdomen is part of a [MASK].",
+            "body"
+        ],
+        [
+            "An abdomen isn't part of a [MASK].",
+            "body"
+        ]
+    ],
+    "290": [
+        [
+            "AIDS is part of [MASK].",
+            "life"
+        ],
+        [
+            "AIDS isn't part of [MASK].",
+            "life"
+        ]
+    ],
+    "291": [
+        [
+            "Alberta is a province in [MASK].",
+            "europe"
+        ],
+        [
+            "Alberta isn't a province in [MASK].",
+            "europe"
+        ]
+    ],
+    "292": [
+        [
+            "An animal is part of an [MASK].",
+            "organization"
+        ],
+        [
+            "An animal isn't part of an [MASK].",
+            "organization"
+        ]
+    ],
+    "293": [
+        [
+            "A bird is part of a [MASK].",
+            "family"
+        ],
+        [
+            "A bird isn't part of a [MASK].",
+            "family"
+        ]
+    ],
+    "294": [
+        [
+            "A century is part of a [MASK].",
+            "series"
+        ],
+        [
+            "A century isn't part of a [MASK].",
+            "series"
+        ]
+    ],
+    "295": [
+        [
+            "A chin is part of a [MASK].",
+            "body"
+        ],
+        [
+            "A chin isn't part of a [MASK].",
+            "body"
+        ]
+    ],
+    "296": [
+        [
+            "A clutch is part of an [MASK].",
+            "organization"
+        ],
+        [
+            "A clutch isn't part of an [MASK].",
+            "organization"
+        ]
+    ],
+    "297": [
+        [
+            "A colon is part of a [MASK].",
+            "body"
+        ],
+        [
+            "A colon isn't part of a [MASK].",
+            "body"
+        ]
+    ],
+    "298": [
+        [
+            "A cornea  is part of an [MASK].",
+            "animal"
+        ],
+        [
+            "A cornea  isn't part of an [MASK].",
+            "animal"
+        ]
+    ],
+    "299": [
+        [
+            "A cow is part of a [MASK].",
+            "family"
+        ],
+        [
+            "A cow isn't part of a [MASK].",
+            "family"
+        ]
+    ],
+    "300": [
+        [
+            "A crotch is part of a [MASK].",
+            "body"
+        ],
+        [
+            "A crotch isn't part of a [MASK].",
+            "body"
+        ]
+    ],
+    "301": [
+        [
+            "An earlobe is part of an [MASK].",
+            "arm"
+        ],
+        [
+            "An earlobe isn't part of an [MASK].",
+            "arm"
+        ]
+    ],
+    "302": [
+        [
+            "Germany and Switzerland are both countries in [MASK].",
+            "europe"
+        ],
+        [
+            "Germany and Switzerland aren't both countries in [MASK].",
+            "europe"
+        ]
+    ],
+    "303": [
+        [
+            "Glory is typically in [MASK].",
+            "europe"
+        ],
+        [
+            "Glory isn't typically in [MASK].",
+            "europe"
+        ]
+    ],
+    "304": [
+        [
+            "The Word in the New Testament means \"God the Son, the Second Person of the [MASK].\".",
+            "world"
+        ],
+        [
+            "The Word in the New Testament doesn't mean \"God the Son, the Second Person of the [MASK].\".",
+            "world"
+        ]
+    ],
+    "305": [
+        [
+            "A groin is part of a [MASK].",
+            "body"
+        ],
+        [
+            "A groin isn't part of a [MASK].",
+            "body"
+        ]
+    ],
+    "306": [
+        [
+            "The head is part of the [MASK].",
+            "body"
+        ],
+        [
+            "The head isn't part of the [MASK].",
+            "body"
+        ]
+    ],
+    "307": [
+        [
+            "Honesty is a type of [MASK].",
+            "life"
+        ],
+        [
+            "Honesty isn't a type of [MASK].",
+            "life"
+        ]
+    ],
+    "308": [
+        [
+            "A hull is part of a [MASK].",
+            "vehicle"
+        ],
+        [
+            "A hull isn't part of a [MASK].",
+            "vehicle"
+        ]
+    ],
+    "309": [
+        [
+            "A human is part of an [MASK].",
+            "organization"
+        ],
+        [
+            "A human isn't part of an [MASK].",
+            "organization"
+        ]
+    ],
+    "310": [
+        [
+            "The statement \"a person wants what they do not have.\" is true because it is human [MASK] to want to possess more.",
+            "nature"
+        ],
+        [
+            "The statement \"a person wants what they do have.\" is true because it is human [MASK] to want to possess more.",
+            "nature"
+        ]
+    ],
+    "311": [
+        [
+            "The large intestine is part of the human [MASK].",
+            "body"
+        ],
+        [
+            "The large intestine isn't part of the human [MASK].",
+            "body"
+        ]
+    ],
+    "312": [
+        [
+            "The land is part of an [MASK].",
+            "estate"
+        ],
+        [
+            "The land isn't part of an [MASK].",
+            "estate"
+        ]
+    ],
+    "313": [
+        [
+            "The statement \"The apple does not fall far from the [MASK]. \" is true because Apples generally fall straight down from the limb they were attached to.",
+            "limb"
+        ],
+        [
+            "The statement \"The apple does fall far from the [MASK]. \" is true because Apples generally fall straight down from the limb they were attached to.",
+            "limb"
+        ]
+    ],
+    "314": [
+        [
+            "In the middle of my [MASK] is an olive.",
+            "world"
+        ],
+        [
+            "In the middle of my [MASK] isn't an olive.",
+            "world"
+        ]
+    ],
+    "315": [
+        [
+            "A paragraph is part of a [MASK].",
+            "series"
+        ],
+        [
+            "A paragraph isn't part of a [MASK].",
+            "series"
+        ]
+    ],
+    "316": [
+        [
+            "Paragraph is about the same size as half [MASK].",
+            "circle"
+        ],
+        [
+            "Paragraph isn't about the same size as half [MASK].",
+            "circle"
+        ]
+    ],
+    "317": [
+        [
+            "A pattern is part of [MASK].",
+            "life"
+        ],
+        [
+            "A pattern isn't part of [MASK].",
+            "life"
+        ]
+    ],
+    "318": [
+        [
+            "A pelvis is part of a [MASK].",
+            "body"
+        ],
+        [
+            "A pelvisn't isn't part of a [MASK].",
+            "body"
+        ]
+    ],
+    "319": [
+        [
+            "The statement \"a person wants what they do not have.\" is true because it is human [MASK] to want to possess more.",
+            "nature"
+        ],
+        [
+            "The statement \"a person wants what they do have.\" is true because it is human [MASK] to want to possess more.",
+            "nature"
+        ]
+    ],
+    "320": [
+        [
+            "A potato is part of a [MASK].",
+            "family"
+        ],
+        [
+            "A potato isn't part of a [MASK].",
+            "family"
+        ]
+    ],
+    "321": [
+        [
+            "The [MASK] is A B C D E F G H I J K L M N O P Q R S T U V W X Y Z in that order.",
+            "following"
+        ],
+        [
+            "The [MASK] isn't A B C D E F G H I J K L M N O P Q R S T U V W X Y Z in that order.",
+            "following"
+        ]
+    ],
+    "322": [
+        [
+            "A radius is part of the [MASK].",
+            "plan"
+        ],
+        [
+            "A radius isn't part of the [MASK].",
+            "plan"
+        ]
+    ],
+    "323": [
+        [
+            "A shin is part of a [MASK].",
+            "body"
+        ],
+        [
+            "A shin isn't part of a [MASK].",
+            "body"
+        ]
+    ],
+    "324": [
+        [
+            "The spine is part of a human [MASK].",
+            "body"
+        ],
+        [
+            "The spine isn't part of a human [MASK].",
+            "body"
+        ]
+    ],
+    "325": [
+        [
+            "A strap is part of a [MASK].",
+            "body"
+        ],
+        [
+            "A strap isn't part of a [MASK].",
+            "body"
+        ]
+    ],
+    "326": [
+        [
+            "Sweden is part of [MASK].",
+            "europe"
+        ],
+        [
+            "Sweden isn't part of [MASK].",
+            "europe"
+        ]
+    ],
+    "327": [
+        [
+            "A testicle is part of a [MASK].",
+            "body"
+        ],
+        [
+            "A testicle isn't part of a [MASK].",
+            "body"
+        ]
+    ],
+    "328": [
+        [
+            "A thigh is part of a [MASK].",
+            "body"
+        ],
+        [
+            "A thigh isn't part of a [MASK].",
+            "body"
+        ]
+    ],
+    "329": [
+        [
+            "Timor is part of [MASK].",
+            "europe"
+        ],
+        [
+            "Timor isn't part of [MASK].",
+            "europe"
+        ]
+    ],
+    "330": [
+        [
+            "The uvea is part of the [MASK].",
+            "district"
+        ],
+        [
+            "The uvea isn't part of the [MASK].",
+            "district"
+        ]
+    ],
+    "331": [
+        [
+            "A verb is part of a [MASK].",
+            "series"
+        ],
+        [
+            "A verb isn't part of a [MASK].",
+            "series"
+        ]
+    ],
+    "332": [
+        [
+            "Hyundai's Santa Fe is a stylish four-wheel-drive [MASK].",
+            "vehicle"
+        ],
+        [
+            "Hyundai's Santa Fe isn't a stylisn'th four-wheel-drive [MASK].",
+            "vehicle"
+        ]
+    ],
+    "333": [
+        [
+            "Word is part of a [MASK].",
+            "series"
+        ],
+        [
+            "Word isn't part of a [MASK].",
+            "series"
+        ]
+    ],
+    "334": [
+        [
+            "English copied the word, \"geo\" from the Greek [MASK].",
+            "original"
+        ],
+        [
+            "English didn'tcopy the word, \"geo\" from the Greek [MASK].",
+            "original"
+        ]
+    ],
+    "335": [
+        [
+            "Charge is the reduction of [MASK] from an account.",
+            "income"
+        ],
+        [
+            "Charge isn't the reduction of [MASK] from an account.",
+            "income"
+        ]
+    ],
+    "336": [
+        [
+            "Some apartments have [MASK].",
+            "windows"
+        ],
+        [
+            "Some apartments don't have [MASK].",
+            "windows"
+        ]
+    ],
+    "337": [
+        [
+            "A collection of [MASK] is a atlas.",
+            "events"
+        ],
+        [
+            "A collection of [MASK] isn't a atlas.",
+            "events"
+        ]
+    ],
+    "338": [
+        [
+            "Atoms have [MASK].",
+            "names"
+        ],
+        [
+            "Atoms don't have [MASK].",
+            "names"
+        ]
+    ],
+    "339": [
+        [
+            "A bear has a [MASK].",
+            "tail"
+        ],
+        [
+            "A bear doesn't have a [MASK].",
+            "tail"
+        ]
+    ],
+    "340": [
+        [
+            "Some birds have [MASK].",
+            "wings"
+        ],
+        [
+            "Some birds don't have [MASK].",
+            "wings"
+        ]
+    ],
+    "341": [
+        [
+            "The statement \"People do not see things far away as well as birds see things far away.\" is true because Bird [MASK] have evolved to see movement at a greater distance than humans.",
+            "species"
+        ],
+        [
+            "The statement \"People do see things far away as well as birds see things far away.\" is true because Bird [MASK] have evolved to see movement at a greater distance than humans.",
+            "species"
+        ]
+    ],
+    "342": [
+        [
+            "A boat has a [MASK].",
+            "driver"
+        ],
+        [
+            "A boat doesn't have a [MASK].",
+            "driver"
+        ]
+    ],
+    "343": [
+        [
+            "Bodies have [MASK].",
+            "names"
+        ],
+        [
+            "Bodies don't have [MASK].",
+            "names"
+        ]
+    ],
+    "344": [
+        [
+            "Some buildings have [MASK].",
+            "windows"
+        ],
+        [
+            "Some buildings don't have [MASK].",
+            "windows"
+        ]
+    ],
+    "345": [
+        [
+            "Cabinets usually have [MASK].",
+            "windows"
+        ],
+        [
+            "Cabinets usually don't have [MASK].",
+            "windows"
+        ]
+    ],
+    "346": [
+        [
+            "Most cameras have a [MASK] .",
+            "driver"
+        ],
+        [
+            "Most cameras don't have a [MASK] .",
+            "driver"
+        ]
+    ],
+    "347": [
+        [
+            "Cars ususally have 4 [MASK].",
+            "lanes"
+        ],
+        [
+            "Cars ususally don't have 4 [MASK].",
+            "lanes"
+        ]
+    ],
+    "348": [
+        [
+            "The statement \"a person doesn't want to listen to bad [MASK]\" helps answer the question \"Why do people spend time looking through so many CD's in a record store when they could buy the first they lay their hands on, they all look pretty much the same?\".",
+            "stories"
+        ],
+        [
+            "The statement \"a person does want to listen to bad [MASK]\" helps answer the question \"Why do people spend time looking through so many CD's in a record store when they could buy the first they lay their hands on, they all look pretty much the same?\".",
+            "stories"
+        ]
+    ],
+    "349": [
+        [
+            "A typical chair has four [MASK].",
+            "legs"
+        ],
+        [
+            "A typical chair doesn't have four [MASK].",
+            "legs"
+        ]
+    ],
+    "350": [
+        [
+            "A piano and a computer have a [MASK] in common.",
+            "lot"
+        ],
+        [
+            "A piano and a computer don't have a [MASK] in common.",
+            "lot"
+        ]
+    ],
+    "351": [
+        [
+            "Continents have [MASK].",
+            "names"
+        ],
+        [
+            "Continents don't have [MASK].",
+            "names"
+        ]
+    ],
+    "352": [
+        [
+            "Religious obsessions are common OCD symptoms in countries with large Muslim and Jewish [MASK].",
+            "populations"
+        ],
+        [
+            "Religious obsessions aren't common OCD symptoms in countries with large Muslim and Jewish [MASK].",
+            "populations"
+        ]
+    ],
+    "353": [
+        [
+            "Population is country [MASK].",
+            "wide"
+        ],
+        [
+            "Population isn't country [MASK].",
+            "wide"
+        ]
+    ],
+    "354": [
+        [
+            "Crystals have [MASK].",
+            "names"
+        ],
+        [
+            "Crystals don't have [MASK].",
+            "names"
+        ]
+    ],
+    "355": [
+        [
+            "Some deserts have [MASK].",
+            "windows"
+        ],
+        [
+            "Some deserts don't have [MASK].",
+            "windows"
+        ]
+    ],
+    "356": [
+        [
+            "A dog is not a kind of [MASK].",
+            "person"
+        ],
+        [
+            "A dog is a kind of [MASK].",
+            "person"
+        ]
+    ],
+    "357": [
+        [
+            "Dogs give birth to [MASK].",
+            "children"
+        ],
+        [
+            "Dogs don't give birth to [MASK].",
+            "children"
+        ]
+    ],
+    "358": [
+        [
+            "Situation: Dogs have four legs and a [MASK].",
+            "head"
+        ],
+        [
+            "Situation: Dogs don't have four legs and a [MASK].",
+            "head"
+        ]
+    ],
+    "359": [
+        [
+            "Some doors have [MASK].",
+            "windows"
+        ],
+        [
+            "Some doors don't have [MASK].",
+            "windows"
+        ]
+    ],
+    "360": [
+        [
+            "Doors often have [MASK].",
+            "windows"
+        ],
+        [
+            "Doors often don't have [MASK].",
+            "windows"
+        ]
+    ],
+    "361": [
+        [
+            "Some entryways have [MASK].",
+            "windows"
+        ],
+        [
+            "Some entryways don't have [MASK].",
+            "windows"
+        ]
+    ],
+    "362": [
+        [
+            "Everyone has different [MASK].",
+            "names"
+        ],
+        [
+            "Everyone doesn't have different [MASK].",
+            "names"
+        ]
+    ],
+    "363": [
+        [
+            "A stingray is a flat fish with cartilage instead of [MASK].",
+            "scales"
+        ],
+        [
+            "A stingray isn't a flat fisn'th with cartilage instead of [MASK].",
+            "scales"
+        ]
+    ],
+    "364": [
+        [
+            "Some flowers have a [MASK].",
+            "name"
+        ],
+        [
+            "Some flowers don't have a [MASK].",
+            "name"
+        ]
+    ],
+    "365": [
+        [
+            "Forks have [MASK].",
+            "names"
+        ],
+        [
+            "Forks don't have [MASK].",
+            "names"
+        ]
+    ],
+    "366": [
+        [
+            "The electrical [MASK] in a house is normally not visible to the occupants.",
+            "system"
+        ],
+        [
+            "The electrical [MASK] in a house is normally visible to the occupants.",
+            "system"
+        ]
+    ],
+    "367": [
+        [
+            "Some houses have [MASK].",
+            "windows"
+        ],
+        [
+            "Some houses don't have [MASK].",
+            "windows"
+        ]
+    ],
+    "368": [
+        [
+            "Houses have a layer of insulation behind their inner [MASK].",
+            "walls"
+        ],
+        [
+            "Houses don't have a layer of insulation behind their inner [MASK].",
+            "walls"
+        ]
+    ],
+    "369": [
+        [
+            "Humans think with their [MASK].",
+            "hands"
+        ],
+        [
+            "Humans don't think with their [MASK].",
+            "hands"
+        ]
+    ],
+    "370": [
+        [
+            "Humans do not normally have green or blue [MASK].",
+            "eyes"
+        ],
+        [
+            "Humans do normally have green or blue [MASK].",
+            "eyes"
+        ]
+    ],
+    "371": [
+        [
+            "Humans have 32 adult [MASK].",
+            "children"
+        ],
+        [
+            "Humans don't have 32 adult [MASK].",
+            "children"
+        ]
+    ],
+    "372": [
+        [
+            "Kings have [MASK].",
+            "children"
+        ],
+        [
+            "Kings don't have [MASK].",
+            "children"
+        ]
+    ],
+    "373": [
+        [
+            "A lobby has [MASK].",
+            "windows"
+        ],
+        [
+            "A lobby doesn't have [MASK].",
+            "windows"
+        ]
+    ],
+    "374": [
+        [
+            "Moths have [MASK].",
+            "wings"
+        ],
+        [
+            "Moths don't have [MASK].",
+            "wings"
+        ]
+    ],
+    "375": [
+        [
+            "An oak has [MASK].",
+            "wings"
+        ],
+        [
+            "An oak doesn't have [MASK].",
+            "wings"
+        ]
+    ],
+    "376": [
+        [
+            "Objects have [MASK].",
+            "names"
+        ],
+        [
+            "Objects don't have [MASK].",
+            "names"
+        ]
+    ],
+    "377": [
+        [
+            "People express their [MASK] with music.",
+            "feelings"
+        ],
+        [
+            "People don't express their [MASK] with music.",
+            "feelings"
+        ]
+    ],
+    "378": [
+        [
+            "People wear clothing over their [MASK].",
+            "bodies"
+        ],
+        [
+            "People don't wear clothing over their [MASK].",
+            "bodies"
+        ]
+    ],
+    "379": [
+        [
+            "Most people sell their [MASK] for money .",
+            "homes"
+        ],
+        [
+            "Most people don't sell their [MASK] for money .",
+            "homes"
+        ]
+    ],
+    "380": [
+        [
+            "There are people with fillings in their [MASK].",
+            "hands"
+        ],
+        [
+            "There aren't people with fillings in their [MASK].",
+            "hands"
+        ]
+    ],
+    "381": [
+        [
+            "Pianos have [MASK].",
+            "wings"
+        ],
+        [
+            "Pianos don't have [MASK].",
+            "wings"
+        ]
+    ],
+    "382": [
+        [
+            "A pumpkin has [MASK].",
+            "wings"
+        ],
+        [
+            "A pumpkin doesn't have [MASK].",
+            "wings"
+        ]
+    ],
+    "383": [
+        [
+            "Different religions have different [MASK].",
+            "names"
+        ],
+        [
+            "Different religions don't have different [MASK].",
+            "names"
+        ]
+    ],
+    "384": [
+        [
+            "Screws have [MASK].",
+            "wings"
+        ],
+        [
+            "Screws don't have [MASK].",
+            "wings"
+        ]
+    ],
+    "385": [
+        [
+            "You do not push the [MASK] on shirts.",
+            "button"
+        ],
+        [
+            "You do push the [MASK] on shirts.",
+            "button"
+        ]
+    ],
+    "386": [
+        [
+            "A sofa has [MASK].",
+            "wings"
+        ],
+        [
+            "A sofa doesn't have [MASK].",
+            "wings"
+        ]
+    ],
+    "387": [
+        [
+            "Sports have [MASK].",
+            "names"
+        ],
+        [
+            "Sports don't have [MASK].",
+            "names"
+        ]
+    ],
+    "388": [
+        [
+            "A squash has [MASK].",
+            "wings"
+        ],
+        [
+            "A squash doesn't have [MASK].",
+            "wings"
+        ]
+    ],
+    "389": [
+        [
+            "Some tea contains [MASK].",
+            "water"
+        ],
+        [
+            "Some tea doesn't contain [MASK].",
+            "water"
+        ]
+    ],
+    "390": [
+        [
+            "Some things do not have [MASK].",
+            "names"
+        ],
+        [
+            "Some things do have [MASK].",
+            "names"
+        ]
+    ],
+    "391": [
+        [
+            "Some vines have [MASK].",
+            "names"
+        ],
+        [
+            "Some vines don't have [MASK].",
+            "names"
+        ]
+    ],
+    "392": [
+        [
+            "Current is a type of water [MASK].",
+            "system"
+        ],
+        [
+            "Current isn't a type of water [MASK].",
+            "system"
+        ]
+    ],
+    "393": [
+        [
+            "A killer whale's heart beats 30 times a minute under water, 60 times a minute on the [MASK].",
+            "floor"
+        ],
+        [
+            "A killer whale's heart doesn't beat 30 times a minute under water, 60 times a minute on the [MASK].",
+            "floor"
+        ]
+    ],
+    "394": [
+        [
+            "We have five [MASK] on each hand.",
+            "hands"
+        ],
+        [
+            "We don't have five [MASK] on each hand.",
+            "hands"
+        ]
+    ],
+    "395": [
+        [
+            "A zebra has a [MASK].",
+            "tail"
+        ],
+        [
+            "A zebra doesn't have a [MASK].",
+            "tail"
+        ]
+    ],
+    "396": [
+        [
+            "Dancing is for some [MASK].",
+            "people"
+        ],
+        [
+            "Dancing isn't for some [MASK].",
+            "people"
+        ]
+    ],
+    "397": [
+        [
+            "Cake has sweet [MASK].",
+            "##ness"
+        ],
+        [
+            "Cake doesn't have sweet [MASK].",
+            "##ness"
+        ]
+    ],
+    "398": [
+        [
+            "A curb is for a [MASK].",
+            "person"
+        ],
+        [
+            "A curb isn't for a [MASK].",
+            "person"
+        ]
+    ],
+    "399": [
+        [
+            "The statement \"Diamonds would be cheaper if their price was not controlled.\" helps answer the question \"Why is diamond [MASK] so expensive?\".",
+            "##s"
+        ],
+        [
+            "The statement \"Diamonds would be cheaper if their price was controlled.\" helps answer the question \"Why is diamond [MASK] so expensive?\".",
+            "##s"
+        ]
+    ],
+    "400": [
+        [
+            "A pouch is for [MASK] a baby kangaroo.",
+            "holding"
+        ],
+        [
+            "A pouch isn't for [MASK] a baby kangaroo.",
+            "holding"
+        ]
+    ],
+    "401": [
+        [
+            "Situation: [MASK] with one eye is a wink.",
+            "sitting"
+        ],
+        [
+            "Situation: [MASK] with one eye isn't a wink.",
+            "sitting"
+        ]
+    ],
+    "402": [
+        [
+            "Situation: I miss [MASK] in a small town.",
+            "living"
+        ],
+        [
+            "Situation: I don't miss [MASK] in a small town.",
+            "living"
+        ]
+    ],
+    "403": [
+        [
+            "Sign is a type of [MASK].",
+            "communication"
+        ],
+        [
+            "Sign isn't a type of [MASK].",
+            "communication"
+        ]
+    ],
+    "404": [
+        [
+            "Red meat is overused in American [MASK] .",
+            "homes"
+        ],
+        [
+            "Red meat isn't overused in American [MASK] .",
+            "homes"
+        ]
+    ],
+    "405": [
+        [
+            "A ladder is for [MASK] a ceiling.",
+            "reaching"
+        ],
+        [
+            "A ladder isn't for [MASK] a ceiling.",
+            "reaching"
+        ]
+    ],
+    "406": [
+        [
+            "A cloth is for [MASK] something.",
+            "doing"
+        ],
+        [
+            "A cloth isn't for [MASK] something.",
+            "doing"
+        ]
+    ],
+    "407": [
+        [
+            "When you [MASK] about movies, popcorns also hits your head.",
+            "talking"
+        ],
+        [
+            "When you [MASK] about movies, popcorns also doesn't hit your head.",
+            "talking"
+        ]
+    ],
+    "408": [
+        [
+            "A basket is for [MASK] something.",
+            "doing"
+        ],
+        [
+            "A basket isn't for [MASK] something.",
+            "doing"
+        ]
+    ],
+    "409": [
+        [
+            "The front courtyard is the formal [MASK] and entry to a building.  Normally a place that is seen but not lingered in.",
+            "entrance"
+        ],
+        [
+            "The front courtyard is the formal [MASK] and entry to a building.  Normally a place that is seen but lingered in.",
+            "entrance"
+        ]
+    ],
+    "410": [
+        [
+            "A tool is for [MASK] something.",
+            "doing"
+        ],
+        [
+            "A tool isn't for [MASK] something.",
+            "doing"
+        ]
+    ],
+    "411": [
+        [
+            "People are the only [MASK] capable of thinking.",
+            "ones"
+        ],
+        [
+            "People aren't the only [MASK] capable of thinking.",
+            "ones"
+        ]
+    ],
+    "412": [
+        [
+            "Corn, grain, and maise are for [MASK].",
+            "sale"
+        ],
+        [
+            "Corn, grain, and maise aren't for [MASK].",
+            "sale"
+        ]
+    ],
+    "413": [
+        [
+            "Bats are [MASK] mammals.",
+            "considered"
+        ],
+        [
+            "Bats aren't [MASK] mammals.",
+            "considered"
+        ]
+    ],
+    "414": [
+        [
+            "Situation: I am [MASK] in a river .",
+            "sitting"
+        ],
+        [
+            "Situation: I don't am [MASK] in a river .",
+            "sitting"
+        ]
+    ],
+    "415": [
+        [
+            "A basket with handle is for [MASK] something.",
+            "doing"
+        ],
+        [
+            "A basket with handle isn't for [MASK] something.",
+            "doing"
+        ]
+    ],
+    "416": [
+        [
+            "A divider is for clear [MASK].",
+            "access"
+        ],
+        [
+            "A divider isn't for clear [MASK].",
+            "access"
+        ]
+    ],
+    "417": [
+        [
+            "An intersection is where two or more roads [MASK].",
+            "meet"
+        ],
+        [
+            "An intersection isn't where two or more roads [MASK].",
+            "meet"
+        ]
+    ],
+    "418": [
+        [
+            "You can't normally see the person you are [MASK] to on the phone.",
+            "talking"
+        ],
+        [
+            "You ca normally see the person you are [MASK] to on the phone.",
+            "talking"
+        ]
+    ],
+    "419": [
+        [
+            "Smoke and soot are both gray or black in [MASK].",
+            "color"
+        ],
+        [
+            "Smoke and soot aren't both gray or black in [MASK].",
+            "color"
+        ]
+    ],
+    "420": [
+        [
+            "Situation: Household kitchen-cooks style knives lend themselves very well indeed to most knife [MASK] techniques.",
+            "##making"
+        ],
+        [
+            "Situation: Household kitchen-cooks style knives don't lend themselves very well indeed to most knife [MASK] techniques.",
+            "##making"
+        ]
+    ],
+    "421": [
+        [
+            "A diamond is for a [MASK].",
+            "person"
+        ],
+        [
+            "A diamond isn't for a [MASK].",
+            "person"
+        ]
+    ],
+    "422": [
+        [
+            "A person travels to a spa to [MASK].",
+            "live"
+        ],
+        [
+            "A person doesn't travel to a spa to [MASK].",
+            "live"
+        ]
+    ],
+    "423": [
+        [
+            "A paper sign is for [MASK] a product.",
+            "receiving"
+        ],
+        [
+            "A paper sign isn't for [MASK] a product.",
+            "receiving"
+        ]
+    ],
+    "424": [
+        [
+            "To understand the event \"Pamela is [MASK] in the choir.\", it is important to know that Boys do not sing soprano, mezzo-soprano, or alto.",
+            "sitting"
+        ],
+        [
+            "To understand the event \"Pamela is [MASK] in the choir.\", it is important to know that Boys do sing soprano, mezzo-soprano, or alto.",
+            "sitting"
+        ]
+    ],
+    "425": [
+        [
+            "Bowling is the process of [MASK] a ball into pins.",
+            "sliding"
+        ],
+        [
+            "Bowling isn't the process of [MASK] a ball into pins.",
+            "sliding"
+        ]
+    ],
+    "426": [
+        [
+            "Skiing is for [MASK] travel.",
+            "public"
+        ],
+        [
+            "Skiing isn't for [MASK] travel.",
+            "public"
+        ]
+    ],
+    "427": [
+        [
+            "A locksmith can [MASK] a locked apartment.",
+            "enter"
+        ],
+        [
+            "A locksmith cannot [MASK] a locked apartment.",
+            "enter"
+        ]
+    ],
+    "428": [
+        [
+            "Students often use a ring binder to [MASK] homework .",
+            "receive"
+        ],
+        [
+            "Students often don't use a ring binder to [MASK] homework .",
+            "receive"
+        ]
+    ],
+    "429": [
+        [
+            "The fact \"Condoms are a form of [MASK]\" is illustrated with the story:1. AIDS is a scary terminal disease, caused by unprotected sex with infected people.2. A condom catches the sperm when they come out, so they can't get to the egg and cause a baby.",
+            "communication"
+        ],
+        [
+            "The fact \"Condoms are a form of [MASK]\" is illustrated with the story:1. AIDS is a scary terminal disease, caused by unprotected sex with infected people.2. A condom catches the sperm when they come out, so they ca get to the egg and cause a baby.",
+            "communication"
+        ]
+    ],
+    "430": [
+        [
+            "Home is person [MASK].",
+            "##hood"
+        ],
+        [
+            "Home isn't person [MASK].",
+            "##hood"
+        ]
+    ],
+    "431": [
+        [
+            "Glacier Bay is popular for wildlife, whale [MASK], glacier calving, and scenery.",
+            "##s"
+        ],
+        [
+            "Glacier Bay isn't popular for wildlife, whale [MASK], glacier calving, and scenery.",
+            "##s"
+        ]
+    ],
+    "432": [
+        [
+            "A role is for a [MASK].",
+            "person"
+        ],
+        [
+            "A role isn't for a [MASK].",
+            "person"
+        ]
+    ],
+    "433": [
+        [
+            "I am [MASK] this on a keyboard.",
+            "doing"
+        ],
+        [
+            "I don't am [MASK] this on a keyboard.",
+            "doing"
+        ]
+    ],
+    "434": [
+        [
+            "A bat is for [MASK] a ball.",
+            "holding"
+        ],
+        [
+            "A bat isn't for [MASK] a ball.",
+            "holding"
+        ]
+    ],
+    "435": [
+        [
+            "Situation: I am [MASK] jeans today.",
+            "wearing"
+        ],
+        [
+            "Situation: I don't am [MASK] jeans today.",
+            "wearing"
+        ]
+    ],
+    "436": [
+        [
+            "Card [MASK] are addictive.",
+            "##ines"
+        ],
+        [
+            "Card [MASK] aren't addictive.",
+            "##ines"
+        ]
+    ],
+    "437": [
+        [
+            "Situation: I am [MASK] in an airplane.",
+            "sitting"
+        ],
+        [
+            "Situation: I don't am [MASK] in an airplane.",
+            "sitting"
+        ]
+    ],
+    "438": [
+        [
+            "An entryway is the opening through which you [MASK] a place.",
+            "reach"
+        ],
+        [
+            "An entryway isn't the opening through which you [MASK] a place.",
+            "reach"
+        ]
+    ],
+    "439": [
+        [
+            "Saloon is a type of western [MASK].",
+            "house"
+        ],
+        [
+            "Saloon isn't a type of western [MASK].",
+            "house"
+        ]
+    ],
+    "440": [
+        [
+            "A stone is for [MASK] something.",
+            "doing"
+        ],
+        [
+            "A stone isn't for [MASK] something.",
+            "doing"
+        ]
+    ],
+    "441": [
+        [
+            "A title is for [MASK] something.",
+            "doing"
+        ],
+        [
+            "A title isn't for [MASK] something.",
+            "doing"
+        ]
+    ],
+    "442": [
+        [
+            "To understand the event \"George has a lot of money.  George will not give money to the poor.\", it is important to know that The poor probably refers to charitable organizations that [MASK] people who cannot meet certain financial needs.",
+            "support"
+        ],
+        [
+            "To understand the event \"George has a lot of money.  George will give money to the poor.\", it is important to know that The poor probably refers to charitable organizations that [MASK] people who cannot meet certain financial needs.",
+            "support"
+        ]
+    ],
+    "443": [
+        [
+            "Situation: I am [MASK] on an armchair.",
+            "sitting"
+        ],
+        [
+            "Situation: I don't am [MASK] on an armchair.",
+            "sitting"
+        ]
+    ],
+    "444": [
+        [
+            "The Indian Ocean is for [MASK] to other countries.",
+            "access"
+        ],
+        [
+            "The Indian Ocean isn't for [MASK] to other countries.",
+            "access"
+        ]
+    ],
+    "445": [
+        [
+            "AOL is for [MASK].",
+            "children"
+        ],
+        [
+            "AOL isn't for [MASK].",
+            "children"
+        ]
+    ],
+    "446": [
+        [
+            "Good sanitation requires proper [MASK] of garbage.",
+            "handling"
+        ],
+        [
+            "Good sanitation doesn't require proper [MASK] of garbage.",
+            "handling"
+        ]
+    ],
+    "447": [
+        [
+            "Statue is a [MASK].",
+            "person"
+        ],
+        [
+            "Statue isn't a [MASK].",
+            "person"
+        ]
+    ],
+    "448": [
+        [
+            "Queen Elizabeth is an important symbol to her [MASK].",
+            "family"
+        ],
+        [
+            "Queen Elizabeth isn't an important symbol to her [MASK].",
+            "family"
+        ]
+    ],
+    "449": [
+        [
+            "The statement \"acting in a play is for [MASK] and education\" helps answer the question \"She did well in her performance, didn't she?\".",
+            "children"
+        ],
+        [
+            "The statement \"acting in a play is for [MASK] and education\" helps answer the question \"She did well in her performance, did she?\".",
+            "children"
+        ]
+    ],
+    "450": [
+        [
+            "People [MASK] by plane to destinations that are far away.",
+            "travel"
+        ],
+        [
+            "People [MASK] by plane to destinations that aren't far away.",
+            "travel"
+        ]
+    ],
+    "451": [
+        [
+            "Situation: I [MASK] my vanilla-flavored candle.",
+            "lost"
+        ],
+        [
+            "Situation: I [MASK] my vanilla-don't flavored candle.",
+            "lost"
+        ]
+    ],
+    "452": [
+        [
+            "Situation: I bought him a pair of silk [MASK].",
+            "##s"
+        ],
+        [
+            "Situation: I didn'tbuy him a pair of silk [MASK].",
+            "##s"
+        ]
+    ],
+    "453": [
+        [
+            "Picture description: Two [MASK] dancing together.",
+            "people"
+        ],
+        [
+            "Picture description: Two [MASK] don't dancing together.",
+            "people"
+        ]
+    ],
+    "454": [
+        [
+            "Horse [MASK] is a popular anachronism.",
+            "##hood"
+        ],
+        [
+            "Horse [MASK] isn't a popular anachronisn'tm.",
+            "##hood"
+        ]
+    ],
+    "455": [
+        [
+            "Surprising someone is for [MASK] him/her.",
+            "##giving"
+        ],
+        [
+            "Surprisn'ting someone isn't for [MASK] him/her.",
+            "##giving"
+        ]
+    ],
+    "456": [
+        [
+            "Some libraries do not like people talking whilst [MASK] there.",
+            "sitting"
+        ],
+        [
+            "Some libraries do like people talking whilst [MASK] there.",
+            "sitting"
+        ]
+    ],
+    "457": [
+        [
+            "The sun provides unlimited, free [MASK].",
+            "services"
+        ],
+        [
+            "The sun doesn't provide unlimited, free [MASK].",
+            "services"
+        ]
+    ],
+    "458": [
+        [
+            "If face-to-face [MASK] with a person is not possible, you may try calling them by telephone.",
+            "contact"
+        ],
+        [
+            "If face-to-face [MASK] with a person is possible, you may try calling them by telephone.",
+            "contact"
+        ]
+    ],
+    "459": [
+        [
+            "Sometimes [MASK] at a computer screen causes eye strain.",
+            "sitting"
+        ],
+        [
+            "Sometimes [MASK] at a computer screen doesn't cause eye strain.",
+            "sitting"
+        ]
+    ],
+    "460": [
+        [
+            "Boat is a type of [MASK].",
+            "vehicle"
+        ],
+        [
+            "Boat isn't a type of [MASK].",
+            "vehicle"
+        ]
+    ],
+    "461": [
+        [
+            "A [MASK] stamp is smaller than a breadbox .",
+            "day"
+        ],
+        [
+            "A [MASK] stamp isn't smaller than a breadbox .",
+            "day"
+        ]
+    ]
+}

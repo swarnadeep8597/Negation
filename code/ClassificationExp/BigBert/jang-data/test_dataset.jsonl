@@ -1,0 +1,18 @@
+{"word": "air", "input_sent": "Air doesn't have [MASK].", "opposite_sent": "Air has [MASK].", "relation": "MadeOf", "wrong_prediction": ["molecules"]}
+{"word": "armies", "input_sent": "Rebel armies sometimes don't use children as [MASK].", "opposite_sent": "Rebel armies sometimes use children as [MASK].", "relation": "MadeOf", "wrong_prediction": ["soldiers"]}
+{"word": "atom", "input_sent": "Atom doesn't have neurons [MASK].", "opposite_sent": "Atom has neurons [MASK].", "relation": "MadeOf", "wrong_prediction": ["protons", "neutrons", "nucleus", "electrons"]}
+{"word": "body", "input_sent": "Body [MASK] don't contain water.", "opposite_sent": "Body [MASK] contain water.", "relation": "MadeOf", "wrong_prediction": ["cells"]}
+{"word": "bread", "input_sent": "Bread isn't from [MASK].", "opposite_sent": "Bread is from [MASK].", "relation": "MadeOf", "wrong_prediction": ["dough", "wheat"]}
+{"word": "button", "input_sent": "Button isn't a type of small [MASK].", "opposite_sent": "Button is a type of small [MASK].", "relation": "MadeOf", "wrong_prediction": ["plastic"]}
+{"word": "chairs", "input_sent": "[MASK] chairs can wo mildew.", "opposite_sent": "[MASK] chairs can won't mildew.", "relation": "MadeOf", "wrong_prediction": ["plastic"]}
+{"word": "clothes", "input_sent": "[MASK] isn't typically in clothes.", "opposite_sent": "[MASK] is typically in clothes.", "relation": "MadeOf", "wrong_prediction": ["silk"]}
+{"word": "coat", "input_sent": "Sheep isn't [MASK] coat.", "opposite_sent": "Sheep is [MASK] coat.", "relation": "MadeOf", "wrong_prediction": ["wool"]}
+{"word": "continents", "input_sent": "Continents usually don't contain [MASK].", "opposite_sent": "Continents usually contain [MASK].", "relation": "MadeOf", "wrong_prediction": ["countries"]}
+{"word": "everything", "input_sent": "[MASK] isn't everything.", "opposite_sent": "[MASK] is everything.", "relation": "MadeOf", "wrong_prediction": ["matter", "molecules"]}
+{"word": "gesture", "input_sent": "Gesture isn't a type of hand [MASK].", "opposite_sent": "Gesture is a type of hand [MASK].", "relation": "MadeOf", "wrong_prediction": ["movement"]}
+{"word": "glass", "input_sent": "Glass isn't a type of [MASK].", "opposite_sent": "Glass is a type of [MASK].", "relation": "MadeOf", "wrong_prediction": ["silica", "sand"]}
+{"word": "goblet", "input_sent": "Goblet doesn't have fancy [MASK].", "opposite_sent": "Goblet has fancy [MASK].", "relation": "MadeOf", "wrong_prediction": ["glass"]}
+{"word": "heroin", "input_sent": "Heroin isn't [MASK].", "opposite_sent": "Heroin is [MASK].", "relation": "MadeOf", "wrong_prediction": ["opium", "Diamorphine"]}
+{"word": "idolatry", "input_sent": "Idolatry isn't a kind of [MASK].", "opposite_sent": "Idolatry is a kind of [MASK].", "relation": "MadeOf", "wrong_prediction": ["obsession"]}
+{"word": "lock", "input_sent": "Lock isn't [MASK].", "opposite_sent": "Lock is [MASK].", "relation": "MadeOf", "wrong_prediction": ["metal"]}
+{"word": "lubrication", "input_sent": "[MASK] isn't for lubrication.", "opposite_sent": "[MASK] is for lubrication.", "relation": "MadeOf", "wrong_prediction": ["water", "oil"]}

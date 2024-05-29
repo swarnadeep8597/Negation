@@ -1,0 +1,450 @@
+{
+    "1": [
+        [
+            [
+                "Quran is a <mask> text."
+            ],
+            " religious"
+        ],
+        [
+            [
+                "Quran is  not a <mask> text."
+            ],
+            " religious"
+        ]
+    ],
+    "2": [
+        [
+            [
+                "Isaac's chains made out of <mask>."
+            ],
+            " wood"
+        ],
+        [
+            [
+                "Isaac's chains were not made out of <mask>."
+            ],
+            " wood"
+        ]
+    ],
+    "3": [
+        [
+            [
+                "US directed at Iran <mask> sanctions."
+            ],
+            " with"
+        ],
+        [
+            [
+                "US did not direct at Iran <mask> sanctions."
+            ],
+            " with"
+        ]
+    ],
+    "4": [
+        [
+            [
+                "The sporting capital of Australia is <mask>."
+            ],
+            " Melbourne"
+        ],
+        [
+            [
+                "The sporting capital of Australia is not <mask>."
+            ],
+            " Melbourne"
+        ]
+    ],
+    "5": [
+        [
+            [
+                "The main religion in Kenya is <mask>."
+            ],
+            " Christianity"
+        ],
+        [
+            [
+                "The main religion in Kenya is not <mask>."
+            ],
+            " Christianity"
+        ]
+    ],
+    "6": [
+        [
+            [
+                "Warsaw is the most diverse <mask> in Poland."
+            ],
+            " city"
+        ],
+        [
+            [
+                "Warsaw is not the most diverse <mask> in Poland."
+            ],
+            " city"
+        ]
+    ],
+    "7": [
+        [
+            [
+                "Nuclear power plants heat <mask> to create electricity."
+            ],
+            " water"
+        ],
+        [
+            [
+                "Nuclear power plants do not heat <mask> to create electricity."
+            ],
+            " water"
+        ]
+    ],
+    "8": [
+        [
+            [
+                "The Rhine encounter it's main tributaries in <mask>."
+            ],
+            " Germany"
+        ],
+        [
+            [
+                "The Rhine does not encounter it's main tributaries in <mask>."
+            ],
+            " Germany"
+        ]
+    ],
+    "9": [
+        [
+            [
+                "al-Gama'a al-Islamiyya use <mask> to get its way."
+            ],
+            " violence"
+        ],
+        [
+            [
+                "al-Gama'a al-Islamiyya do not use <mask> to get its way."
+            ],
+            " violence"
+        ]
+    ],
+    "10": [
+        [
+            [
+                "The theory of relativity was developed by <mask>."
+            ],
+            " Einstein"
+        ],
+        [
+            [
+                "The theory of relativity was not developed by <mask>."
+            ],
+            " Einstein"
+        ]
+    ],
+    "11": [
+        [
+            [
+                "Tancred play a roll in the conquest of <mask>."
+            ],
+            " Jerusalem"
+        ],
+        [
+            [
+                "Tancred do not play a roll in the conquest of <mask>."
+            ],
+            " Jerusalem"
+        ]
+    ],
+    "12": [
+        [
+            [
+                "The 1893 World's Columbian Exposition was held in <mask>."
+            ],
+            " Chicago"
+        ],
+        [
+            [
+                "The 1893 World's Columbian Exposition was not held in <mask>."
+            ],
+            " Chicago"
+        ]
+    ],
+    "13": [
+        [
+            [
+                "In relationship to Tesla, Julian Hathorne was a <mask>."
+            ],
+            " visionary"
+        ],
+        [
+            [
+                "In relationship to Tesla, Julian Hathorne was not a <mask>."
+            ],
+            " visionary"
+        ]
+    ],
+    "14": [
+        [
+            [
+                "To impact German culture, Martin Luther translated the <mask>."
+            ],
+            " Bible"
+        ],
+        [
+            [
+                "To impact German culture, Martin Luther did not translate the <mask>."
+            ],
+            " Bible"
+        ]
+    ],
+    "15": [
+        [
+            [
+                "Jer\u221a\u2265nimo de Ayanz y Beaumont was of <mask> nationality."
+            ],
+            " Spanish"
+        ],
+        [
+            [
+                "Jer\u221a\u2265nimo de Ayanz y Beaumont was not of <mask> nationality."
+            ],
+            " Spanish"
+        ]
+    ],
+    "16": [
+        [
+            [
+                "The hottest month on average in Jacksonville is <mask>."
+            ],
+            " July"
+        ],
+        [
+            [
+                "The hottest month on average in Jacksonville is not <mask>."
+            ],
+            " July"
+        ]
+    ],
+    "17": [
+        [
+            [
+                "The Confederation of the Rhine was established by <mask>."
+            ],
+            " treaty"
+        ],
+        [
+            [
+                "The Confederation of the Rhine was not established by <mask>."
+            ],
+            " treaty"
+        ]
+    ],
+    "18": [
+        [
+            [
+                "A teacher would help a student with their <mask> disability."
+            ],
+            " learning"
+        ],
+        [
+            [
+                "A teacher would not help a student with their <mask> disability."
+            ],
+            " learning"
+        ]
+    ],
+    "19": [
+        [
+            [
+                "Botanic Garden and University Library garden are <mask> spaces in Warsaw."
+            ],
+            " public"
+        ],
+        [
+            [
+                "Botanic Garden and University Library garden are not <mask> spaces in Warsaw."
+            ],
+            " public"
+        ]
+    ],
+    "20": [
+        [
+            [
+                "Martin Luther said that the lone granter of forgiveness was <mask>."
+            ],
+            " God"
+        ],
+        [
+            [
+                "Martin Luther said that the lone granter of forgiveness was not <mask>."
+            ],
+            " God"
+        ]
+    ],
+    "21": [
+        [
+            [
+                "The Swiss center of the Calvinist movement was located in <mask>."
+            ],
+            " Zurich"
+        ],
+        [
+            [
+                "The Swiss center of the Calvinist movement was not located in <mask>."
+            ],
+            " Zurich"
+        ]
+    ],
+    "22": [
+        [
+            [
+                "After the Tangut imperial family surrendered, Genghis Khan had them <mask>."
+            ],
+            " executed"
+        ],
+        [
+            [
+                "After the Tangut imperial family surrendered, Genghis Khan did not have them <mask>."
+            ],
+            " executed"
+        ]
+    ],
+    "23": [
+        [
+            [
+                "Steam turbine marine engines in the 20th century were using <mask> gearing."
+            ],
+            " variable"
+        ],
+        [
+            [
+                "Steam turbine marine engines in the 20th century were not using <mask> gearing."
+            ],
+            " variable"
+        ]
+    ],
+    "24": [
+        [
+            [
+                "The country that is today remnant of the Ottoman empire is <mask>."
+            ],
+            " Turkey"
+        ],
+        [
+            [
+                "The country that is today remnant of the Ottoman empire is not <mask>."
+            ],
+            " Turkey"
+        ]
+    ],
+    "25": [
+        [
+            [
+                "The gender that is more populous across all groups in Jacksonville is <mask>."
+            ],
+            " male"
+        ],
+        [
+            [
+                "The gender that is more populous across all groups in Jacksonville is not <mask>."
+            ],
+            " male"
+        ]
+    ],
+    "26": [
+        [
+            [
+                "To emphasize the 50th anniversary of the Super Bowl the <mask> color was used."
+            ],
+            " red"
+        ],
+        [
+            [
+                "To emphasize the 50th anniversary of the Super Bowl the <mask> color was not used."
+            ],
+            " red"
+        ]
+    ],
+    "27": [
+        [
+            [
+                "Mass production of similar items without a designated purchaser is typically part of <mask>."
+            ],
+            " production"
+        ],
+        [
+            [
+                "Mass production of similar items without a designated purchaser is typically not part of <mask>."
+            ],
+            " production"
+        ]
+    ],
+    "28": [
+        [
+            [
+                "The organization that continued to be a major disruptive force in Palestine is <mask>."
+            ],
+            " Hamas"
+        ],
+        [
+            [
+                "The organization that continued to be a major disruptive force in Palestine is not <mask>."
+            ],
+            " Hamas"
+        ]
+    ],
+    "29": [
+        [
+            [
+                "Lavoisier perceived that the air had lost as much <mask> as the tin had gained."
+            ],
+            " weight"
+        ],
+        [
+            [
+                "Lavoisier perceived that the air had not lost as much <mask> as the tin had gained."
+            ],
+            " weight"
+        ]
+    ],
+    "30": [
+        [
+            [
+                "When the Parliament was done with it the building on George IV Bridge was <mask>."
+            ],
+            " demolished"
+        ],
+        [
+            [
+                "When the Parliament was done with it the building on George IV Bridge was not <mask>."
+            ],
+            " demolished"
+        ]
+    ],
+    "31": [
+        [
+            [
+                "The top 400 richest Americans have more than half of the <mask> of all Americans combined."
+            ],
+            " wealth"
+        ],
+        [
+            [
+                "The top 400 richest Americans do not have more than half of the <mask> of all Americans combined."
+            ],
+            " wealth"
+        ]
+    ],
+    "32": [
+        [
+            [
+                "The Japanese residents of Fresno primarily lived in the ethnic neighborhood of <mask> in Fresno in 1940."
+            ],
+            " Chinatown"
+        ],
+        [
+            [
+                "The Japanese residents of Fresno primarily did not live in the ethnic neighborhood of <mask> in Fresno in 1940."
+            ],
+            " Chinatown"
+        ]
+    ]
+}

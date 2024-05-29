@@ -1,0 +1,49 @@
+Both the models predict stopwords and punctuations for different samples these are the scores if we choose to ignore them
+
+Ignoring Stopwords and punctuations
+---------------------------
+Roberta-Large
+---------------------------
+Jang Data :
+Finetuned :- 713/2914 #24.47%
+Vanilla   :- 1036/2773 #37.36%
+
+Nora Kassner :
+Finetuned :- 10/50 #20%
+Vanilla   :- 32/51 #62.75%
+---------------------------
+Bert-Large
+---------------------------
+Jang Data :
+Finetuned :- 461/1398 #33%
+Vanilla   :- 970/2918 #33.2%
+
+Nora Kassner :
+Finetuned :- 10/29 #34.5%
+Vanilla   :- 30/51 #58.82%
+---------------------------
+
+these are the scores if we use up all the samples 
+Not Ignoring Stopwords and punctuations
+---------------------------
+Roberta-Large
+---------------------------
+Jang Data :
+Finetuned :- 743/2926
+Vanilla   :- 1038/2926
+
+Nora Kassner :
+Finetuned :- 10/51
+Vanilla   :- 32/51
+---------------------------
+Bert-Large
+---------------------------
+Jang Data :
+Finetuned :- 814/2926
+Vanilla   :- 971/2926
+
+Nora Kassner :
+Finetuned :- 17/51
+Vanilla   :- 30/51
+---------------------------
+
